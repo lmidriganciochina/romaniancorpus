@@ -5,7 +5,7 @@ Romanian is a Eastern - Romance language, that developed in Southeastern Europe 
 ### 	What is a Corpus?
 A corpus is essentially a collection of written text, transcribed spoken language, a combination of both, or transcribed video recordings of signed language samples. 
 
-```markdown
+
 
 # Characteristics of the Romanian Corpus:
 ## Corpus Type 
@@ -23,7 +23,7 @@ A corpus is essentially a collection of written text, transcribed spoken languag
 ### Authors 
 - The corpus data come (currently) from 381 authors 
  
-```
+
 
 #### Acknowledgements
 We would like to thank Kenji Sagae, Ph.D., for suggestions and comments during the data collection. Aishwarya Jaggannath, Luci Sanchez Ortega, Victoria Boyd and Diana Malancea for helping with data collection and data computerization. 
