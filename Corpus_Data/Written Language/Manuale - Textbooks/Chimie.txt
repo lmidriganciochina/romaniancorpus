@@ -1,0 +1,3288 @@
+﻿Capitolul I
+NOŢIUNI FUNDAMENTALE
+1.1. Materia.
+Universul este format din materie, prezentă sub două forme: substanţă şi
+energie radiantă.
+Materia este în continuă transformare.
+Substanţa reprezintă o formă de existenţă a materiei cu o compoziţie şi
+structură definită.
+O anumită cantitate dintr-o substanţă sub o formă şi un volum oarecare,
+reprezintă un corp realizat din substanţa respectivă (de exemplu: dacă
+considerăm ca substanţă - fierul, un cui reprezintă un corp realizat din fier).
+Substanţele se clasifică în substanţe pure şi amestecuri.
+Substanţa pură are o compoziţie determinată, indiferent de modul de
+obţinere şi are proprietăţi fizice constante (densitate, temperatura de topire, de
+fierbere, lichefiere etc.), iar prin procedee fizice obişnuite, nu poate fi
+descompusă în alte substanţe.
+În natură, în cele mai multe cazuri, substanţele nu sunt pure, ci impure,
+adică conţin şi alte substanţe denumite “impurităţi “.
+Purificarea substanţelor impure poate fi realizată prin diferite procedee,
+funcţie de starea de agregare: filtrare, decantare, distilare, evaporare, cristalizare.
+Substanţele pure pot fi:
+- substanţe simple, care prin metode chimice nu pot fi descompuse în alte
+componente - cu caracter de metal ( cupru, sodiu, calciu, fier), cu caracter de
+nemetal (oxigen, azot, clor, sulf, carbon)) sau cu caracter de metal şi nemetal
+(stibiu, arsen);
+1
+- substanţe compuse (denumite şi combinaţii) care rezultă din combinarea a
+două sau mai multe substanţe simple şi pot fi descompuse în substanţele din care
+s-au obţinut ( sulfat de sodiu, sulfură de fie, carbonat de calciu).
+Amestecurile sunt formate din diferite cantităţi de substanţe diferite,
+putând fi omogene sau eterogene.
+Amestecul omogen are aceleaşi proprietăţi în tot volumul său (de exemplu:
+soluţia de zahăr), spre deosebire de amestecul eterogen (de exemplu: laptele).
+În amestecuri, fiecare substanţă componentă îşi păstrează proprietăţile
+specifice (de exemplu: amestecul de pilitură de fier şi sulf). În anumite condiţii,
+de exemplu , sub acţiunea căldurii, dintr-un amestec de două sau mai multe
+substanţe se formează una sau mai multe substanţe cu proprietăţi diferite de cele
+ale componentelor; înseamnă că a avut loc o transformare chimică (reacţie
+chimică), iar rezultatul este o combinaţie chimică (de exemplu: prin încălzirea
+amestecului de pilitură de fier şi sulf se obţine sulfura de fier).
+1.2. Transformările materiei
+Transformările materiei au loc prin mişcare, care reprezintă o formă de
+existenţă a materiei. Fenomenele care au loc în univers se datorează
+diferitelor tipuri de mişcare a materiei: mecanică, fizică, chimică, biologică, ce
+constituie obiectul de studiu a diferitelor ramuri ale chimiei. Mişcarea mecanică
+a materiei reprezintă deplasarea unui corp în spaţiu; mişcarea fizică constă în
+mişcarea moleculelor (căldura); mişcarea fotonilor cauzează lumina, mişcarea
+electronilor –electricitatea; mişcarea chimică constă în cedarea şi acceptarea de
+electroni ai atomilor; mişcarea biologică reprezintă o formă complexă de
+mişcare a materiei vii ( organisme vegetale, animale).
+Chimia este ştiinţa fundamentală care studiază materia şi transformările
+sale.
+Transformările suferite de materie pot fi de natură fizică sau chimică.
+2
+ Prin transformările fizice (fenomene fizice) se modifică proprietăţile
+fizice ale materiei, fără a rezulta substanţe noi, pe când transformările chimice
+(fenomenele chimice) modifică proprietăţile chimice ale materiei, ducând la
+apariţia de substanţe noi.
+Chimia studiază starea generală, compoziţia, structura, obţinerea,
+proprietăţile şi tranformările substanţelor, cauzele şi legile după care au loc
+acestea din urmă. Chimia cuprinde două mari domenii: chimia organică în
+cadrul căreie se studiază materia alcătuită din compuşii carbonului (hidrocarburi
+şi derivaţii acestora) şi chimia anorganică care studiază subtanţele care nu
+conţin carbon, cu excepţia unor compuşi simpli ai carbonului (oxizi, carbonaţi,
+carburi).
+Proprietăţile substanţelor, modalităţile şi procedeele utilizate, fac obiectul
+de studiu şi cercetare a ramurilor chimiei:
+- chimia fizică – studiul proprietăţile fizice ale substanţelor şi relaţia
+dintre energie şi transformăirile chimice;
+- electrochimia- studiul reacţiilor chimice, ca urmare a efectului
+electricităţii şi a reacţiilor chimice însoţite de fenomene electrice;
+- fotochimia – studiul proceselor chimice produse sub influenţa luminii;
+- radiochimia – studiul proprietăţilor subtanţelor radioactive;
+- chimia analitică – identificarea şi determinarea cantitativă a
+elementelor compomnente ale substanţelor;
+- chimia nucleară – studiul transformărilor nucleelor atomice, procesele
+nucleare şi a atomilor obţinuţi prin reacţii nucleare;
+- chimia industrială – studiul obţinerii substanţelor chimice la scară
+industrială ( procedee, instalaţii şi tehnologii industriale);
+- chimia biologică (biochimia) – studiul mecanismelor în organismele
+vii;
+- chimia agricolă (agrochimia))– studiul proceselor chimice din
+domeniul agriculturii (cultura, creşterea plantelor);
+3
+- geochimia – studiul compoziţiei straturilor geologice ale Pământului.
+Chimia studiază compoziţia substanţelor compuse, prin doua metode
+fundamentale:
+- analiza chimică, metoda de descompunere a substanţei compuse în
+componentele din care este alcătuită ( determinarea identităţii şi /sau a
+cantităţii fiecărui component);
+- sinteza chimică, obţinerea unei substanţe compuse din substanţele componente
+din care trebuie formată.
+În natură, substanţele simple se găsesc în stare liberă, dar în compoziţia
+substanţelor nou formate, ele devin elemente chimice.
+1.2.1. Transformările fizice
+Stările de agregare ale materiei
+În anumite condiţii de temperatură şi presiune, substanţa se află într-o
+stare fizică denumită stare de agregare.
+În condiţii obişnuite, materia poate exista în trei stări de agregare: solidă,
+lichidă, gazoasă, determinate de tendinţa de apropiere şi respectiv, de împrăştire
+a particulelor componente.
+Starea solidă
+- materia are formă şi volum propriu; particulele componente (atomi, ioni,
+molecule) au energie cinetică redusă şi sunt strâns unite datorită unor forţe de
+atracţie puternice;
+- structura poate fi cristalină, ordonată, datorită particulelor care formează reţele
+cristaline (zahărul, sarea) sau amorfă, neordonată (masele plastice, ceara);
+- relaţia dintre masa, volumul şi densitatea caracteristice subtanţei solide este:
+m = V · ρ
+4
+Starea lichidă
+- materia are volum propriu şi ia forma vasului în care se află; nu au formă
+proprie (apa, laptele, vinul) datorită forţelor de atracţie mai slabe dintre particule
+decât în cazul substanţelor solide;
+- relaţia dintre masa, volumul şi densitatea lichidului este:
+m = V · ρ
+Starea gazoasă
+- materia nu are volum şi formă proprie;
+- particulele componente au o mare mobilitate şi ocupă volumul vasului în care
+se află ( gaz metan, oxigen, oxid de carbon);
+Plasma
+- forma a materiei care există numai în condiţii de temperatură înaltă:
+- este un gaz ionizat format din atomi, ioni, electroni, şi fotoni ce formează un
+amestec neutru din punct de vedere electric (flacăra, fulgerul, stelele, Soarele);
+- se găseşte în proporţie de 90% în univers.
+În anumite condiţii normale de temperatură şi presiune, o substanţă se
+poate afla în una din stările de agregare: solidă, lichidă sau gazoasă.
+Transformările de stare ale substanţelor pot fi reprezentate scematic,
+astfel:
+Sublimare
+ →→→ →→→→→→→→→→→→
+ ↑ topire vaporizare ↓
+SOLID →→→ LICHID →→→ GAZ
+↑ ←←← ←←← ↓
+ solidificare condensare
+ ←←←←←←←←←←←←←←←
+desublimare
+5
+Topirea reprezintă trecerea unei substanţe din starea solidă în starea
+lichidă, prin absorbţie de căldură, procesul invers, fiind denumit solidificare.
+Vaporizarea este trecerea substanţei din starea lichidă în stare gazoasă
+prin absorbţie de căldură şi poate fi realizată prin evaporare sau fierbere;
+procesul invers este condensarea.
+Lichefierea este procesul de trecere a unei substanţe gazoase în stare
+lichidă la temperatură obişnuită, dar sub acţiunea presiunii.
+Sublimarea constă în trecerea unei substanţe din starea solidă direct în
+stare de vapori.
+1.2.2. Transformările chimice
+Reacţiile chimice transformă substanţele în alte substanţe cu compoziţie,
+structură, proprietăţi fizice şi chimice diferite de cele ale substanţelor iniţiale.
+Reacţiile chimice sunt de diferite tipuri:
+- reacţii de combinare a două substanţe sau mai multe substanţe (reactivi) din
+care rezultă o nouă substanţă (produs de reacţie):
+A + B = A B
+- reacţii de descompunere a unei substanţe în două saumai multe substanţe noi:
+AB = A + B
+- reacţii de substituţie prin care un element înlocuieşte un alt element din alt
+compus chimic:
+ A B + C → A C + B
+- reacţii de dublu schimb în care elementele unui compus binar înlocuiesc câte
+un alt element din celălat compus binar, rezultând doi noi compuşi chimici:
+ A B + C D → A C + B D
+6
+1.3. Compoziţia chimică a materiei
+În natură, elementele chimice se găsesc fie sub formă de substanţe libere
+simple (hidrogenul, clorul, oxigenul, sodiul), fie sub formă de substanţe
+compuse (carbonaţi, azotaţi, sulfaţi, apa).
+În scoarţa pământului (litosfera), învelişul apos (hidrosfera) şi învelişul
+gazos al pământului (atmosfera), elementele predominante din natură, sunt:
+oxigenul(50%), siliciul (25%), precum şi aluminiul, fierul, calciul, sodiul,
+potasiul, magneziul, hidrogenul, titanul, clorul şi fosforul ( cca. 25%).
+1.3.1.Compoziţia chimică a materiei vii
+Ca urmare a procesului de evoluţie, materia vie, vegetală şi animală, are o
+compoziţie chimică deosebit de complexă, cu forme diverse determinate de
+conţinutul de apă şi de substanţă uscată constituită din:
+- substanţe organice: glucide, protide, acizi nucleici, enzime, vitamine, lipide,
+hormoni, fitohormoni, pigmenţi, lignine, taninuri, terpenoide,
+alcaloizi;
+- substanţe anorganice (substanţe minerale) clasificate în macroelemente,
+oligoelemente şi microelemente.
+Ţesuturile vegetale şi animale conţin cca. 60 de elemente chimice, din
+care un număr de 12 elemente constituie 99% din materia vie, denumite
+macroelemente, plastice sau de constituţie, şi anume: carbon, hidrogen, oxigen,
+azot, fosfor, sulf, clor, potasiu, sodiu, calciu, magneziu, siliciu.
+Alte 20 elemente chimice reprezintă 0,27% din substanţa uscată a materiei
+vii, reprezintă categoria de microelemente (oligoelemente), printre care: fluor,
+fier, zinc, cupru, mangan, cobalt, titan, bor, iod, plumb, staniu, molibden.
+Elemente chimice se regăsesc în cantităţi extrem de mici,
+microelementele, reprezintă un procent de aprox. 0,074% din materia vie.
+Elementele minerale din organismele vii sunt denumite bioelemente,
+majoritatea fiind asociate sub formă de biomolecule. Funcţie de tipul
+7
+elementelor chimice care reacţionează între ele sau cu alte substanţe, se
+formează biomolecule anorganice sau organice, cu proprietăţi diferite de cele
+ale componentelor. În tabelul 1 este prezentat procentual, conţinutul
+principalelor biomolecule în organismele vegetale, animale şi a organismului
+uman.
+Tabelul 1. Conţinutul procentual al principalelor biomolecule din
+organismele vegetale, animale şi organismul uman.
+Clasa de compuşi
+Conţinut (%)
+Plante Animale Om
+A Biomolecule anorganice 77,5 64,3 64
+Apa 75 60 60
+Compuşi minerali 2,5 4,3 4
+B Biomolecule organice 22,5 35,7 36
+Glucide 18 6,2 1
+Lipide 0,5 11,7 15
+Protide 4 17,8 20
+În organismele animale şi vegetale predomină patru elemente chimice,
+denumite elemente cuaternare: oxigen, carbon, hidrogen şi azot, care reprezintă
+96,2% din masa organismelor vii.
+În tabelul 2 este prezentat conţinutul procentual al elementelor cuaternare
+din plante şi animale:
+ Tabelul 2. Conţinutul procentual al elementelor cuaternare în plante şi animale.
+Element: C O H N
+Organism
+Plante 54 38 7 0,03
+Animale 21 62 10 3
+În tabelul 3 este prezentat conţinutul în procente a biomoleculelor în
+lumea vie, iar în tabelul 4, răspândirea elementelor chimice în litosferă şi
+respectiv, în organismul uman.
+Tabelul 3. Distribuţia bioelementelor în lumea vie.
+Elemente Conţinut %
+Separat Pe grupe
+8
+O 66
+C 17,6
+H2 10,2 96,2
+N 2,4
+Ca 1,6
+P 0,9 99,73
+K 0,4 3,53
+Na 0,3
+S 0,2
+Mg 0,05
+Cl 0,08
+F,Fe,Zn,Cu,Mn.Co 0,27 0,27 0,27
+Ti,B,I,As,Pb,Sn,Mo,V 0,27
+Si,Br 0,27
+Tabelul 4. Răspândirea elementelor chimice în litosferă şi în organismul uman.
+Scoarţa terestră Organismul uman
+Element
+chimic Conţinut %
+Element
+chimic Conţinut %
+O 47 H 63
+Si 28 O 25
+Al 9 C 9,5
+Fe 4,5 N 1,4
+Ca 3,5 Ca 0,31
+Na 2,5 P 0,22
+K 2,5 Cl 0,08
+Mg 2,2 K 0,06
+Ti 0,46 S 0,05
+H 0,22 Na 0,03
+C 0,19 Mg 0,01
+În materia vie, carbonul reprezintă 37-50% din substanţa uscată.
+Hidrogenul este elementul cu cea mai mare răspândire ca număr de atomi;
+oxigenul este singurul element care pătrunde în ţesuturile plantelor şi animalelor
+sub formă de molecule gazoase sau dizolvate în apă, iar azotul este prezent în
+procent de 73,3% în ţesuturile vegetale şi animale prin gruparea amino ( – NH2 )
+a aminoacizilor.
+Apa reprezintă un component vital al organismelor vegetale, animale şi al
+organismului uman. Organismul unui adult conţine până la 70% apă, iar a unui
+copil, până la 87% din greutatea corpului.
+9
+1.3.2. Compoziţia chimică a alimentelor
+Alimentele sunt definite ca substanţe sau produse, procesate,
+semiprocesate sau neprocesate ce pot fi ingerate de către oameni.
+Alimentele contribuie la desfăşurarea metabolismului uman, fiind formate
+din substanţe organice şi anorganice de provenienţă şi în proporţii diverse, fie că
+reprezintă materii prime agroalimentare, fie produse prelucrate.
+Ţinand cont de provenienţa naturală sau de procesare, componetele
+alimentelor se clasifică în următoarele categorii:
+A. substanţe native: componente anorganice (apa, sărurile minerale, acizi
+anorganici, substanţe minerale), componente organice (glucide, lipide,
+substanţe azotate-proteice şi neproteice, acizi organici, vitamine,
+enzime);
+B. substanţe incorporate-aditivi alimentari (conservanţi, antioxidanţi,
+organoleptizante, consrevanţi, antioxidanţi etc);
+C. substanţe accidentale, contaminante, adăugate neintenţionat, accidental în
+produsele alimentare sau datorită poluării mediului (aer, apă, sol).
+
+1.3.3. Substanţe chimice native anorganice (substanţe minerale)
+ din alimente
+1.3.3.1. Clasificare
+Funcţie de cantitatea substanţelor minerale aflate în produsele alimentare,
+acestea se clasifică în :
+a) macroelemente ( g/100g produs) : potasiu, sodiu, magneziu, etc.;
+b) microelemente (mg/100g produs) denumite şi oligoelemente: fierul, iodul,
+manganul, cuprul, zincul, cobaltul, bariul, molibdenul, siliciul, fluorul etc.;
+10
+c) ultramicroelemente (micrograme/100g produs): elemente cu radioactivitate
+naturală (radiu, toriu etc).
+Funcţie de rolul lor în metabolismul uman, substanţele chimice native
+anorganice din alimente (substanţele minerale), sunt considerate:
+a) esenţiale
+- macroelemente, în concentraţie de peste 1% produs alimentar: calciu,
+clor, magneziu, fosfor, potasiu, sodiu, sulf;
+- microelemente, în concentraţie mai mică de 1%: crom, cobalt, cupru,
+fluor, iod, fier, manngan, molibden, seleniu, siliciu, zinc;
+ b) posibil esenţiale: bariu, brom, nichel, stronţiu, staniu, vanadiu;
+ c) substanţele de contaminare, în cantităţi infime: plumb, aluminiu, aur,
+argint, bismut, galiu.
+1.3.3.2.Conţinutul de substanţe minerale din produsele alimentare
+Conţinutul de substanţe minerale din produsele alimentare este determinat
+prin analiza chimică a conţinutului de cenuşă, obţinută prin calcinarea probei de
+analizat, şi anume: a) conţinutul global de substanţe minerale al produsului din
+cenuşa totală sau brută; b) conţinutul de substanţe minerale native sau
+incorporate, din cenuşa solubilă în HCl 10% sau cenuşa netă; c) impurităţi,
+materii necomestibile (nisip, pietriş, pământ) din cenuşa insolubilă în HCl 10%.
+De exemplu, seminţele de cereale conţin substanţe minerale în cantităţi
+importante ( tabelul 5).
+Tabelul 5. Conţinutul mediu în substanţele minerale şi în cenuşă la unele cereale, procente
+substanţă uscată
+Continutul mediu în % substanţă uscată
+Specia
+P2O5 SO3 K2O Na2O CaO Cl SiO2 Cenusa
+Grâu 0,78 0,01 0,52 0,03 0,05 0,01 0,02 1,68
+Secară 0,85 0,02 0,58 0,03 0,05 0,01 0,03 1,79
+Orz 0,56 0,95 0,28 0,07 0,91 0,49 1,7
+Ovăz 0,68 0,05 0,48 0,04 0,1 0,03 1,05 2,68
+Porumb 0,57 0,01 0,37 0,01 0,03 0,02 0,03 1,24
+11
+Substanţele minerale existente în legume şi fructe determinate din cenuşa
+rezultată după incinerare, sunt bazice ( oxizi de sodiu, potasiu, calciu, magneziu,
+fier), acide ( oxizi de sulf, carbon, siliciu, fosfor), sau microelemente ( cupru,
+zinc, mangan, aluminiu, titan, bor). În tabelul 6 sunt prezentate câteva elemente
+chimice din unele specii de fructe şi legumel proaspte.
+Tabel 6. Conţinutul de elemente minerale ale unor specii de fructe şi legume, în mg, la 100g material
+proaspăt.
+Specia K Na Ca Mg Fe P
+Banane 380 3 7 35 0,6 30
+Capsuni 155 5 30 13 0,7 25
+Cirese 250 3 18 12 0,4 21
+Mere 120 2 5 5 0,3 10
+Pere 130 3 9 7 0,4 9
+Piersici 230 3 6 10 0,4 20
+Portocale 187 3 43 12 0,4 22
+Prune 250 3 14 9 0,4 18
+Struguri 250 6 10 10 0,6
+Ceapa 128 26 31 7 0,5 12
+Castraveti 174 13 20 11 0,1 12
+Fasole 215 10 43 31 0,5 11
+Gulii 337 55 90 47 0,5 55
+Morcovi 226 116 59 19 0,7 21
+Mazare boabe 321 22 33 43 1,4 62
+Spanac 742 70 130 57 3,1 82
+Salata 321 58 108 39 4 21
+Tomate 316 125 43 51 0,6 20
+Telina 337 131 16 33 0,3 26
+Varza alba 475 31 50 24 0,6 47
+În tabelul 7 este prezentat conţinutul total de substanţe minerale exprimat
+în procente care se observă că variază între 0,3 şi 2,6% .
+Tabelul 7. Conţinutul mediu în substanţe minerale totale ale fructelor şi legumelor, la 100g material
+proaspăt
+Specia Subst.minerale % Specia Subst.minerale %
+Afina 0,32 Mure 0,65
+Agrise 0,45 Pere 0,33
+Alune 2,5 Piersici 0,45
+Ananas 0,39 Portocale 0,48
+12
+Banane 0,83 Prune 0,49
+Caise 0,66 Smochine 0,7
+Castane 1,18 Struguri 0,48
+Capsuni 0,5 Visine 0,49
+Cirese 0,5 Zmeura 0,51
+Coacaze negre 0,8 Ardei 0,6
+Coacaze rosii 0,63
+Castravet
+i 0,44
+Grape fruit 0,4 Cartofi 0,99
+Gutui 0,44 Ceapa 0,58
+Lamai 0,5 Conopida 0,85
+Mandarine 0,7 Dovlecei 0,85
+Mere 0,32 Fasole pastai 0,89
+Migdale 2,6 Gulii 0,99
+Nuci 1,98 Mazare verde 0,92
+Marar 2,42
+Morcovi radacini 1,02
+Patlagele vinete 0,54
+Patrunjel 2,4
+Patrunjel radacini 0,9
+Praz 1,15
+Ridichi de luna 0,95
+Ridichi de iarna 1,6
+Spanac 1,52
+Sparanghel 0,67
+Salata 0,72
+Tomate 0,57
+Usturoi 1,18
+Telina radacini 0,9
+Varza alba 0,75
+Varza rosie 0,77
+Varza Bruxelles 1,28
+1.3.3.3. Conţinutul de apă din alimente
+Conţinutul de apă din alimente determină calitatea alimentelor şi de
+asemenea, influenţează proprietăţile şi stabilitatea acestora.
+Apa din alimente se găseşte sub două forme: apă liberă şi apă legată.
+Apa liberă există în organismele vii, sub formă de soluţii ale substanţelor
+solubile din sucul celular sau intercelular, în micro- şi macrocapilare. În plus,
+datorită higroscopicităţii componentelor hidrofile, alimentele conţin apa
+higroscopică. Apa liberă poate fi îndepărtată uşor din produsele alimenzare prin
+stoarcere, uscare, fără modificarea majoră a celorlalţi componenţi ai alimentelor.
+Apa legată poate fi fixată în produsele alimentare, prin legături fizice în
+microcapilare şi prin legături fizico- chimice în macromolecule, datorită
+13
+grupărilor organice funcţionale hidrofile: hidroxilice, –OH, carboxilice, -COOH,
+aminice –NH2 , amidice –CONH2 , formând soluţii coloidale. Eliminarea apei
+legate din alimente se face greu, dar dacă se îndepărtează în cantităţi mari, au loc
+un procese ireversibile, cum sunt: pierderea capacităţii alimentelor de
+rehidratare, denaturarea proteinelor,degradarea soluţiilor soluţiilor coloidale,etc.
+Alimentele proaspete au valori diferite ale conţinutului de apă, şi anume :
+- carne 55- 74% ( carne de vită 60-75%, carne de porc 50-
+73%, carne de pui 67-72%)
+- peşte 62-845
+- lapte 87-91%
+- legume proaspete 65-95% (salată – 94,3%, ridichi – 93,3%, cartofi –
+75,9%, castraveţi - 95,36%)
+- zahăr 0,15-0,40%
+- pâine coaptă 22-48%
+- fructe proaspete 79-90% (pepeni – 88,89%, mere – 84,85, struguri – 79%)
+- cereale boabe 12-15% (seminţe de grâu – 13,4%, porumb – 13,3%,
+floarea soarelui – 8,58%)
+- amidon 13-20%
+Între moleculele de apă din mediu înconjurător şi moleculele de apă din
+alimente există un schimb permanent până se atinge un echilibru (umiditatea
+relativă de echilibru) valoare caracteristică fiecărui tip de produs.
+Capitolul II
+LEGILE FUNDAMENTALE ALE CHIMIEI
+2.1. Legea conservării masei
+14
+În natură se observă transformarea substanţelor având ca rezultat apariţia
+de noi substanţe. Poate exista impresia că unele substanţe dispar, însă
+transformările chimice conduc la substanţe noi.
+În realitate, materia nu se poate crea şi nici distruge.
+În secolul al XVIII-lea, ca urmare unor experienţe de oxidare a metalelor,
+M.V.Lomonosov a făcut observaţia că „toate schimbările care se produc în
+univers se întâmplă în aşa fel, încât atâta cât se ia de la un corp tot atât se va
+adăuga la alt corp”.
+La sfârşitul aceluiaşi secol, pe cale experimentală, A.Lavoisier a
+demonstrat că „ în toate reacţiile chimice, suma greutăţilor (maselor)
+substanţelor intrate în reacţie este egală cu suma greutăţilor (maselor)
+substanţelor obţinute prin reacţie”.
+Legea conservării masei poate fi enunţată şi astfel:” la toate procesele
+chimice, masa totală a substanţelor participante la aceste procese rămâne
+constantă”
+Întrucât energia este o a doua formă de existenţă a materiei, ea se poate
+transforma şi trece de la un obiect la altul. Corelaţia dintre masă şi energie este
+exprimată prin relaţia lui Einstein:
+E = m · c2
+unde E este energia, exprimată în erg, m reprezintă masa (g), iar c este viteza
+luminii (cm/s).
+În secolul al XX-lea, A. Einstein a demonstrat că masa se poate
+transforma în energie radiantă, iar legea conservării masei se aplică atât masei
+materiei, cât şi masei energiei din sistem. În laborator, legea poate fi
+demonstrată în cazul reacţiilor chimice obişnuite, neputând fi demonstrată dacă
+procesul chimic transformă masa în energie radiantă sau energia radiantă în
+masă.
+2.2. Legea constanţei compoziţiei (legea proporţiilor definite)
+15
+Combinarea elementelor chimice ce formează o substanţă, are loc după
+anumite reguli, de exemplu, indiferent de proporţia dintre componentele unui
+amestec de gaze, ele reacţionează întotdeauna în raport de volume (cantităţi
+strict determinate), pentru a forma aceeaşi substanţă.
+ De exemplu:
+- hidrogenul şi oxigenul pentru formarea apei:
+ 2 vol. H2 + 1 vol. O2 (raport 2:1)
+- hidrogenul şi clorul pentru formarea acidului clorhidric:
+ 1 vol. H2 + 1 vol. Cl2 (raport 1:1)
+În secolul al XVIII-lea, L.J.Proust a enunţat Legea constanţei compoziţiei
+(legea proporţiilor definite sau legea proporţiilor constante): „orice compus
+chimic conţine totdeauna aceleaşi elemente combinate în aceleaşi proporţii de
+masă”.
+2.3. Legea proporţiilor multiple
+S-a observat că unele substanţe simple se combină între ele pentru a forma
+combinaţii în diferite raporturi masice.
+De exemplu, pentru formarea apei, hidrogenul şi oxigenul se combună în
+raport masic de 1:8, iar pentru formarea apei oxigenate, în raport de 1:16; deci
+cantităţile de oxigen din ambele combinaţii se găsesc în raport de 8 : 16 sau 1: 2.
+În cazul oxiziilor de azot, raporturile masice în care se combină azotul şi
+oxigenul, sunt următoarele:
+Protoxidul de azot 14: 8
+Monoxid de azot 14:16
+Trioxid de azot 14:24
+Bioxid de azot 14:32
+16
+Pentoxid de azot 14:40
+Raporturile în care se găsesc cantităţile de oxigen cu care se combină
+azotul în cazul celor cinci oxizi, sunt 8:16:32:40 sau 1:2:3:4:5
+La începutul secolului al XIX-lea, Dalton a enunţat legea proporţiilor
+multiple: „dacă două substanţe simple se combină pentru a forma mai multe
+substanţe compuse, diferitele mase ale uneia substanţele simple care intră în
+combinaţie cu o masă dată din cealată substanţă simplă, se găsesc între ele în
+raporturi de numere întregi mici”.
+2.4. Legea proporţiilor reciproce
+(legea proporţiilor echivalente)
+ În secolul al XVIII-lea, J.B.Richter a studiat modul de combinare a unor
+elemente chimice şi a observat, de exemplu că:
+- sulful se combină cu oxigenul în raport masic de 16:16 pentru a forma bioxidul
+de sulf ( SO2);
+- carbonul se combină cu oxigenul în raport masic de 6:16 pentru a forma
+bioxidul de carbon (CO2);
+Deci, referindu-ne la cele două reacţii, raportul masic între sulf şi carbon
+este 16:6.
+În cazul reacţiei directe dintre dintre sulf şi carbon, molecula-gram de
+sulfură de carbon (CS2) conţine 64g sulf şi 12g carbon, aşadar, raportul masic
+S:C este 64:12 sau 32:6.
+Enunţul legii este : „dacă A şi B reprezintă masele a două substanţe care
+se combină cu aceeaşi cantitate C a unei a treia substanţe, atunci masele
+promelor două substanţe care se pot combina între el, se găsesc în raport egal
+cu A:B sau multiplii acestuia”.
+17
+În cazul menţionat, masa sulfului este considerată ca fiind A, masa
+carbonului este considerată ca fiind B, iar masa oxigenului este considerată ca
+fiind C.
+În mod similar, oxigenul se combină cu alte substanţe simple, de exemplu,
+cu calciu, magneziu, carbon, în raport de 40:16, 24:16 şi 12:16 sau 20:8, 12:8,
+6:8, fomând oxizii respectivi ( CaO, MgO şi respectiv, CO).
+Hidrogenul se combină cu oxigenul, clorul şi azotul în raport de 1:8,
+1:35,5 şi respectiv, 1:4,7 .
+Numărul care arată câte grame dintr-o substanţă simplă se combină cu 8 g
+de oxigen sau 1g de hidrogen sau înlocuiesc aceste cantităţi , în combinaţiile lor,
+se numeşte echivalentul chimic al elementului.
+Capitolul III
+ATOMUL
+18
+3.1. Scurt istoric.Teorii privind structura atomului
+Atomul este cea mai mica parte in care se poate diviza o substanţa simplă
+şi care păstrează individualitatea acesteia.
+În secolul V î.Hr., materia era considerată ca fiind constituită din patru
+elemente de bază: apa, pământul, aerul şi focul, care se pot combina între ele
+datorită unor forţe de atracţie şi respingere.
+În antichitate a fost introdusă noţiunea de atom, denumire care provine din
+limba greacă (atomos), însemnând „indivizibil”.
+În perioada evului mediu, alchimiştii au descoperit numeroase elemente
+chimice, în speranţa descoperirii metodei de obţinere a aurului din diferite
+substanţe.
+În anul 1803, J.Dalton a enunţat teoria atomistă, considerând atomul ca
+fiind o sferă solidă cu masă proprie, fiecare element având acelaşi tip de atomi
+identici.
+În anul 1897, J.J. Thompson a presupus că atomul este divizibil, fiind
+format dintr-o sferă cu electricitate pozitivă în care se găsesc particule cu sarcină
+negativă, denumiţi electroni., Acest prim model al atomului a fost denumit
+prăjitura lui Thompson.
+3.2.. Teoria nucleară a atomului a lui Rutherford
+În anul 1912, E. Rutherford a enunţat teoria nucleară a atomului, conform
+căreia, nucleul este format din particule (nucleoni) : particule încărcate pozitiv
+(protoni) şi unel neutre (nucleoni). Modelul planetar al atomului propus de
+Rutherford arată asemănarea dintre structura materiei la nivel macrocosmic cu
+cea la nivel microcosmic. In mod asemănător cu sistemului solar, nucleu este
+plasat în centrul atomului, iar electronii se rotesc in jurul acestuia.
+19
+Forţele de atracţie dintre nucleu şi electroni sunt asemănătoare gravitaţiei,
+modelul conceput fiind denumit modelul planetar al atomului.
+S-a dedus că numărul de electroni ce înconjoară nucleul trebuie să fie egal
+cu numărul de sarcini pozitive ale nucleului pentru ca atomul să fie neutru.
+3.3. Teoria lui N. Bohr
+În anul 1913, N. Bohr a elaborat teoria structurii atomului de hidrogen,
+pornind de la modelul atomului lui Rutherford, teoria cuantică a lui M.Planck şi
+extinsă de A.Einstein.
+Bohr a propus un model al atomului în care electronii se rotesc in jurul
+nucleului pe traiectorii bine definite, numite orbite. În acest model, atomul este
+format din electroni (sarcină negativă) şi nucleu format din protoni (sarcina
+pozitivă) şi neutroni.
+M. Planck a arătat prin teoria cuantică, faptul că un atom poate absorbi
+energie, trecând la o stare de energie E1, la o altă stare de energie, E2 (E1 < E2)
+ca apoi, prin emiterea energiei absorbite, să revină la starea de energie E1.
+Energia absorbită sau emisă este: E = E2 - E1,
+În mod analog substanţei formate din particule, Planck a considerat
+energia radiantă, ca fiind formată din cantităţi extrem de mici de energie,
+denumite cuante de energie.
+Prin relaţia : E = h · υ
+considerată ecuaţia fundamentală a teoriei cuantice, Planck a demonstrat astfel,
+legătura dintre cantitatea de energie (E) de lungimea de undă λ, care este
+absorbită sau emisă de un corp şi frecvenţa υ, ştiind că υ = c/ λ. Constanta lui
+Planck, h, are valoarea de 6,6249·10 erg·s.
+A.Einstein a explicat că luminia este compusă din fotoni, cu energia
+ E = h · υ
+20
+Demonstraţia prinvind pierderea unui electron de către un atom de metal, dacă
+se ciocneşte cu un foton, a condus la ecuaţia fotoelectrică a lui Einstein:
+h · υ = Ei + ½ m · v2
+în care: energia fotonului (h · υ ) este egală cu energia necesară îndepărtării
+electronului ( Ei ) plus energia cinetică a fotoelectronului (½ m · v2
+ ).
+Teoriile emise de Planck şi Einstein referitoare la lumina de frecvenţă υ
+emisă sau absorbită de materie numai în cuante de energie h · υ , au condus la
+elaborarea postulatelor lui Bohr, privind stările staţionare (nivele de energie) şi
+condiţia frecvenţei luminii emise de atom.
+3.4. Teoria lui Bohr-Sommerfeld
+Teoria lui Bohr-Sommerfeld se bazează pe faptul că mişcarea periodică
+sub influenţa unei forţe centrale duce la orbite eliptice cu nucleul situat în
+centru.
+Energia este dependentă de un număr cuantic principal, n, care
+caracterizează raza şi de un număr cuantic k, care defineşte forma eliptică a
+orbitei electronului.
+Structura fină a liniilor spectrale ale atomilor obţinute prin revenirea
+electronilor la nivelele de energie iniţiale, după absorbţie de energie, este
+explicată prin existenţa unor substraturi ale fiecărui nivel de energie.
+Electronul este caracterizat prin numere cuantice:
+- număr cuantic principal, n, care caracterizează distanţa orbitei staţionare a
+electronului faţă de nucleul atomului, adică a semiaxei mari a orbitei
+staţionare; are valori de la 1 la 7, fiind notate K, L, M, N, O, P şi respectiv, Q;
+- numărul cuantic secundar, l, care corespunde momentului unghiular al
+electronului pe orbită, fiind o măsură a semiaxei mici a elipsei; are valori între
+0 şi n-1, fiind multiplu de h/2π
+21
+- numărul cuantic magnetic, m, care caracterizează momentul magnetic creat
+prin rotaţia electronului pe orbita lui; are 2l+1 valori, (+l l , 0 , +l);
+- numărul cuantic de spin, s, care caracterizează momentul magnetic propriu
+electronului, în mişcarea de rotaţie în jurul axei sale; are două valori: +1/2 şi –
+½ unităţi cuantice h/2π, pentru rotaţia în acelaşi sens sau în sens contrar faţă
+de axa proprie.
+Considerând modelul atomului din teoria Bohr-Sommerfeld, se consideră
+că structura electronică a atomului ca fiind stratificată. Electronii gravitează pe
+orbite caracterizate de numărul cuantic principal, n, care formează învelişul
+electronic al atomului.
+Stratul electronic este format din electronii cu acelaşi numărul cuantic
+principal: K (n=1), L (n=2), M (n=3) şi aşa mai departe. Fiecare strat conţine un
+număr maxim de 2n2
+ electroni: 2 electroni pe stratul K (n=1), 8 electroni pe
+stratul L (n=2), 18 electroni pe stratul L (n=2) etc.
+Orbitele caracterizate de un număr cuantic principal, n, sunt formate de
+substraturi electronice caracterizate de m = 2l+1 valori pentru un număr cuantic
+secundar cu valori de la –l la +l.
+Exemplificăm distribuţia electronilor în straturile electronice:
+K (n=1): l = 0
+ m=0
+ nr. max. orbite: 1,
+ nr. max. electroni = 2
+L (n=2): l= 0, 1
+ m= 0 şi (-1, 0,+1)
+ nr. max. orbite: 1 şi respectiv, 3
+ nr. max. electroni = 2 şi respectiv, 6 (total: 8)
+M (n=3): l= 0, 1, 2
+ m= 0 , (-1, 0,+1) şi (-2, -1, 0, +1, +2)
+ nr. max. orbite: 1, 3 şi respectiv, 5
+22
+ nr. max. electroni = 2, 6 şi respectiv 10 (total: 18)
+N (n=4): l= 0, 1, 2, 3
+ m= 0 , (-1, 0,+1), (-2, -1, 0, +1, +2) şi (-3, -2, -1, 0, +1, +2, +3)
+ nr. max. orbite: 1, 3, 5 şi respectiv, 7
+ nr. max. electroni = 2, 6, 10 şi respectiv, 14 (total: 32)
+3.5. Teoria lui Schrödinger
+În anul 1930, E. Schrödinger a explicat fenomenele legate de structura
+atomului prin principiile mecanicii cuantice, înlocuind noţiunea de orbită cu
+orbital, zonă în care electronul se roteşte cu maximă probabilitate în jurul
+nucleului.
+Bazându-se pe concepţia lui L. De Broglie că electronul are proprietăţi de
+particulă, dar şi proprietăţi de undă (relaţia λ = h/mv), a considerat că mişcarea
+de undă se propagă în spaţiu, pe cele trei coordonate ox, oy şi oz.
+Amplitudinea undei (ψ) este introdusă în ecuaţia de undă a lui
+Schrödinger: Δ2ψ + 8πm/h2 (Etot – Epot) ψ = 0
+unde m este masa particulei, v este viteza particulei, Etot este energia totală, Epot
+este energia potenţială particulei.
+Orbitalii atomului sunt caracterizaţi de :
+- număr cuantic principal, n, cu valori n = 1, 2, 3, ...., n
+- numărul cuantic azimutal, l, cu valori l = 0, 1, 2, 3, 4, 5,........, n-1, orbitalii se
+numesc s p d f g h
+- numărul cuantic magnetic, m, cu valori m= 0, ±1, ± 2, ± 3,....., ± l
+Orbitalul s este caracterizat prin n=1 şi l = 0, notat 1s şi are simetrie
+sferică (de exemplu, orbitalul ocupat de electronul atomului de hidrogen).
+Orbitalii p sunt orientaţi în spaţiu pe axele ox, oy şi oz, deci câte trei
+pentru fiecare strat principal cu n ≥ 2. Forma nu este simetrică, ci bilobară.
+23
+Orbitalii d fiecare strat principal are cinci orbitali cu forme mai complexe,
+tetralobare.
+Configuraţia electronică reprezintă totalitatea electronilor distribuiţi pe
+straturile, substraturile şi orbitalii atomului unui element chimic.
+Completarea cu electroni a orbitalilor atomilor, se face în mod succesiv,
+după reguli ale mecanicii cuantice:
+a) principiul de excludere enunţat de W. Pauli: „doi electroni ai aceluiaşi atom
+nu pot avea cele patru numere cuantice” , ceea ce înseamnă că un orbital poate fi
+ocupat de cel mult doi electroni, şi numai dacă spinii lor au direcţii opuse, adică
+sunt antiparaleli;
+b) regula lui Hund: „distribuţia electronilor se face astfel încât numărul
+electronilor cu spin paralel, necuplaţi, să fie cât mai mare”;
+c) principiul stabilităţii sau a minimei energii: electronii au tendinţa de a ocupa
+niveluri de energie cât mai joase, astfel încât orbitalii sunt ocupaţi cu electroni în
+ordinea creşterii energiei lor.
+Exemple ale configuraţiilor electronice ale unor elemente chimice:
+Beriliu, Be 1s2
+ 2s2
+ sau ↑↓ ↑↓
+Carbon, C 1s2 2s2 2p2 sau ↑↓ ↑↓ ↑ ↑
+Azot, N 1s2 2s2 2p3
+ sau ↑↓ ↑↓ ↑ ↑ ↑
+Oxigen, O 1s2 2s2 2p4 sau ↑↓ ↑↓ ↑↓ ↑ ↑
+Fluor, F 1s2 2s2 2p5 sau ↑↓ ↑↓ ↑↓ ↑↓ ↑
+În 1964 M. Gell-Mann si G.Zweig a descoperit particula subatomică,
+denumita quark, care se gaseşte in nucleu si poate exista in dubleţi sau tripleţi,
+demonstrându-se astfel ca nucleu este divizibil.
+Capitolul IV
+24
+OXIDAREA ŞI REDUCEREA
+În vechile teorii, oxidarea consta în combinarea unei substanţe cu
+oxigenul, iar reducerea, reacţia chimică de pierdere a oxigenului.
+ Ulterior, oxidarea şi reducerea au însemnat şi procesele chimice de
+pierdere şi respectiv, de combinare a hidrogenului dintr-o substanţă.
+Exemplul clasic este oxidarea hidrogenului şi reducerea oxigenului în
+reacţia de formare a apei:
+2H2 + O2 = 2H2O
+Ulterior, prin studiile efectuate asupra reacţiilor în care nu participă
+oxigen sau hidrogen, cele două noţiuni au fost explicate prin modificarea
+structurii electronice a atomilor elementelor participante la reacţii.
+În conceptul modern, din punct de vedere electronic, oxidarea este
+procesul prin care atomul cedează electroni unui alt atom, iar reducerea
+reprezintă acceptarea de electroni.
+Exemplu:
+În reacţia dintre hidrogenul sulfurat şi clor:
+H2S + Cl2 = S + 2HCl
+sulful se oxidează (cedează 2 electroni ):
+ -2 0
+ S - 2e = S
+clorul se reduce ( primeşte un electron):
+ 0 -1
+Cl +e = Cl
+Din punct de vedere electronic, reducerea este procesul invers oxidării.
+Procesul de oxidare reprezintă cedare de electroni, fie din partea unui
+atom, fie din partea unui ion. Astfel, numărul de oxidare poate varia de al -4 la
++7.
+25
+În procesul de reducere, prin acceptarea de electroni, numărul de oxidare
+poate avea valori de la +7 la -4.
+Procesul simultan de reducere şi oxidare se mai numeşte reacţie redox, de
+exemplu, în reacţia dintre fier şi acid clorhidic are loc oxidarea fierului de la 0 la
++2 şi reducerea hidrogenului de la +1 la 0.
+2
+0
+2
+0 1 2
+Fe+ 2HCl → FeCl + H
++ +
+Deci, într-o reacţie, substanţa (molecula, atomul, ionul) care acceptă
+electroni se reduce şi se numesşte agent oxidant, iar substanţa care cedează
+electroni se oxidează şi se numeşte agent reducător. În cazul exemplului de mai
+sus Fe este agent reducător, iar HCl agent oxidant.
+În reacţia chimică dintre bioxidul de siliciu şi magneziul, acesta din urmă
+are rol de reducător.
+Reducerea siliciului
+ +4 0 0 +2
+SiO2 + 2Mg = Si + 2MgO
+ Oxidarea magneziului
+Ca agenţi oxidanţi sunt utilizaţi: oxigenul, apa oxigenată, peroxizii, clorul,
+bromul, hipocloritul de potasiu sau de sodiu, bicromatul de potasiu,
+permanganatul de potasiu, acidul azotic, azotaţi, cloraţi, iar ca agenţi reducători:
+carbonul, oxidul de carbon, hidrogenul, metale (sodiu, potasiu, magneziu,
+aluminiu, fier).
+În ecuaţiile redox, stabilirea coeficienţilor stoechiometrici se face prin
+analizarea preoceselor de oxidare şi reducere, adică a transferului de electroni,
+pe baza respectării legii conservării masei:
+2KMnO4 + 5H2S + 6 HCl = 2KCl +2MnCl2 + 5S + 8H2O
+3Cu + 8HNO3 = 3Cu(NO3)2 + 2NO + 4H2O
+În echilibrele cu transfer de elctroni, donorul de electroni se numeşte
+reducător (prescurtat Red), iar acceptorul de electroni se numeşte oxidant
+26
+(prescurtat Ox). Echilibrul cu schimb de electroni se poate scrie în forma
+generală : Red  Ox + ze–
+Prin cedarea sau acceptarea unui anumit număr de electroni, fiecare
+reducător se transformă într-un anumit oxidant şi respectiv fiecare oxidant se
+transformă numai într-un anumit reducător. Cuplurile oxidant/reducător sunt
+bine definite prin numărul de electroni transformaţi între cele două specii care
+alcătuiesc cuplul redox.
+Întrucât electronii nu pot exista liberi, pentru ca o specie chimică să
+cedeze electroni trebuie să se găsească în prezenţa altei specii chimice capabilă
+să accepte aceşti electroni. Din acest motiv nu pot exista independent numai
+reacţii de oxidare sau numai reacţii de reducere, ci au loc totdeauna reacţii care
+cuprind ambele procese, adică reacţii de oxido - reducere sau reacţii redox.
+Într-o reacţie chimică cu transfer de elctroni un atom cedează electroni
+(se oxidează) şi un atom acceptă electroni (se reduce). Numărul electronilor
+cedaţi în procesul de oxidare este egal cu cel al electronilor acceptaţi în
+procesul de reducere.
+Red1 oxidare → Ox1 + ze–
+Ox2 + ze– reducere → Red2
+Red1 + Ox2 Ox1 + Red2
+Pentru a înţelege echilibrele cu transfer de elctroni şi a putea prevede
+produşii de reacţie într-o reacţie redox este necesar să cunoşti modalitaţile de
+stabilire a numărului de oxidare (N.O.). În tabelul 8 sunt trecute elementele cu
+mai multe N.O., cel mai des întâlnite în practică.
+Tabelul nr. 8 Elementele cu mai multe N.O., cel mai des întâlnite în practică
+Element Chimic
+Metal Nemetal
+27
+Simbol N.O. Simbol N.O.
+Na, K, Ag +1 Cu +1, +2 F –1
+Ca, Mg, Zn, Ni, +2 Au +1, +3 Cl –1, +1, +3, +5, +7
+Al, +3 Hg +1, +2 Br –1, +5, +7
+Si +4 Sn +2, +4 I –1, +5, +7
+Cr +3, +6 Pb +2, +4 O –2, –1
+Mn +2, +4, +7 As –3, +3,
++5
+S –2, +4, +6
+Fe +2, +3 Au +3 N –3, +1, +2, +3, +4,
++5
+Co +2, +3 Bi +3, +5 P -3, +1, +3, +5
+Elementele galvanice surse de energie electrică
+Reacţiile redox reversibile sunt folosite în celulele electrochimice pentru
+producerea curentului electric.
+În anul 1859 Gaston Planté a inventat pila numită acumulatorul cu
+plumb şi a formulat definiţia unui acumulator: „Acumulatorul este un generator
+electrochimic care acumulează energie electrică şi o restituie sub formă de
+curent". O baterie este un acumulator format din mai multe pile electrochimice
+legate în serie. Astăzi termenul de baterie se foloseşte pentru dispozitivele
+formate dintr-o singură pilă: baterie de ceas, de lanternă, etc.
+Acumulatorul cu plumb s-a dezvoltat ca sursă portabilă de curent continuu
+începând cu anul 1915 când au apărut demaratoarele automate la automobile.
+Acest tip de acumulator poate funcţiona mai mulţi ani în condiţii de temperatură
+variind între –35oC şi +40oC. Acumulatorul cu plumb este format din şase celule
+eletrochimice legate în serie, fiecare generând o forţă electromotoare de 2 V.
+Acidul sulfuric se consumă în timpul funcţionării. Iniţial concentraţia acidului
+sulfuric este de 34% (aceasteia corespunzându-i o densitate de 1,26 g/mL).
+Deoarece prin funcţionare acidul sulfuric se consumă densitatea acestuia scade.
+Măsurarea densităţii soluţiei de acid sulfuric este o modalitate utilă şi puţin
+laborioasă de apreciere a stării de încărcare a acumulatorului cu plumb. Pe
+măsură ce acumulatorul funcţionează se formează sulfat de plumb (PbSO4):
+granulele de PbSO4, iniţial fine, se măresc cu timpul, devin greu solubile şi
+28
+acoperă suprafaţa activă a electrozilor. Acest fenomen, cunoscut sub numele de
+sulfatare, împiedică funcţionarea la parametrii optimi ai acumulatorului.
+Acumulatorul cu plumb este o pilă secundară deoarece poate fi reîncărcată. În
+bateriile tradiţionale trebuie adăugată periodic apă distilată deoarece aceasta se
+consumă în timpul reacţiei de electroliză care se produce la încărcarea
+acumulatorului. Acumulatoarele moderne au electrozi confecţionaţi dintr-un
+aliaj de calciu şi plumb care împiedică electroliza apei, nivelul ei rămânând
+practic constant.
+În anul 1868 George Leclanché a inventat bateria zinc-carbon, denumită
+ulterior baterie primară, deoarece nu mai poate fi încărcată, reacţia chimică care
+stă la baza funcţionării sale este ireversibilă. Marele avantaj al acestor pile îl
+constituie faptul că electrolitul suport este în stare solidă. Din acest motiv tip de
+baterie se numeşte pilă uscată. O astfel de pilă este formată dintr-un cilindru de
+zinc, care reprezintă anodul. În interiorul cilindrului se află o bară din grafit –
+catodulul – înconjurată de o pastă umedă, formată prin omogenizarea oxidului
+de mangan cu clorura de amoniu. Potenţialul acestei pile este de 1,500 V. Pe
+măsură ce pila funcţionează se formează o combinaţie complexă a zincului cu
+amoniacul care cristalizează. Aceasta reduce mobilitatea ionilor din sistem
+tensiunea produsă diminuându-se. Pentru a prelungi timpul de funcţionare acest
+tip de baterie se poate încălzi uşor, câteva ore. Temperatura favorizează
+mobilitatea speciilor chimice din sistem şi mai ales a combinaţiei chimice care
+se îndepărtează de anod. Se prelungeşte astfel timpul de funcţionare pentru
+aceste pile. În versiunea alcalină a acestei pile NH4Cl a fost înlocuită cu hidroxid
+alcalin. Aceste pile au un timp de funcţionare mai mare decât cele care conţin
+NH4Cl deoarece în urma reacţiei redox care are loc la anod, aceasta se acoperă
+cu un strat protector de oxid de zinc.
+Pila cu mercur este tot o pilă uscată în care anodul este de zinc iar catodul
+un fir din oţel în contact cu un amestec de oxid de mercur (II), hidroxid de
+potasiu şi hidroxid de zinc.
+29
+Aceste pile pot avea dimensiuni foarte mici şi pot fi folosite pentru
+alimentarea ceasurilor electronice şi calculatoarelor de buzunar. Tensiunea
+generată de o asemenea pilă este de 1,300 V.
+Având ca model pila Leclanché au fost fabricate pile uscate fără electrolit
+suport. Aceste sisteme sunt folosite în vestele de salvare cu care sunt dotate
+avioanele şi vapoarele. Pilele fără electrolit au un anod de magneziu şi un catod
+de cupru acoperit cu clorură de cupru (I) şi funcţionează numai în contact cu apa
+de mare, care devine astfel electrolitul suport.
+Acumulatoarele Nichel-Cadmiu sunt pile secundare utilizate în aparatele
+electronice portabile: radio, casetofon, calculator, telefon mobil, aparat foto, etc.
+Sunt pile în care electrolitul suport este în stare solidă. Produşii de reacţie
+formaţi aderă la suprafaţa electrozilor ca în cazul acumulatorului cu plumb
+diminuând timpul de viaţă al pilei. În condiţii optime de exploatare un
+acumulator nichel-cadmiu poate fi folosit 2 ani.
+Pilele cu combustibil sunt sistemele electrochimice în care are loc o
+alimentare continuă în reactanţi. Energia care se degajă în reacţia metanului cu
+oxigenul folosită pentru încălzire sau pentru funcţionarea unor motoare poate fi
+utilizată pentru producerea curentului electric. Electronii trec printr-un circuit
+exterior de la metan (agentul reducător) la oxigen (agentul oxidant). Această pilă
+a constituit modelul pentru dezvoltarea pilelor cu combustibil, într-un program
+finanţat de NASA. Misiunile Apollo au folosit o pilă cu combustibil bazată pe
+reacţia oxigenului cu hidrogenul pentru obţinerea apei de băut. O asemenea pilă
+cântăreşte în jur de 250 kg şi nu este utilizată efectiv ca sursă portabilă de
+curent. În New York şi Tokyo există centrale electrice echipate cu pile
+hidrogen–oxigen. Asemenea pile cu combustibil funcţionează în marile
+metropole în momentele în care consumul de electricitate este foarte mare.
+Capitolul V
+LEGĂTURI CHIMICE
+30
+Pentru a forma combinaţii chimice stabile din punct de vedere energetic,
+atomii se combină între ei, fiind foarte reactivi datorită energiei mari pe care o
+posedă.
+Legătura chimică este forţa exercitată între grupuri de atomi sau ioni care
+determină formarea unei unităţi stabile, care reacţionează ca grupare sau specie
+de sine stătătoare.
+G.N.Lewis, W.Kossel şi I. Langmuir explică natura legăturilor chimice ca
+fiind dată de electronii necuplati de pe stratul exterior al învelişului electronic al
+atomilor care reacţionează în procesul chimic respectiv.
+Teoria lui Lewis denumită teoria electronică a valenţei sau a valenţei
+directe, explică formarea legăturilor chimice dintre elemente în scopul formării
+de substanţe compuse cu molecule şi structuri stabile, prin tendinţa acestora de a
+realiza configuraţia stabilă de dublet sau octet, a stratului electronic exterior.
+Majoritatea atomilor tind către configuraţia de octet (regula octetului), fie prin
+cedare sau acceptare de electroni (electrovalenţa), fie prin punere de electroni
+în comun (covalenţa ).
+Tipurile de legături chimice sunt:
+1. legături ionice (de exemplu: NaCl, AlCl3)
+2. legături covalente:
+a) simple : omogene, (Cl2, H2, O2)
+ eterogene (HCl, NH3 )
+b) multiple: omogene (N2)
+ eterogene ( HCN)
+c) coordinative ( [NH ]+
+, [Cu (NH3) 4 +]
+2+ )
+5.1. Legătura ionică
+31
+Legătura ionică sau electrovalentă sau heteropolară reprezintă forţa de
+atracţie electrostatică dintre ionii pozitivi şi ionii negativi, formaţi prin cedare şi
+respectiv, prin acceptare de electroni, adică prin transfer de electroni. În acest
+mod se formează un compus ionic.
+Un exemplu clasic îl constituie formarea moleculei de clorură de sodiu
+(NaCl) prin realizarea unei legături ionce, de atracţie între ionii Na+
+ şi Cl-
+,
+formaţi prin transferul unui electron cedat de atomul de sodiu şi acceptat de
+atomul de clor:
+- cedarea unui electron din stratul exterior al atomului de sodiu, cu formare de
+ion pozitiv: Na - e- → Na+
+- acceptarea electronului cedat de atomul de sodiu, pentru completarea
+stratului său electronic în configuraţie de octet, cu formare de ion negativ:
+Cl + e-
+ → ClDatorită
+atracţiei electrostatice dintre cei doi ioni cu sarcini electrice de
+semn contrar, se realizează o legătură ionică, formându-se o moleculă de clorură
+de sodiu: Na+
+ + Cl-
+ → Na +ClElectrovalenţa
+reprezintă numărul de electroni cedaţi din stratul electronic
+exterior - valenţa pozitivă de la (+1) la (+4), în cazul elementelor din grupele
+principale IA-IVA ale tabelului periodic şi respectiv, numărul de electroni
+acceptaţi pe stratul electronic exterior de la (-4) la (-1), valenţa negativă, pentru
+a atinge configuraţia electronică stabilă de octet a ultimului strat electronic.
+Aceasta reprezintă regula octetului de valenţă.
+Elementele de tranziţie, metalele din grupele IB-VIIB, pot realiza
+configuraţia stabilă de octet prin cedare de electroni ai orbitalilor d sau f, cu
+posibilitatea de a se transforma în mai mulţi ioni pozitivi cu diferite valenţe:
+Fe 2+, Fe 3+,Cu 2+, Cu +
+, Mn 2+, Mn 7+
+.
+Compuşii ionici în stare solidă sunt caracterizaţi prin stabilitate şi
+ordonare a particulelelor în celule elementare care formează reţele cristaline
+unde ionii pozitivi şi negativi alternează în mod regulat şi uniform.
+32
+Substanţele cristaline nu sunt formate din molecule, ci din cristale cu
+formă spaţială determinată, caracteristică substanţei respective (cubică,
+tetragonală, rombică, hexagonală etc.) cu o distribuţie uniform alternantă a
+ionilor pozitivi şi negativi. Numărul ionilor de semn contrar din jurul unui ion
+reprezintă numărul de coordinare a acestui ion, fiind determinat de forma
+geometrică spaţială a celulei elementare a reţelei ionice.
+În soluţie, legătura ionică (electrovalentă) dă posibilitatea ionilor din
+molecule de a se mişca liber, astfel încât substanţele disociază.
+5.2. Legătura covalentă
+Teoria electronică a valenţei lui G.Lewis şi dezvoltată de I.Lamgmuir a
+explicat formarea moleculelor formate din atomi identici (H2, N2, Br2) prin
+punerea în comun de către fiecare atom, a câte unui electron necuplat şi
+realizarea configuraţiei stabile.
+ Legătura formată între atomi de nemetale prin punerea în comun a uneia
+sau mai multor perechi de electroni se numeşte legătură covalentă.
+Legătura covalentă se poate forma între atomi de nemetal identici
+(legătură covalentă nepolară) sau între atomi diferiţi (legătură covalentă polară).
+5.2.1. Legătura covalentă nepolară
+Formarea moleculei de hidrogen, H2 este reprezentată astfel:
+H · + · H = H · · H sau H − H
+Între atomii identici de hidrogen s-a format o legătură covalentă datorită
+perechii (dubletului) de electroni puşi în comun şi care aparţin ambilor atomi.
+Întrucât centrul sarcinii pozitive coincide cu centrul sarcinii negative,
+molecula este nepolară. Molecula de azot (N2) este nepolară, legătura dintre cei
+33
+doi atomi de azot fiind formată din trei perechi de electroni puşi în comun de
+fiecare atom de azot (legătură covalentă triplă nepolară): N≡ N
+5.2.2. Legătura covalentă polară
+Formarea unei molecule de amoniac, NH3 sau a unei molecule de acid
+clorhidric, HCl are loc prin punerea în comun a câte un electron de către atomii
+fiecărei molecule, având electronegativităţi diferite.
+De aceea, sarcina negativă are centru deplasat spre atomul elementului cu
+un caracter mai puternic electronegativ. Molecula formată este un dipol, cu
+centrul de sarcină negativă (δ-) deplasat spre Cl şi centrul de sarcină pozitivă
+(δ+) deplasat spre H, fiind denumită şi moleculă polară.
+δ+ δ-
+H − Cl sau H − Cl
+Legătura dintre atomi realizată prin punerea în comun a unor perechi de
+electroni necuplati din stratul de valenţă se numeşte legătură covalentă, care,
+spre deosebire de legătura ionică, este rigidă şi orientată în spaţiu.
+De exemplu, molecula de CO2 este lineară (O=C=O), iar molecula de
+tetraclorura de carbon, CCl4, are o simetrie tetraedrică. Molecula de apă, H2O
+( H − O − H) nu este lineară, unghiul format de cele două legături H − O ,
+fiind de 104,300
+ .
+5.2.3. Teoria mecanică- cuantică a covalenţei
+Teoria mecanică- cuantică a covalenţei explică formarea legăturii
+covalente pornind de la existenţa orbitalilor, ca spaţiu în care probabilitatea este
+maximă ca electronii să se găsească la un moment dat, în rotaţia lor în jurul
+nucleului. Implicit, prin punerea în comun de electroni, are loc o redistribuire a
+densităţii electronice în moleculă, formându-se un orbital molecular.
+34
+Un caz special este formarea moleculei de hidrogen, unde orbitalii de
+formă sferică a electronilor s puşi în comun de către fiecare atom, se
+întrepătrund, formând un orbital molecular de formă alungită.
+În cazul altor molecule, pentru formarea unei legături covalente, fiecare
+atom trebuie să aibe un orbital ocupat numai cu un singur electron, dar de spin
+opus.Aceştia pot fi electroni de tip s, p şi chiar d. Covalenţa unor elemente se
+explică prin trecerea unor electroni de pe orbitali s pe orbitali p, de pe orbitali s
+pe orbitali d, de pe orbitali p pe orbitali d. În aceste cazuri, orbitalii electronici
+atomici se transfomă în orbitali moleculari prin dispunerea echilibrată a
+densităţii electronice, formând orbitali hibrizi. Hibridizarea poate fi de tip sp,
+sp2
+ , sp3
+ , datorită tranziţiilor electronice 2s → 2p, dar şi spn
+d
+m datorată
+tranziţiilor s → d, p → d şi apoi s → d.
+- hibridizare sp
+↑ ↓ → ↑ ↑
+2s2
+ 2p0
+ 2s1
+ 2p1
+- hibridizare sp2
+↑ ↓ ↑ → ↑ ↑ ↑
+2s2
+ 2p1
+ 2s1
+ 2p2
+- hibridizare sp3
+↑ ↓ ↑ ↑ → ↑ ↑ ↑ ↑
+2s2
+ 2p2
+ 2s1
+ 2p3
+Teoria mecanică- cuantică a covalenţei prezintă formarea de legături
+simple ( σ ) între doi atomi prin punerea în comun a unei perechi de elctroni s
+(de exemplu legătura H − H), a unui electron s şi a unui electron p (de exemplu
+legătura H − C), sau a doi electroni p (de exemplu Cl − Cl ).
+Legătura π este formată din câte doi electroni p (px, py, pz).
+Dubla sau tripla legătură covalentă se formează dintr-o legătură simplă
+σ şi una şi respectiv, două legături π . Densitatea de electroni a legăturilor π este
+35
+în plan perpendicular pe planul legăturii simple σ şi în acelaşi timp
+perpendiculare între ele.
+5.3. Legătura coordinativă
+În cazul în care perechea de electroni pusă în comun provine de la un
+singur atom dintre cei doi atomi participanţi la reacţie, se realizează o legătură
+coordinativă. Ionul complex este format dintr-un ion de metal (ion central) şi
+molecule sau ioni (liganzi), între care există legături covalente coordinative. De
+exemplu între ionul de Cu2+ şi molecule de amoniac:
+Cu 2+ + 4NH3 → [Cu (NH3 )4 ] 2+
+ionul de tetraaminocupru (II)
+Dar şi între alţi ioni metalici şi alte molecule
+sau ioni:
+Cr 3+ + 6H2O → [Cr( H2O )6 ] 3+
+ ion de hexahidroxocrom (III)
+Zn 2+ +4OH- → [Zn (OH)4 ] 2-
+ ionul de tetrahidroxozinc (II)
+Combinaţia complexă se formează prin legatura dintre ionul complex şi
+un ion de semn opus acestuia (cationi metalici): [Co(NH3)6]Cl3 clorură de
+hexaaminocobalt (III).
+Atomul care cedează perechea de electroni se numeşte donor, iar atomul
+care acceptă aceeaşi pereche de electroni, se numeşte acceptor. În cazul formării
+ionului de amoniu + NH4
+ şi a ionului de hidroniu [ H3O ]+
+ , donorul este atomul
+de azot şi respectiv, de oxigen , iar acceptorul este ionul de hidrogen (protonul).
+Capitolul VI
+ SOLUŢII
+36
+C u
+N H 3
+N H 3
+N H 3 H N 3
+2 +
+Soluţiile reprezintă amestecurile omogene a două sau mai multe
+componente în diferite proporţii.
+Funcţie de starea de agregare a componentelor (solidă, lichidă şi gazoasă),
+există următoarele tipuri de soluţii: gaze în gaze, gaze în lichide, gaze în solide,
+lichide în lichide, lichide în solide, lichide în lichide, solide în solide.
+Dizolvantul (solventul) este componenta în exces, iar substanţa dizolvată
+(solutul) este componenta care se află în proporţie mai mică în soluţia
+respectivă.
+6.1. Dizolvarea
+Dizolvarea este procesul prin care particulele solutului difuzează printre
+cele ale solventului, datorită atât a mişcării moleculare, cât şi datorită
+interacţiunii moleculelor de apă.
+Fenomenul de desprindere a particulelor de pe suprafaţa solutului şi
+difuzarea acestora printre moleculele solventului (dizolvarea) este un proces
+fizic, endoterm.
+Fenomenul de interacţiune a particulelor de solut (molecule, ioni) şi cele
+ale solventului este un proces chimic, exoterm denumit şi solvatare. În cazul în
+care solventul este apa, procesul se numeşte hidratare.
+Apa este cel mai răspândit dizolvant în natură, putând dizolva substanţe
+solide, lichide şi gazoase.
+Concentraţia unei soluţii reprezintă cantitatea sau volumul de solut
+existentă într-o anumită cantitate sau volum de solvent.
+Soluţiile care conţin mici cantităţi (volume) de solut sunt diluate, iar în
+caz contrar, soluţiile sunt concentrate.
+Cantitatea de substanţă dizolvată existentă în soluţie poate fi exprimată
+prin:
+37
+- concentraţie procentuală (C% - procente de masă)), care reprezintă masa de
+substanţă dizolvată la 100 de unităţi de masă de soluţie (de exemplu: soluţie
+10% NaCl);
+- concentraţie procentuală ( procente de volum) exprimată în unităţi de volum a
+unei substanţe lichide la 100 de unităţi de volum de soluţie (de exemplu: soluţie
+de alcool 80%);
+- concentraţie molară sau molaritatea soluţiei notată CM, M sau [X], care
+reprezintă numărul de moli (moleculă-gram) de substanţă dizolvată într-un litru
+de soluţie (de exemplu: soluţie semimolară, 0,5M, molară, 1M, dublu-molară.
+2M, decimolară, 0,1M);
+- concentraţie normală sau normalitatea soluţiei notată cu CN care reprezintă
+numărul de echivalenţi-gram de substanţă dizolvată într-un litru de soluţie (de
+exemplu: soluţie decinormală, 0,1N, seminormală, 0,5N, normală, 1N, dublunormală,
+2N);
+6.2. Solubilitatea
+Solubilitatea sau gradul de solubilitate a unei substanţe dizolvate (solut)
+reprezintă cantitatea maximă de substanţă care se poate dizolva într-o anumită
+cantitate de dizolvant (solvent) în condiţii de echilibru,la o anumită temperatură.
+Procesul de dizolvare a unei substanţe ajunge la un moment dat, la o stare
+de echilibru dinamic între cantitatea de substanţă nedizolvată şi substanţă
+dizolvată, după care, concentraţia soluţiei nu mai creşte:
+substanţă nedizolvată  substanţă dizolvată (în soluţie)
+Deci la o anumită temperatură, la echilibru, soluţia conţine cantitatea
+maximă de substanţă dizolvată într-un dizolvant, fiind considerată soluţie
+saturată. În cazul în care o soluţie conţine o cantitate mai mică de substanţă
+dizolvată, soluţia este o soluţie nesaturată; soluţia care conţine o cantitate mai
+38
+mare de substanţă dizolvată decît soluţia saturată, reprezintă o soluţie
+suprasaturată..
+
+6.3.Teoria disociaţiei electrolitice
+S-a observat că unele soluţii conţin mai multe particule decât numărul de
+molecule ale substanţei dizolvate care nu sunt atomii componenţi ai moleculelor
+respective, ceea ce arată faptul că moleculele de solut se transformă în mai multe
+particule.
+Aşadar, în timpul dizolvării, are loc un proces denumit disociere sau
+ionizare a substanţelor ionice şi polare dizolvate sub acţiunea moleculelor de
+dizolvant.
+Pe baza studiilor lui van’Hoff, substanţele ale căror soluţii apoase conduc
+curentul electric se numesc electroliţi (de exemplu: acizii, bazele, sărurile), iar
+substanţele ale căror soluţii nu conduc curentul electric, se numesc neelectroliţi
+(majoritatea substanţelor organice).
+Prin teoria disociaţiei electrolitice, S. Arrhenius arată că moleculele unui
+electrolit dizolvat în apă se scindează în ioni cu sarcină pozitivă şi ioni cu
+sarcină negativă, adică disociază. La dizolvarea compuşilor ionici are loc o
+interacţie a ionilor din reţeaua cristalină şi dipolii de apă, astfel încât ionii se
+desprind din reţea şi trec în soluţie înconjuraţi de moleculele de apă, fiind
+hidrataţi.
+Procesul de disociaţie electrolitică constă în are loc prin scindarea
+moleculelor unei combinaţii ionice într-un dizolvant; disociaţia electrolitică a
+unei baze, acid şi respectiv, a unei sări, este un proces reversibil:
+NaOH → Na+
+ + OHH2SO4
+→ H+
+ + HSO4
+-
+NaCl → Na + + Cl39
+În cazul fiecărui electrolit, numai o anume cantitate de substanţă este
+disociată în ioni liberi, faţă de cantitatea totală a acesteia.
+Gradul de disociere electrolitică ( α ) reprezintă substanţa dizolvată
+disociată în ioni liberi ce conduc curentul electric, într-o soluţie de o anumită
+concentraţie.
+După valoarea gradului de disociere electrolitică, electroliţii se grupează
+în: electroliţi tari, care disociază total şi electroliţi slabi, care disociază puţin în
+soluţie apoasă.
+6.3.1. Electroliţi tari
+Electroliţii tari sunt substanţe chimice cu structură cristalină ioncă în
+stare solidă (acizi, baze, săruri) şi care sunt complet disociate în soluţii apoase.
+Fracţiunea ionilor disociaţi reprezintă chiar concentraţia ionilor în soluţie,
+denumită activitatea ionilor. Dacă se notează: activitatea unui ion a,
+concentraţia reală a ionului în soluţie c, coeficientul de activitate, fa , există
+relaţia:
+a = fa · c
+Intensitatea câmpului electric ca rezultat al ionilor din soluţie, poate fi
+exprimată prin tăria ionilor ( μ ):
+ μ = ½ · ( c1n1
+2 + c2n2
+2 + c3n3
+2 + .............)
+unde: c1, c2, c3 reprezintă concentraţiile ionilor de valenţă corespunzătoare: n1,
+n2, n3 etc.
+6.3.2. Electroliţi slabi
+Electroliţii slabi sunt în majoritate, acizi şi baze organice şi unele săruri
+anorganice, soluţiile acestora conţinând un număr mic de ioni.
+40
+În cazul electroliţilor slabi, disociaţia electrolitică este o reacţie de
+echilibru între moleculele nedisociate (AB) şi ionii formaţi în soluţie ( A+
+ şi B-
+),
+reprezentată astfel:
+ A B  A+
+ + B-
+ 1 - α α α
+Constanta de echilibru este:
+K = [ A+
+ ] · [ B-] / [ A B ]
+Dacă se notează concentraţia soluţiei c (mol/L) şi gradul de disociere α,
+relaţia dintre constanta de echilibru, K şi gradul de disociere electrolitică este
+exprimată de legea diluţiei lui Ostwald:
+K = ( α c ) · ( α c ) / ( 1 – α ) · c = α2
+ · c / ( 1 - α )
+6.3.3. Disociaţia electrolitică a apei
+O mică parte din moleculele de apă disociază în ioni de hidrogen (care în
+soluţie se prezintă sub formă de hidroniu) şi ioni de hidroxid:
+H – O – H + H – O – H → H3O
++ + OHDeoarece
+raportul moleculelor de apă disociate este de 1/556 000 000,
+gradul de disociere electrolitică a apei (α ) este de 18 ·10-10
+ .
+Constanta de disociere electrolitică a apei este:
+Kw = [ H3O
++
+ ] · [ OH- ] / [ H2O ] 2
+
+
+Produsul concentraţiilor ionilor de hidroniu şi a ioni de hidroxid, numit
+produsul ionic al apei: [ H3O
++
+ ] · [ OH- ] este constant. Deci la temperatura
+obişnuită este:
+[ H3O
++
+ ] · [ OH- ] = Kw = 1,10 · 10 -14 ioni-gram/L
+În acest caz , concentraţia ionilor de hidroniu este egală cu
+concentraţi ionilor de hidroxid :
+[ H3O
++
+ ] = [ OH- ] = 10-7 ioni-gram/L
+41
+În mod uzual, concentraţia acestor ioni se exprimă prin pH-ul soluţiei,
+exprimat prin exponentul respectiv, cu semn schimbat, de exemplu:
+pH = - lg [ H3O
++
+ ] = - lg [ OH- ] = 7
+Valorile pH-ului sunt cuprinse în intervalul 0-14, soluţiile fiind
+considerate:
+- puterni acide pH = ( 0 - 3 )
+- slab acide pH = ( 4 – 7 )
+- slab bazice pH = ( 7 - 10 )
+- puternic bazice pH = ( 11 - 14 )
+Capitolul VII
+COMBINAŢII ANORGANICE
+Fie naturale, fie de sinteză, combinaţiile anorganice se clasifică în oxizi,
+acizi, baze şi săruri, funcţie de compoziţia, proprietăţile fizice şi chimice.
+7.1. Scurt istoric
+42
+În secolul al XVII-lea, Tachenius a introdus noţiunea de acid (acidus
+înseamnă acru) şi a stabilit că în reacţia acidului cu o bază se formează o
+substanţă denumită sare. De asemenea, noţiunea de bază a fost definită ca
+urmare a experimentului prin care a obţinut o substanţă de masă constantă la
+calcinarea unei sări, denumită basis.
+În secolele XVII şi XIX, teoriile multor savanţi, Lavoisier, Berthollet,
+Gay-Lussac, Berzelius, au contribuit la elaborarea teoriei acizilor polibazici alui
+J. Von Liebig, a legii bazicităţii acizilir a lui Ch. Gerhardt, cât şi a determinării
+oxizilor ca anhidride ale acizilor de către A. Hantsch.
+Compoziţia, structura şi comportamentul acizilor şi bazelor au fost
+explicate prin:
+Teoria ionică
+Chimistul suedez Svante Arrhenuis a stabilit, în 1887, că proprietăţile
+unor soluţii pot fi înţelese pe deplin numai admiţând că la dizolvarea în apă a
+acizilor, a bazelor, sau a sărurilor, moleculele lor se disociază în ioni:
+substanţele ionizează.
+Arrhenuis a dat următoarele definiţii:
+Un acid este o substanţă care se dizolvă în apă punând în libertate ionul de
+hidrogen H+
+.
+O bază este o substanţă care se dizolvă în apă punând în libertate ionul
+hidroxil HO–
+.
+Teoria protolitică
+În anul 1923, chimistul danez J.N. Brönsted şi chimistul englez T.N.
+Lowry au propus noi definiţii pentru noţiunile de acid şi bază, luând în
+considerare schimbul de ioni H+
+ care poate avea loc între unele specii chimice.
+Pentru ionul H+
+ se foloseşte în general denumirea de proton. Nu trebuie
+să uiţi însă că H+
+ este nucleul atomului de H. H+
+ este alcătuit din particulele
+43
+elementare: un proton, p+
+ şi un neutron n0
+. Să nu confuzi deci protonul H+
+ cu
+particula elementară proton p+
+.
+J.N. Brönsted şi T.N. Lowry au dat definiţia protolitică a acizilor.
+Un acid este o substanţă care poate să cedeze protoni.
+Protonul H+
+, este o particulă foarte mică şi extrem de reactivă, de aceea, el
+nu poate exista liber în soluţie.
+În toate reacţiile protonul cedat de acid este acceptat de o altă specie
+chimică.
+Pe baza proprietăţii lor de a accepta protoni în reacţii chimice, J.N.
+Brönsted şi T.N. Lowry au dat definiţia protolitică a bazelor.
+O bază este o substanţă care poate accepta protoni.
+Conform acestei definiţii, noţiunea de bază se lărgeşte, cuprinzând alături
+de hidroxizi şi substanţe care nu conţin gruparea HO–
+.
+Teoria electronică
+G. N. Lewis a formulat în anul 1938 următoarele definiţii pentru acizi şi
+baze:
+Un acid este o substanţă care poate juca rol de acceptor de electroni.
+O bază este o substanţă care poate juca rol de donor de electroni.
+Această teorie este cea mai generală. Toate bazele de tip Brönsted –
+Lowry sunt şi baze Lewis. Acizii Lewis sunt însă mult mai numeroşi şi includ
+substanţe care au un atom cu octet incomplet (AlCl3) sau cationi metalici.
+7.2. Oxizi
+7.2.1. Clasificare
+Oxizii sunt combinaţiile oxigenului cu un alt element chimic cu formula
+generală a oxizilor este X2O, în cazul uniu elementul chimic monovalent.
+Exemple de oxizi: oxid de sodiu, NaO, oxid de calciu, CaO, oxid de
+magneziu, MgO, oxid feros, FeO, oxid feric, Fe2O3, oxid de carbon, CO, dioxid
+44
+de carbon, CO2, dioxid de sulf, SO2, , monoxid de azot, NO, dioxid de azot,
+NO2, trioxid de azot, N2O3, pentoxid de azot, N2O5.
+Peroxizii sunt combinaţii care conţin în molecule gruparea – O – O –
+numită peroxidică, caracteristică apei oxigenate (H2O2).
+Funcţie de comportarea oxizilor cu apa, oxizii sunt clasificaţi în oxizi
+acizi (anhidride acide), oxizi bazici (anhidride bazice) şi oxizi amfoteri.
+7.2.2. Proprietăţi generale
+Oxizii acizi reacţionează cu apa, formând un acid, conform unor reacţiei
+generale, cum sunt:
+ +1 +1
+X2O + H2O = HXO
+ +4
+X O2 + H2O = H2XO3
+Exemple:
+- reacţia cu apa a monoxidului de clor gazos trecut peste oxid mercuric, la 4°C
+Cl2O + H2O = 2HClO
+Monoxid apa acid hipocloros
+ de clor(gaz) (lichid) (soluţie)
+- reacţia dioxidului de sulf cu apa
+SO2 + H2O = H2SO3
+Oxizii bazici reacţionează cu apa, formând o bază:
+ +2 +2
+ M O + H2O = M(OH)2
+Exemplu:
+CaO + H2O = Ca(OH)2
+ Oxid de hidroxid de calciu
+ calciu
+45
+Oxizii amfoteri formează cu apa acizi sau baze, în funcţie de condiţii;
+ Exemplu: formarea hidroxidului de aluminiu prin reacţia cu apa a oxidului de
+aluminiu care poate disocia atât ca o bază, cât şi ca un acid:
+Al2O3 + H2O = Al(OH)3 care poate disocia ca o bază → Al3+ + 3OH-
+ sau H3AlO3 care poate disocia ca un acid → 3H+
+ + AlO3
+3-
+Există oxizi care nu sunt anhidride nici de baze şi nici de acizi, denumiţi
+oxizi indiferenţi, cum sunt: oxidul de carbon, monoxidul de azot.
+7.3. Acizi
+Acizii sunt substanţe care conţin în molecula lor ioni de hidrogen, care în
+soluţie apoasă disociază astfel:
+acizii tari:
+HX → H+
+ + Xunde
+HX poate fi de exemplu: acid clorhidric, HCl, acid sulfuric, H2SO4 în
+prima treaptă de ionizare, acid percloric, HClO4.
+acizii slabi:
+HX + H2O  H 3O
++
+ + X-
+În soluţie, molecula de acid disociază în ion de hidroniu (H3O
++
+) şi ion
+radicalul acid, X-:
+HX + H2O  H 3O
++
+ + Xunde
+HX poate fi de exemplu: acid fosforic, H3PO4 , acid sulfhidric, H2S, etc.
+7.3 .1. Clasificare
+a) Funcţie de compoziţia moleculară, acizii sunt clasificaţi în:
+46
+- hidracizi( HX ), compuşi binari, în molecula cărora ionul de hidrogen este legat
+direct de elementul central, nemetalul fiind notat cu X (de ex.: HCl, H2S) ;
+- oxoacizii ( H – O – X ) , compuşi multiatomici în molecula cărora protonul
+este legat de atomul de oxigen care este legat şi de atomul central, nemetalul X,
+( de exemplu: H2CO3, H2SO4, HNO3, H3PO4, H3AsO4).
+b) Funcţie de numărul de protoni (H+
+) din molecule, pe care îi poate pune
+în libertate în soluţie sau care pot fi înlocuiţi de cationi, acizii se clasifică în:
+acizi monobazici:
+ HCl → H +
+ + ClHCl
++ Na+
+ → H +
+ + NaCl
+- acizi bibazici:
+ H2SO4 + H2O → H3O
++
+ + HSO4
+-
+
+HSO4
+-
+ + H2O  H3O
++
+ + SO4
+2-
+- acizi tribazici:
+H3PO4 + H2O  H3O
++
+ + H2PO4
+-
+H2PO4
+-
+ + H2O  H3O
++
+ + HPO4
+2-
+
+HPO4
+2- + H2O  H3O
++
+ + PO4
+3-
+Molecula de acid disociază punând în libertate a unui proton sau a mai
+multor protoni şi radicalul acid, format din elementul central sau gruparea
+formată din atomii elementului central şi cei ai oxigenului ( de exmplu: Cl-
+,
+SO4
+2-, CO3
+2-
+ , NO3
+-
+, PO4
+3-).
+Radicalul acid se comportă ca o grupare stabilă şi participă în aceeaşi
+compoziţie şi structură în reacţii chimice:
+De exemplu: H2SO4 + 2NaOH = Na2SO4 + 2H2O
+7.3.2. Acizi tari şi acizi slabi
+Bazicitatea unui acid ( valenţa radicalului acid) este dată de numărul atomilor de
+hidrogen care pot fi puşi în libertate sau înlocuiţi.
+47
+În soluţie apoasă, acizii disociază în ionul de hidroniu şi ionii radicalilor acizi.La
+o concentraţie dată, acizii sunt tari sau slabi, funcţie de concentraţia de ioni din
+soluţie.
+Acizii tari sunt complet disociaţi în soluţie, pe când acizii slabi sunt
+caracterizaţi de constanta de aciditate, Ka.
+Acizii polibazici disociază în mai multe etape de ionizare, cărora le
+corespunde câte o de constantă de aciditate, K1,K2, K3.
+În cazul acidului fosforic, de exemplu, pentru cele trei etape de disociere,
+corespund trei constante de aciditate:
+Etapa 1
+H3PO4 + H2O  H3O
++
+ + H2PO4
+-
+ K1 = [ H3O
++
+ ] · [H2PO4
+-
+] / [H3PO4]
+ K1 = 7,5·10-3
+
+Etapa 2
+H2PO4
+-
+ + H2O  H3O
++ + HPO4 K2 = [ H3O
++
+ ]·[HPO4
+2-] / [ H2PO4
+-
+ ]
+ K2 =0,2· 10-8
+Etapa 3
+HPO4
+2- + H2O  H3O
++ + PO4
+3- K3 = [ H3O
++
+ ]·[PO4
+3-] / [ HPO4
+2- ]
+ K3 = 4,8 ·10-13
+7.3.3. Proprietăţi generale
+Acizii sunt caracterizati prin:
+- reacţia cu bazele, cu formare de săruri şi apă:
+ +1 +1
+HX + M OH = M X + H2O
+acid bază sare apă
+HCl + KOH = KCl + H2O
+- reacţia cu oxizi bazici, cu formare de săruri şi apă:
+ +2 +2
+2HX + M O = M X2 + H2O
+48
+acid oxid sare apă
+2HCl + CuO = CuCl2 + H2O
+- reacţia cu metale, cu formare de săruri şi degajare de hidrogen:
+ +2 +2
+2HX + M = M X2 + H2 ↑
+acid metal sare hidrogen
+2HCl + Zn = ZnCl2 + H2 ↑
+- ionizarea în soluţie:
+Cu cât concentraţia de ioni din soluţie la o diluţie dată, este mai mare,
+acidul este mai puternic disociat, fiind considerat un acid tare. Acizii tari sunt
+complet disociaţi în ionul de hidroniu şi radicalul acid, pe când acizii slabi sunt
+caracterizaţi de prin constanta de echilibru :
+HX + H2O  X-
+ + H3O
++
+K = [ X-
+ ] · [ H3O
++
+ ] / [HX ] · [H2O ]
+Valoarea concentraţiei de apă fiind constantă într-o soluţie diluată,
+constanta de echilibru devine constanta de aciditate, Ka denumită şi constanta de
+ionizare:
+Ka = [ X-
+ ] · [ H3O
++
+ ] / [HX ]
+În cazul acizilor polibazici, fiecare etapă de ionizare succesivă în care se
+desprinde câte un proton şi ionul radicalului acid corespunzător, are câte o
+constantă de ionizare (acidul sulfuric, H2SO4 are două constante de ionizare ,
+H3PO4 are trei constante de ionizare).
+7.4. Baze
+49
+Conform teoriei disociaţiei electrolitice, bazele sunt compuşi chimici care
+au în moleculă ioni de hidroxid, OH-
+ (gruparea hidroxil, OH), şi care în soluţie,
+disociază astfel:
+MOH → M + + OH-
+În molecula hidroxidului, gruparea hidroxil este legată de atomul metalic
+prin atomul de oxigen: M – O – H, caz în care metalul este monovalent.
+7.4.1. Clasificare
+a) Funcţie de solubilitatea bazelor în apă, se clasifică în:
+- baze solubile: hidroxizii metalelor alcaline (LiOH, NaOH, KOH, RbOH,
+CsOH) denumiţi alcalii; hidroxizii metalelor alcalino-pământoase sunt mai puţin
+solubili în apă ( BeOH)2, Mg(OH)2,Ca(OH)2, SR(OH)2, Ba(OH)2.
+- baze insolubile: hidroxizii de cupru, fie, aluminiu.
+b) Funcţie de gradul de disociere în soluţie apoasă, deci de concentraţia
+ionilor de hidroxid în soluţie, la o concentraţie dată, se clasifică în:
+- baze tari
+- baze slabe
+7.4.2. Baze tari şi baze slabe
+Tăria bazelor este determinată direct de concentraţia ionilor de hidroxid în
+soluţie, la o concentraţie dată. Bazele tari sunt complet disociate în soluţii
+( NaOH, KOH), iar bazele slabe sunt caracterizate de constanta de bazicitate:
+MOH  M+
+ + OH-
+
+Kb = [M+
+ ] · [OH-
+ ] / [MOH ]
+ Cu cât electronegativitatea elementului central este mai mică, hidroxidul este
+o bază mai tare (NaOH), iar o dată cu creşterea acesteia, baza este mai slabă, de
+exemplu Mg(OH)2.
+50
+În soluţie, bazele se comportă diferit, disocierea moleculelor caracterizând
+caracterul amfoter:
+- punerea în libertate a protonilor determină caracterul de acid al hidroxidului:
+M – O – H + H2O → H3O
++ + MO-
+
+- punerea în libertate a ionilor de hidroxid, determină caracterul de bază al
+hidroxidului:
+M – O – H → OH- + M+
+- punerea în libertate atât a ionilor de hidroniu, cât şi a ionilor de hidroxid,
+demonstrează caracterul amfoter al hidroxidului ( ex.:hidroxidul de aluminiu)
+M+ + OH- + H2O → MO- + H3O
+7.4.3. Proprietăţi generale
+Bazele alcaline sunt caracterizare prin:
+- reacţia cu acizii, cu formare de săruri şi apă:
+MOH + HX = MX + H2O
+NaOH + HCl = NaCl + H2O
+- reacţia cu un oxid acid, cu formare de acid şi apă:
+2MOH + XO2 = M2XO3 + H2O :
+2NaOH + CO2 = Na2CO3 + H2O
+- reacţia cu o sare ( reacţie de dublu schimb), cu formare de o altă bază şi o altă
+sare:
+MOH + NX = NOH + MX
+2KOH + MnCl2 = 2KCl + Mn(OH)2
+- reacţia cu un metal, cu formare de sare şi degajare de hidrogen
+ +1 +3
+2MOH +2 N + 6H2O = 2 M [ N (OH)4 ] + 3H2
+2NaOH + 2Al + 6H2O = 2Na [ Al (OH)4 ] + 3H2
+51
+7.4.4. Teoria teoria protolitică
+În cadrul teoriei protolitice, J.N.Brönsted a considerat „acid, orice
+substanţă care are tendinţa de a ceda protoni şi bază, orice substanţă care are
+tendinţa de a accepta protoni”.
+Între un acid şi o bază există un transfer de protoni, reacţia fiind denumită
+reacţie protolitică :
+ ACID  BAZĂ + H+
+Sistemul se numeşte acid-bază conjugată, acidul şi baza respectivă, fiind
+conjugate sau corespondente.De exemplu, în soluţie apoasă:
+HCl + H2O → Cl-
+ + H3O
++
+
+ acid bază conjugată
+ NH3 + H2O 
++ NH4
+ + HO–
+ bază acid conjugat
+
+7.4.5. Teoria electronică a acizilor şi bazelor
+Din punct de vedere electronic G.N. Lewis a definit acidul şi baza, ca
+fiind molecula capabilă să „să accepte o o pereche de electroni şi respectiv, să
+furnizeze o pereche de electroni”.
+Astfel, baza are rol de donor de electroni şi acidul are rol de acceptor,
+legătura dintre ionii formaţi fiind o legătură coordinativă.
+De exemplu:
+H
++
+ + H – O – H  H3O
++
+
+ bază acid conjugat
+52
+7.5. Săruri
+Prin reacţia dintre un acid şi o bază rezultă, pe lângă apă, o substanţă
+denumită sare, MX, formată din cationul bazei ( ionul de metal, M)) şi anionul
+acidului ( radicalul acid, X):
+De exemplu, reacţia:
+NaOH + HCl = NaCl + H2O
+bază acid sare
+7.5.1.Clasificare
+Funcţie de comportamentul în reacţiile chimice la care participă, sărurile
+se clasifică în săruri acide, bazice şi neutre.
+Sărurile acide provin din acizi care conţin în molecula lor doi atomi de
+hidrogen ( acizi bibazici sau biprotonici) şi respectiv, trei atomi de hidrogen
+(acizi tribazici sau triprotonici), prin înlocuirea unui singur atom de hidrogen şi
+respectiv, a doi atomi de hidrogen, şi anume.
+- săruri primare sau biacide
+ex.: carbonatul acid de sodiu, NaHCO3 care provine de la acidul carbonic,
+H2CO3 , sulfatul acid de potasiu, KHSO4 care provine de la acidul sulfuric, H2
+SO4 ;
+- săruri secundare sau monoacide:
+ex.: fosfat acid de sodiu, Na2HPO4 care provine de la acidul fosforic, H3PO4,
+arsenat acid de sodiu, Na2HAsO4 care provine de la acidul arsenic, H3AsO4.
+Sărurile bazice
+Moleculele sărurilor bazice conţin una sau mai multe grupări de hidroxid
+(OH) de la baza din care provine sarea respectivă. Astfel, există săruri
+monobazice şi săruri bibazice a căror molecule conţin o grupare OH şi
+53
+respectiv, două grupări OH; de exemplu: BiOH(NO)3 , Bi(OH)2NO3 care provin
+de la Bi(NO)3 .
+Sărurile neutre
+Prin reacţia dintre cantităţi echivalente de acid şi respectiv, bază, rezultă o
+substanţă a cărei moleculă conţine ionul metalului din molecula bazei şi anionul
+acidului (radicalul acid), denumită sare.
+H2SO4 + NaOH = Na2 SO4 + H2O
+acid bază sare
+Sărurile care conţin în moleculă doi cationi de metale diferite, sărurile se
+numesc săruri duble, ca de exemplu: sulfatul dublu de potasiu şi aluminiu.,
+KAl(SO4)2.
+7.5.2. Proprietăţi generale
+Majoritatea sărurilor sunt substanţe solide, majoritatea fiind substanţe
+cristaline de diferite solubilităţi. În soluţii, sărurile disociază în cationi metalici
+(M) şi anioni (radicali acizi, X):
+ MX → M+
+ + XSărurile
+au următoarele proprietăţi generale:
+- reacţia cu metale:
+CuCl2 + Zn = Cu + ZnCl2
+Funcţie de potentialele standard ale metalelor, o soluţie de sare poate
+reacţiona cu un metal mai activ. Metalele mai active, care se află înaintea
+hidrogenului în seria activităţii electrochimice cunoscută ca seria Beketov- Volta
+(zincul), pot înlocui din săruri, metalele mai puţin active (cuprul):
+Zn + Cu2+ = Cu + Zn2+
+Funcţie de potenţialele standard ale metalelor, o soluţie de sare poate
+reacţiona cu un metal mai activ. Metalele mai active care se află înaintea
+54
+hidrogenului în seria activităţii electrochimice cunoscută ca seria BeketovVolta,
+de exemplu zincul, pot înlocui din săruri, metalele mai puţin active, de
+exemplu, cuprul.
+- reacţia cu hidroxizi alcalini (reacţie de dublu schimb), cu formare de sare şi o
+altă bază:
+FeCl3 + 3KOH = Fe(OH)3 + 3KCl
+- reacţia cu acizi (reacţie de dublu schimb), cu formare de sare şi un alt acid:
+ 2NaNO3 + H2SO4 = Na2SO4 + 2HNO3
+- reacţia cu o altă sare:
+ 2NaCl + CuSO4 = Na2SO4 + CuCl2
+- reacţia cu apa (hidroliza), cu formare de acid şi o bază:
+ +1 +1
+MX + H2O → HX + MOH ←
+În cazul în care acidul sau baza din care s-a format sarea este electrolit
+slab, hidroliza are loc astfel:
+- hidroliza unei sări care provine dintr-un acid slab şi o bază tare:
+X
+-
+ + H2O → HX + OH-
+
+anion acid
+De exemplu, hidroliza acetatului de sodiu ( CH3COONa ) are loc astfel:
+CH3COONa → CH3COO-
+ + Na+
+
+2 H2O  OH-
+ + 3H3O
++
+CH3COO-
+ + H3O
++  CH3COOH + H
++
+ + OH-
+ sau
+CH3COO-
+ + H2O  CH3COOH + OH-
+
+Prin hidroliza sărurilor se formează cantităţile echivalente de acid slab,
+acid acetic (CH3COOH) care disociază puţin şi hidroxid de sodiu (NaOH)
+complet disociat în ioni de Na+
+ şi OH- . Reacţia este bazică, deoarece în soluţie
+se găsesc un număr mare de ioni de hidroxid.
+- hidroliza unei sări care provine dintr-un acid tare şi o bază slabă:
+55
+ MH+
+ + H2O → MOH + H3O
++-
+
+ sare bază
+De exemplu, prin hidroliza azotatului de aluminiu, Al(NO3)3 se formează
+cantităţile echivalente de acid azotic, HNO3 complet disociat şi hidroxidul de
+aluminiu, un electrolit slab parţial disociat. Deci, reacţia este acidă:
+Al(NO3)3 → Al3+ + 3NO3
+-
+6H2O  3OH- + 3H3O
++
+
+ Al3+ + 3 OH-
+ → Al(OH)3
+Al(NO3)3 + 6 H2O → Al(OH)3 + 3H3O
++
+ + 3 NO3
+-
+ sau
+Al3+ + 6 H2O → Al(OH)3 + 3H3O
++
+
+- hidroliza unei sări care provine dintr-un acid slab şi o bază slabă
+ MH+ + X-
+ → M + HX
+ soluţie de sare bază acid
+De exemplu, în soluţia de acetat de amoniu (CH3COONH4 ) există ionii de
+CH3COO-
+ şi amoniu, NH4
++
+, sarea fiind complet disociată şi ionii rezultaţi din
+ionizarea apei:
+CH3COO NH4 → CH3COO-
+ + NH4
++
+
+2H2O  OH- + H3O
++
+
+În soluţie, prin combinarea cationilor NH4
++
+ şi H3O
++
+ se combină cu
+anionii OH- şi respectiv, CH3COO-
+ , formând hidroxidul de amoniu, NH4 OH
+şi acidul acetic, CH3COOH.:
+CH3COO- + H3O
++
+
+  CH3COOH + H2O
+NH4
++
+ + OH-
+  NH3 + H2O
+Atât acidul acetic, cât şi hidroxidul de amoniu sunt electroliţi slabi., deci
+slabi disociaţi.În acest caz, datorită diferenţelor foarte mici dintre gradele de
+disociere ale celor doi electroliţi slabi, soluţia are un caracter aproape neutru.
+Reacţia de hidroliză poate fi considerată ca reacţia inversă reacţiei de
+neutralizare:
+56
+sare + apă → bază + acid
+Gradul de hidroliză (γ) reprezintă raportul dintre cantitatea de substanţă
+hidrolizată şi cantitatea totală de sare dizolvată pentru realizarea soluţiei
+respective:
+γ = cantitate substanţă hidrolizată / cantitate totală dizolvată
+Gradul de hidroliză poate fi exprimat în procente (%) sau fracţii.
+Gradul de hidroliză este direct proporţional cu diluţia soluţiei şi
+temperatura şi invers proporţional cu constanta de disociere a acidului sau bazei.
+Totodată creşte şi concentraţia ionilor H3O
++ şi OH- , ceea ce determină
+exprimarea gradului de hidroliză astfel:
+γ ≈ c
+Ka Kw
+unde: Kw este produsul ionic al apei; Ka este constanta de aciditate a acidului
+slab, respectiv, al bazei slabe; c este concentraţia soluţiei.
+7.6. Apa
+Una din cele mai răspândite substanţe din natură este apa, sub forma
+gazoasă (vapori), lichidă ( apele de suprafaţă, apele freatice, apele subterane,
+apele minerale) şi solidă (zăpadă, grindină).
+Din punct de vedere chimic, apa din natură nu este pură, conţinând
+substanţe chimce, în special săruri în cantităţi mai mici ( ape moi) sau mai mari
+( ape dure). Substanţele minerale greu solubile (ex. carbonaţii de calciu şi
+magneziu) se îndepărtează prin procesul de dedurizare.
+57
+Pentru îndepărtarea substanţelor dizolvate în apă, se procedează la
+distilarea apei, adică aducerea apei în stare de vapori, urmată de condensarea
+acestora prin instalaţii de răcire. De asemenea, deionizarea apei se realizează
+prin îndepărtarea anionilor şi cationilor care impurifică apa, uitlizând
+schimbători de ioni.
+Apa este indispensabilă vieţii organismelor vegetale şi animale, activitatea
+vitală scăzând o dată cu reducerea cantităţii acesteia.
+Apa potabilă trebuie să îndeplinească condiţia de fi inodoră, incoloră,
+insipidă, fără impurităţi anorganice sau organce, fără microorganisme patogene.
+Conţinutul impurităţilor apei potabile trebuie să se încadreze în limittele
+prevăzute în normele legale, şi anume: reziduu uscat 500-600 mg/L, oxid de
+calciu 130-150 mg/L, oxid de magneziu 40-50 mg/L , clor 20-30 mg/L, acid
+sulfuric exprimat în mg SO3 70-80 mg/L, oxigen 2-4 mg/L, duritatea în grade
+18-20.
+7.6.1.Structura moleculei de apă
+Molecula de apă nu are o structură lineară, conţinând un atom de oxigen
+central şi doi atomi de hidrogen care formează între ei un unghi de 1040 30',
+(formula chimică, H2O). La formarea celor două legături covalente O − H
+participă doi electroni necuplaţi de doi orbitali px şi p z ai atomului de oxigen şi
+doi electroni ai celor doi atomi de hidrogen.
+Molecula de apă are un moment electric, μ, de 1,84. În stare lichidă,
+moleculele de apă sunt asociate datorită legăturilor de hidrogen.
+În stare solidă, conform cercetărilor lui L.Pauling, un atom de oxigen este
+înconjurat de încă patru atomi de oxigen într-o structură spaţială tetraedică,
+legaţi prin atomi de hidrogen poziţionaţi între fiecare pereche de atomi de
+oxigen.Molecula de apă poate forma patru legături de hidrogen, atît ăn stare
+solidă, cât şi în stare lichidă.
+58
+Distanţa dintre doi atomi de oxigen legaţi prin intermediul atomului de
+hidrogen este de 2,76 Ǻ, iar protonul se află la o distanţă de 1,00 Ǻ de un atom
+de oxigen şi la 1,76 Ǻ de celălalt atom de oxigen.
+7.6.2. Proprietăţi generale
+Apa reacţionează cu metale, nemetale, oxizi şi unii compuşi organici ( ex.
+metanul):
+- reacţia cu metalele cu punere în libertate a hidrogenului are loc în
+condiţii diferite de temperatură, funcţie de potenţalul electrochimic al metalelor
+(seria Beketov- Volta).
+Astfel, sodiu şi potasiu reacţionează violent cu apa în stare lichidă
+(reacţie puternic exotermă), calciu reaţionează mai lent la temperatura obşjnuită,
+magneziu numai prin încălzire, aluminiu nu reacţionează nici la fierbere, pe
+când fierul reacţionează numai în condiţii speciale de temperaturi înalte.
+Na + H2O = NaOH + H2 ↑
+- reacţia cu nemetale, de exemplu carbon are loc în condiţii speciale ( la
+temperaturi înalte) , formând gazul de apă:
+C + H2O = CO + H2 ↑
+- reacţia cu oxizi ai metalelor:
+MgO + H2O = Mg(OH)2
+- reacţia cu oxizi ai nemetalelor:
+SO3 + H2O = H2SO4
+- reacţia cu metanul, la temperaturi înalte:
+CH4 + H2O = CO + 3H2
+ gaz de apă
+7.6.3. Cristalohidraţi
+59
+Unele substanţe conţin în cristale , molecule de apă denumită apă de
+cristalizare, de exmplu: CuSO4·5H2O (piatra vânătă), CaCl2·6 H2O, MgCl2·6
+H2O, FeSO4·7 H2O, Na2CO3·10H2O(soda cristalizată), Ca(SO)4·2H2O (gipsul),
+Al2(SO4)3·18 H2O.Aceste substanţe numite cristalohidraţi, au proprietăţi diferite
+de substanţele de la care derivă.
+După modul în care se leagă molecula de apă de substanţa anhidră, există
+apă cationică ( prin legături coordinative), apa ionică ( prin legături de
+hidrogen), apa de reţea (nelegată de cationi sau anioni). În cazul răşinilor
+schimbătoare de ioni, apa se află în golurile reţelelor cristaline fără a le modifica
+structura.
+Cristalohidraţii pot pierde apa de cristalizare fie la temperatura camerei,
+prin eflorescenţă, precum Na2CO3·10H2O, fie prin fierbere precum CuSO4·5H2O,
+tranformându-se în substanţele anhidre respective.
+ Na2CO3·10H2O = Na2CO3 + 10H2O
+CuSO4·5H2O = CuSO4 + 5H2O
+Substanţele care absorb vaporii de apă din atmosferă transformându-se în
+cristalohidraţi, se numesc higroscopice ( de exemplu MgCl2 care devine
+MgCl2·2H2O, MgCl2·4H2O , MgCl2·6H2O).
+Capitolul VIII
+TABELUL PERIODIC
+8.1.Scurt istoric
+De-a lungul timpului, pe măsură ce s-au descoperit elementele chimice
+oamenii de ştiinţă au încercat să le clasifice de cele mai multe ori în funcţie de
+comportarea lor în prezenţa altor elemente sau compuşi chimici.
+60
+J. Berzelius şi A. Lavoisier au făcut, la sfârşitul secolului al XIX-lea,
+prima clasificarea a elementelor în metale şi nemetale. Această clasificare se
+păstrează şi în zilele noastre.
+În istoria descoperirii şi clasificării elementelor chimice a rămas important
+J. Dobereiner prin a sa clasificare a elementelor în triade, pe baza proprietăţilor
+lor fizico-chimice asemănătoare; triadele conţineau, de exemplu, metale
+alcaline: Li, Na, K sau halogeni, Cl, Br, I.
+Observaţia care avea să ducă spre clasificarea cunoscută în zilele noastre a
+fost făcută de J. Newlands în anul 1864. Acesta a enunţat regula octavelor: dacă
+se ordonează elementele în ordinea crescătoare a maselor atomice, la fiecare al
+optulea element proprietăţile sunt asemănătoare.
+În acelaşi an L. Meyer a prezentat pentru prima dată un tabel periodic
+incomplet. Toate aceste încercări de sistematizare şi clasificare a elementelor
+chimice l-au ajutat pe chimistul rus Dimitri Mendeleev să formuleze una dintre
+cele mai importante legi din istoria chimiei: legea periodicităţii.
+Mendeleev a enunţat legea periodicităţii astfel: proprietăţile fizice şi chimice
+ale elementelor, care se manifestă în proprietăţile substanţelor simple şi
+compuse pe care le alcătuiesc, sunt într-o dependenţă periodică de masele lor
+atomice. Mendeleev a aranjat cele 63 de element cunoscute pe vremea lui într-un
+tabel numit Tabelul Periodic.
+Tabelul Periodic pe care îl folosim conţine informaţii utile şi la îndemâna
+oricui vrea să studieze şi să înţeleagă lumea materială în care trăieşte.
+8.2. Corelaţia dintre structura învelişului electronic
+al atomului şi poziţia elementului chimic în Tabelul Periodic
+Tabelul periodic este format din grupe (şiruri verticale), notate cu cifre
+arabe de la 1 la 18 şi perioade (şiruri orizontale), notate cu cifre arabe de la 1 la
+7. În acest Tabel Periodic elementele sunt aranjate în ordinea creşterii numărului
+61
+atomic Z. Numărul atomic Z indică poziţia unui element în tabelul periodic, el
+fiind numărul de ordine al elementului. Fiecare element diferă de elementul
+precedent prin electronul distinctiv.
+Poziţia unui element în Tabelul Periodic este determinată de configuraţia
+sa electronică, iar la rândul ei aceasta determină poziţia în Tabelul Periodic. În
+căsuţa fiecărui element din Tabelul Periodic este notată configuraţia electronică
+a elementului.
+Astfel, numărul perioadei este egal cu numărul de straturi electronice. De
+exemplu elementul Na se află în perioada a 3-a, are deci un înveliş electronic
+format din 3 straturi; elementul Br se află în perioada a 4-a are un înveliş alcătuit
+din 4 straturi.
+Numărul grupei este egal cu numărul de electroni de pe ultimul strat, dacă
+este vorba de elemente din grupele principale. Elementele din grupele secundare
+au pe ultimul strat un număr de electroni egal cu numărul grupei (grupele 11 şi
+12) sau diferit de numărul grupei.
+În funcţie de tipul de orbital în care se găseşte electronul distinctiv
+electronul distinctiv elementele se pot clasifica în grupe sau blocuri:
+- toate elementele care au electronul distinctiv în orbital de tip s formează
+blocul elementelor de tip s; acest bloc este format din elemente situate în
+Tabelul Periodic în grupele principale 1 (IA) şi 2 (IIA);
+- toate elementele care au electronul distinctiv în orbital de tip p formează
+blocul elementelor de tip p; acest bloc este format din elemente situate în
+Tabelul Periodic în grupele principale 13(IIIA), 14(IVA), 15(VA), 16(VIA) şi
+17(VIIA);
+- toate elementele care au electronul distinctiv într-un orbital de tip d, al
+penultimului strat alcătuiesc blocul elementelor de tip d; ele se mai numesc şi
+elemente tranziţionale;
+- elementele la care electronul distinctiv ocupă un orbital de tip f al
+antepenultimului strat alcătuiesc fie blocul lantanidelor (dacă electronul este în
+62
+stratul 4 f) fie pe cel al actinidelor, dacă electronul distinctiv este într-un orbital
+de tip 5 f.
+8.3. Corelaţii între poziţia elementului în Tabelul Periodic
+şi proprietăţile lui fizice şi chimice
+În funcţie de felul în care variază de la un element la altul proprietăţile
+elementelor sunt:
+- neperiodice – variază continuu de la un element la altul: numărul atomic şi
+masa atomică.
+- periodice – care se repetă la un număr de elemente şi sunt funcţii periodice de
+număr atomic Z. Proprietăţile periodice sunt atât fizice cât şi chimice.
+În Anexele 1 şi 2 sunt prezentate valori ale proprietăţilor periodice
+chimice şi fizice ale elementelor.
+8.3.1. Proprietăţi periodice fizice
+Proprietăţile periodice fizice sunt: volumul atomic, raza atomică, volumul
+ionic, raza ionică, energia de ionizare, afinitatea pentru electroni.
+Volumul atomic şi raza atomică
+Volumul atomic este direct proporţional cu numărul de straturi ocupate cu
+electroni în învelişul electronic al atomului. El este invers proporţional cu
+sarcina nucleară.
+Raza atomică variază similar volumului atomic. Pentru elementele din grupele
+principale, razele şi volumele atomice cresc în grupă de sus în jos şi scad în
+perioadă de la grupa 1 la grupa 18, o dată cu creşterea sarcinii nuclare.
+63
+Pentru elementele tranziţionale volumele atomici sunt mici deoarece au o
+sarcină nucleară mare ceea ce face ca electronii să fie mai puternic atraşi de
+nucleu şi deci volum atomului să scadă.
+Volumul ionic şi raza ionică
+Elementele îşi realizează configuraţia stabilă de dublet sau de octet pe
+ultimul strat prin cedare sau acceptare de electroni, transformându-se în ioni
+pozitivi şi respectiv negativi.
+E – ne-→E n+
+ Ion pozitiv
+ E + ne-
+ → E n-
+ Ion negativ
+Razele ionilor pozitivi sunt mai mici decât ele atomilor din care provin.
+Razele ionilor negativi sunt mai mari decât ale ionilor din care provin.
+Razele ionilor cresc în perioade de la grupa 18 la grupa 1 şi în grupe de la
+perioada 1 la perioada a 7-a.
+Energia de ionizare
+Energia de ionizare reprezintă cantitatea de energie necesară pentru a
+smulge un electron dintr-un atom al unui element aflat în stare gazoasă. Atomul
+se transformă astfel în ion pozitiv. Atomii care au mulţi electroni în învelişul
+electronic au energie de ionizare mică, deoarece stratul exterior este mai
+îndepărtat de nucleu şi energia necesară pentru a smulge un electron este mai
+mică.
+Eg - e-
+ → E g
++
+E g
++ - e
+-
+ → E g
+2+ sau
+ Eg + I1 → E g
++
+ + e-
+,
+ unde I1 reprezintă energia primară de ionizare; cantităţile de energie necesare
+pentru cedarea următorilor electroni (de la 2 la n), notate cu I2.....In , sunt mai
+mari decât în primele cazuri:
+64
+I1 < I2 < ....... < In
+În perioade energia de ionizare creşte de la grupa 1 la grupa 18 o dată cu
+creşterea numărului atomic. Elementele tranziţionale nu respectă periodicitatea,
+deoarece aceste elemente îşi completează orbitali de tip d, situaţi în interiorul
+învelişului electronic pentru care se manifestă fenomenul de ecranare. Cele mai
+mici energii de ionizare le au metalele alcaline situate în colţul din stânga jos a
+tabelului periodic, iar cele mai mari le au elementele situate în colţul din dreapta
+sus a tabelului periodic.
+Afinitatea pentru electroni
+Pentru a se transforma în ioni negativi unii atomi, care un număr mare de
+electroni pe ultimul strat atomul acceptă electroni. Prin acceptare de electroni
+atomii se transformă în ioni negativi. Energia eliberată la captarea unui electron
+se numeşte afinitate pentru electron. Cea mai mare afinitate pentru electroni o au
+hologenii situaţi în colţul din dreapta sus a Tabelului Periodic.
+8.3.2.Proprietăţi periodice chimice
+În funcţie de poziţia elementelor în tabelul periodic acestea au proprietăţi
+chimice care se repetă periodic. Aceste proprietăţi sunt: valenţa, numărul de
+oxidare, electronegativitatea, caracterul metalic, caracterul nemetalic, caracterul
+acido-bazic.
+Valenţa. Numărul de oxidare
+Valenţa este un număr întreg şi caracterizează capacitatea de combinare a
+unui atom cu un alt atom.
+Elementele ai căror atomi au mai puţin de 4 electroni pe ultimul strat au
+valenţa egală cu număr de electroni de pe ultimul strat. De exemplu elementele
+din grupa 1 principală au valenţa, 1, cele din grupa 2 au valenţa 2, iar cele din
+grupa 3 au valenţa 3.
+65
+Elementele ai căror atomi au mai mult de 4 electroni pe ultimul strat au
+valenţa egală cu 8 – numărul grupei, exprimat în cifre romane: de exemplu
+oxigenul este în grupa a VI-a principală (grupa 16) şi are valenţa 8-6 = 2.
+Atunci când atomii cedează sau acceptă electroni şi se transformă în ioni
+pozitivi şi respectiv negativi ei sunt caracterizaţi prin electrovalenţă.
+Când atomii pun în comun electroni ei sunt caracterizaţi prin covalenţă.
+Covalenţa este numărul de electroni pe care un atom îi pune în comun cu un alt
+atom.
+Toate aceste noţiuni de electrovalenţă şi covalenţă au fost reunite în
+noţiunea de număr de oxidare sau stare de oxidare. Numărul de oxidare este o
+măsură a numărului de electroni pe care un atom îi poate ceda, accepta sau pune
+în comun pentru a se lega cu alţi atomi identici sau diferiţi.
+În tabelul 8 sunt trecute elementele cu mai multe N.O., cel mai des
+întâlnite în practică.
+8.4. Reguli pentru stabilirea numerelor de oxidare
+Numerele de oxidare se stabilesc după următoarele reguli:
+1. Elementele în stare liberă (atomi sau molecule) au numărul de oxidare zero.
+Exemplu: 2
+0
+2
+0
+2
+0 0
+Cu,H ,O ,Cl
+2. În compuşii ionici elementele au numărul de oxidare egal cu numărul de
+electroni cedaţi sau acceptaţi în procesul de formare a ionilor. Exemplu: 1 1
+NaCl
++ −
+,
+2
+2 2 1
+2
+1
+2
+2 1
+Ca F , Na S,MgBr
++ − + − + −
+3. În compuşii covalenţi, de regulă, atomului de hidrogen i se atribuie N.O. + 1
+şi atomului de oxigen N.O. -2; numărul de oxidare al celorlalte elemente se
+stabileşte ţinând seama de regula următoare : suma algebrică a numerelor de
+66
+oxidare ale tuturor elementelor componemte ale compusului covalent este egală
+cu zero. Exemplu: 2
+2 1 1 4 2
+2
+1
+3
+3 1
+N H , H O, HCl, S O
+− + + − + − + −
+4. Într-un ion poliatomic atomului de hidrogen are totdeauna N.O. +1 şi cel de
+oxigen N.O. -2. Suma algebrică a N.O. ale tuturor elementelor componente ale
+ionului poliatomic este egală cu sarcina sa. În ionul − NO3 :
+− +
+3
+5 -2
+NO , în ionul 2−
+SO4
+ :
+− + −
+2
+4
+6 2
+SO , în ionul HO–
+ :
+- 1 2
+HO
++ −
+5. Excepţii: în peroxizi atomul de oxigen are N.O. -1. Exemplu: 2
+1 1
+H2 O
++ −
+. În
+hidruri ale metalelor alcaline şi alcalino-pământoase atomul de hidrogen are
+N.O. -1. Exemplu : 2
+1 1 2 1
+Na H, Ca H
++ − + −
+Electronegativitatea
+Capacitatea unui atom făcând parte dintr-o legătură chimică de a atrage
+electronii spre el se numeşte electronegativitate.
+Noţiunea de electronegativitate a fost introdusă de S.Mulliken care a
+realizat şi o scală a electronegativităţii cu valori cuprinse între 1 şi 4. Elementele
+situate în grupele 17, 18 perioadele 2 şi 3 au electronegativitate mare, iar cele
+situate în grupele 1 şi 2 perioadele 5,6 şi 7 au cele mai mici valori ale
+electronegativităţii.
+Capitolul IX
+ METALE
+9.1. Răspândirea în natură
+67
+Cele mai multe dintre elementele din Tabelul Periodic sunt metale. Ele
+se găsesc în natură sub formă de minerale şi foarte puţine în stare nativă, adică
+libere, necombinate.
+ Metalele care se găsesc în stare nativă sunt de obicei cele preţioase ca
+argintul, aurul, platina.
+Metalele se găsesc în scoarţa terestră în diferite forme în funcţie de
+solubilitatea sărurilor metalului şi de uşurinţa cu care metalele reacţionează cu
+apa sau sunt oxidate.
+Metalele situate în seria potenţialelor electrochimice mult după hidrogen
+precum aurul, argintul, platina se găsesc în natură în stare elementară. Metalele
+mai reactive, dar situate tot după hidrogen, se găsesc sub formă de sulfuri:
+sulfură de cupru, sulfură de plumb. Sulfurile sunt compuşi greu solubili şi au
+rezistat acţiunii apei.
+Metalele situate imediat înaintea hidrogenului au fost oxidate şi se găsesc
+sub formă de oxizi : oxid de mangan, oxid de aluminiu, oxid de titan. Metalele
+mai reactive precum calciul şi magneziul se găsesc sub formă de săruri:
+carbonaţi, sulfaţi, silicaţi. Cele mai reactive metale se găsesc în natură sub formă
+de săruri solubile sau ca aluminosilicaţi insolubili : albit (NaAlSi3O8).
+Mineralul este un component al rocilor si al minereurilor şi s-a format în
+urma proceselor geologice. Este reprezentat printr-o combinaţie chimică şi
+mai rar prin elemente native. Minereul este format din unul sau mai multe
+minerale, din care se pot extrage pe unul sau mai multe metale. Minereul din
+care se extrage metalul este însoţit adeseori de minerale nemetalifere, care
+formează ganga sau sterilul.
+Procedeele extractive erau cu secole în urmă artizanale. Metode de obţinere
+a metalelor din minereuri au fost cunoscute încă din antichitate. Cu timpul au
+fost puse bazele metalurgiei, ca ştiinţă şi tehnologie a metalelor, având ca obiect
+obţinerea, purificare şi prelucrarea fizică şi chimică a acestora. Treptat
+metalurgia a devenit o industrie cu procedee specifice şi foarte rentabilă.
+68
+ Problemele de rentabilitate şi de ecologizare a industriei metalurgice au dus
+la găsirea unor soluţii practice prin care să se diminueze haldele de steril, să se
+recicleze şi să se recupereze nu numai produşi utili ci şi produse derivate.
+Metalele cele mai frecvent întâlnite în natură sunt aluminiul, fierul, calciul,
+sodiul si potasiul; cele mai rare sunt manganul, zincul, cuprul, plumbul,
+argintul, aurul.
+În tabelul 9 se prezintă răspândirea unor metale uzuale în litosferă şi
+mineralele ce le conţin.
+Tabelul 9. Răspândirea în scoarţa Pământului a unor elemente
+Element % în scoarţa
+Pământului
+Mineralul în care se găseşte
+elementul
+Al 7,5 Aluminosilicaţi , feldspaţi, oxizi
+Fe 4,7 Oxizi, sulfuri, carbonaţi
+Ca 3,4 Carbonaţi, sulfaţi, fluoruri
+Na 2,6 Cloruri, silicaţi, azotaţi
+K 2,4 Cloruri, silicaţi
+Mg 1,9 Carbonaţi, cloruri, silicaţi
+Cu 0,1 Sulfuri, carbonaţi
+Zn 0,02 Sulfuri, oxizi
+Pb 0,002 Sulfuri, sulfaţi, carbonaţi
+În general metalele din grupa I A (Na, K) se găsesc în natură sub formă de
+săruri uşor solubile în apă: halogenuri (cloruri), silicaţi şi azotaţi. Metalele din
+grupa a Il-a A (Mg, Ca) se găsesc în săruri greu solubile în apă, în carbonaţi
+şi sulfaţi.
+Aluminiul, metalul cel mai răspândit în scoarţa terestră, se găseşte în
+aluminosilicaţi şi feldspaţi; el nu se extrage însă din aceste minerale, deoarece
+au un conţinut mare de steril. Aluminiul se obţine industrial din bauxită.
+9.2. Metode de obţinere a metalelor
+69
+Pentru a obţine metale în stare pură trebuie parcurse în general,
+următoarele etape: concentrarea minereului, extragerea metalului din minereul
+concentrat, adică reducerea metalului şi obţinerea lui în starea de oxidare 0,
+purificarea metalului obţinut.
+Extragerea metalului este de fapt o prelucrare chimică a materialului
+obţinut după etapa de concentrare. Prelucrarea chimică depinde de natura
+minereului şi a metalului care trebuie extras.
+Procedeele cel mai frecvent utilizate pentru obţinerea metalelor pot fi
+clasificate în trei categorii: procedee electrometalurgice, procedee
+pirometalurgice, procedee hidrometalurgice.
+Procedeele electrometalurgice constau în electroliza unor compuşi ai
+metalelor, în stare de topitură sau în soluţie apoasă.
+Electroliza este procesul care se produce la trecerea curentului electric
+prin soluţia unui electrolit sau printr-un electrolit topit. Celula în care are loc
+electroliza se numeşte celulă electrolitică. O celulă electrolitică se aseamănă din
+punct de vedere constructiv cu o celulă electrochimică. Deosebirea constă în
+faptul că într-o celulă de electroliză se foloseşte curentul electric pentru a
+produce o reacţie redox. Cu alte cuvinte, în absenţa curentului electric reacţia
+redox nu este spontană.
+9.3 Materiale anorganice cu importanţă practică
+9.3.1. Clasificare. Compoziţie
+Aliajele sunt materiale metalice obţinute prin difuzia în stare topită a două
+sau mai multe metale; uneori aliajele rezultă din metale cu adaosuri de nemetale.
+Aliajele pot fi omogene sau eterogene (neoinogene); aliajele omogene se
+mai numesc soluţii solide. Ca aliaje omogene se cunosc: aurul cu argintul (aurul
+dentar), aurul cu argint şi cupru (aurul pentru bijuterii), fierul cu nichelul, fierul
+cu cobaltul etc.
+70
+Metalele care se află departe unul de altul în sistemul periodic formează
+aliaje care conţin două metale cu o compoziţie chimică definită (compuşi
+intermetalici); în aceşti compuşi raportul de combinare al metalelor nu
+corespunde valenţelor lor. De exemplu, aurul cu zincul dau aliaje omogene,
+formate din următorii compuşi intermetalici: AuZn, Au3Zn5, AuZn3. Tot astfel
+de aliaje formează cuprul cu zincul, aluminiul cu magneziul, sodiul cu plumbul.
+Exemple de aliaje eterogene sunt: aliajul de lipit (plumb cu staniu), aliajul
+tipografic (plumb cu staniu şi stibiu), aliajul staniului cu zincul etc. Alte aliaje
+reprezintă compuşi între metale şi nemetale. Un exemplu îl constituie fonta, un
+aliaj eterogen, care conţine compusul chimic Fe3C, numit cementită.
+9.3.2. Obţinerea aliajelor
+Sunt mai multe procedee industriale de obţinere a aliajelor.
+a) Obţinerea aliajelor prin topire. Metalele sunt fie topite separat şi apoi
+amestecate, fie se topeşte întâi un metal şi în topitura lui se dizolvă celelalte
+componente (de ex.feroaliajele).
+b) Obţinerea aliajelor din componente. Minereurile complexe care conţin mai
+multe metale se prelucrează direct şi se transformă în aliaje ale metalelor
+componente (de ex. aliajele de cupru şi nichel).
+c) Obţinerea aliajelor prin reducere concomitentă. Se supune reducerii un
+amestec de oxizi metalici care se transformă în metalele respective şi se aliază
+chiar în cuptorul de reducere. Astfel se obţine aliajul plumbului cu stibiul.
+9.3.3. Proprietăţile fizice ale aliajelor
+Densitatea (greutatea specifică) a aliajelor este de cele mai multe ori
+intermediară între densităţile metalelor constituente.
+71
+Duritatea aliajelor este mai mare decât a metalelor pure care le compun.
+Astfel, oţelurile (aliaje ale fierului cu carbonul) au duritatea mult mai mare decât
+a fierului pur. Un adaos de carbon şi wolfram dublează duritatea fierului.
+Mărirea durităţii prin aliere este unul din motivele pentru care se
+elaborează aliajele. Temperatura de topire este mai mică în cazul aliajelor, decât
+temperaturile de topire ale metalelor respective; proprietatea se foloseşte în
+procesele de prelucrare la cald.
+Conductibilitatea electrică a aliajului este mai mică decât conductibilitatea
+componentelor; pe această proprietate se bazează obţinerea unor aliaje
+(constantan, nichelină) cu rezistenţă electrică mare, folosite în electrotehnică.
+Rezistenţa mecanică a metalelor creşte prin aliere: de exemplu, alama,
+aliaj de cupru şi zinc este de aproape două ori mai rezistentă decât cuprul pur şi
+de patru ori mai rezistentă decât zincul. Rezistenta la coroziune se măreşte dacă
+metalele se aliază; aliajele sunt rezistente la acţiunea agenţilor fizici şi chimici
+din atmosferă.
+9.3.4. Aliaje cu importanţă industrială
+Fonta este un aliaj al fierului cu carbonul în procent de 1,7-5%C. Există
+trei categorii de fonte.
+- fonta de turnătorie, în care carbonul este conţinut sub formă de grafit, are în
+compoziţie siliciu, mangan şi procente mici de fosfor şi sulf. Este folosită pentru
+confecţionarea de radiatoare, calorifere, plite, ceaune etc;
+-fonta de afinare, care conţine carbonul sub formă de cementită (Fe3C), are
+duritatea mai mare si constituie materia primă pentru prepararea oţelurilor.
+-feroaliajele conţin procente mai mari de mangan (feromangan), de
+crom (ferocrom), de molibden (feromolibden), de vanadiu (ferovanadiu). Ele
+servesc la fabricarea oţelurilor speciale, cu calităţi superioare.
+72
+Oţelurile conţin fier şi procent mai mic de carbon decât fontele (0,3—
+2%C);~ de asemenea, elementele siliciu, mangan, sulf şi fosfor sunt în procente
+foarte reduse (urme).
+Otelurile-carbon, aliaje ale fierului cu carbonul, care mai pot conţine
+mangan, siliciu, sulf şi fosfor, sunt întrebuinţate în construcţii mecanice şi pentru
+unele piese metalice.
+Oţelurile speciale conţin şi alte metale care le îmbunătăţesc calităţile:
+nichel, crom, vanadiu, cobalt, wolfram etc.
+Oţelurile cu nichel sunt rezistente la solicitări mecanice şi de aceea se
+utilizează în construcţii de maşini.
+Oţelurile cu crom au o duritate mare şi se folosesc la fabricarea de unelte,
+bile şi roţi dinţate, piese inoxidabile etc.
+Oţelurile rapide, care conţin pe lângă fier şi carbon elemente ca: wolfram,
+crom, vanadiu, cobalt, mangan, siliciu sunt folosite la fabricarea cuţitelor
+pentru maşini aşchietoare şi a burghielor rezistente la viteze mari de tăiere.
+Alamele sunt aliaje ale cuprului cu zincul; ele se prelucrează la strung, dar
+nu pot fi turnate. Se folosesc la confecţionarea de ventile, piuliţe, inele, bucşe
+etc.
+Bronzurile sunt constituite din cupru şi staniu; se pot turna foarte bine,
+sunt dure şi rezistente. Din ele se confecţionează lagăre, armături speciale, table,
+sârme, statui etc.
+Aliajele de lipit sunt aliaje ale plumbului cu staniul.
+Aliajele tipografice conţin plumb, stibiu şi staniu.
+Duraluminiul este un aliaj al aluminiului cu procente mici de cupru,
+mangan şi magneziu; are o mare duritate şi se foloseşte în industria aeronautică
+şi a automobilelor.
+Amalgamele sunt aliajele mercurului cu diferite metale; se folosesc în
+tehnica dentară şi în procese electrolitice.
+73
+9.3.5.Aliajele folosite în industria produselor alimentare
+Aliajele folosite în industria produselor alimentare trebuie să respecte
+normele de calitate impuse de standardele europene. Principala destinaţie a
+aliajelor în industria alimentară este ambalajul.
+Prin ambalaj se desemnează orice obiect, indiferent de materialul din care
+este confecţionat ori de natura acestuia, destinat reţinerii, protejării, manipulării,
+distribuţiei şi prezentării produselor, de la materii prime la produse procesate, de
+la producător până la utilizator sau consumator.
+Obiectul nereturnabil destinat aceloraşi scopuri este, deasemenea,
+considerat ambalaj. Există mai multe tipuri de ambalaje:
+ambalaj primar - ambalaj de vânzare - ambalaj conceput şi realizat pentru
+a îndeplini funcţia de unitate de vânzare, pentru utilizatorul final sau
+consumator, în punctul de achiziţie;
+ambalaj secundar - ambalaj grupat, supraambalaj conceput pentru a
+constitui la punctul de achiziţie o grupare a unui număr de unităţi de vânzare,
+indiferent dacă acesta este vândut ca atare către utilizator sau consumatorul final
+ori dacă el serveşte numai ca mijloc de umplere a rafturilor în punctul de
+vânzare; el poate fi separat de produs fără a afecta caracteristicile produsului;
+ambalaj terţiar - ambalaj pentru transport - ambalaj conceput pentru a
+uşura manipularea şi transportul unui număr de unităţi de vânzare sau ambalaje
+grupate, în scopul prevenirii deteriorării în timpul manipulării ori transportului.
+Ambalajul pentru transport nu include containerele rutiere, feroviare, navale sau
+aeriene.
+Ambalajele din metal sunt confecţionate din oţel sau din aluminiu.
+Oţelul se utilizează în producerea de recipiente pentru ambalarea unei
+game largi de produse, cum sunt produsele alimentare, vopselele, etc.
+Ambalajele din aluminiul se utilizează pentru realizarea de recipiente
+pentru alimente şi băuturi, folii şi laminate.
+74
+De exemplu, dozele de bere aflate pe piaţă sunt fabricate din oţel (greutate
+medie 30 g) sau din aluminiu (greutate medie 16 g). Deşi îndeplinesc aceeaşi
+funcţie dozele din oţel au greutatea mai mare cu peste 50 %; greutatea mai mare
+a ambalajului din oţel se datorează greutăţii specifice mai mari a acestuia (7,8
+g/cm3
+ faţă de 2,7 g/cm3
+ la aluminiu).
+9.4. Proprietăţi fizice ale metalelor
+Metalele au proprietăţi fizice specifice determinate de structura specifică a
+reţelei metalice.
+Starea de agregare. În condiţii normale de temperatură şi presiune
+metalele sunt solide. Excepţie face mercurul care este lichid la temperatura
+camerei.
+Luciul metalic. Metalele în stare compactă au luciu, datorită proprietăţii
+suprafeţei lor de a reflecta lumina incidentă. Când se găsesc în stare fin divizată
+majoritatea metalelor îşi pierd luciul, numai magneziului şi aluminiului şi-l
+păstrează.
+Opacitatea. Deoarece radiaţia luminoasă care vine în contact cu metalul
+întâlneşte electronii mobili din structura specifică a reţelei metalice, ea este fie
+reflectată, fie absorbită, dar nu poate trece prin metale (nu poate fi transmisă).
+Din acest motiv, metalele nu sunt transparente nici când se află sub formă de
+foiţe; metalele sunt opace.
+Culoarea. Majoritatea metalelor sunt colorate în alb-argintiu (de exemplu:
+Na, K, Ca, Mg, Al, Cr, Hg) sau în cenuşiu (de exemplu: Pb, Fe). Cuprul si aurul
+au culoarea galben-roşcată.
+Densitatea metalelor variază în limite foarte largi, de la valori subunitarc,
+până la valori de ordinul zecilor de grame/cm3. După densitate, metalele se pot
+împărţi în două categorii: metale uşoare (cu densitate mai mică de 5 g/cm3
+) si
+metale grele.
+75
+Temperatura de topire. Temperatura la care metalele trec din stare solidă
+în stare lichidă, numită temperatură de topire, variază între limite foarte largi.
+Conductibilitatea electrică. Datorită existenţei electronilor mobili din
+structura metalelor, acestea au proprietatea de a conduce curentul electric. Dacă
+se aplică o diferenţă de potenţial oricât de mică la extremităţile unei bucăţi de
+metal (fir sau placă), electronii mobili din reţeaua metalică îşi ordonează
+mişcările, deplasându-se în direcţia egalizării potenţialului.
+Metalele cu cea mai bună conductibilitate electrică sunt: Ag, Cu, Au, Al.
+Conductibilitatea electrică a metalelor este micşorată de neregularităţile care
+există în structura reţelei metalice, precum si de prezenta unor atomi străini
+conţinuţi ca impurităţi în metal.
+Conductibilitatea termică este proprietatea metalelor de a fi bune
+conducătoare de căldură. Această proprietate se explică tot prin existenţa
+electronilor mobili în reţeaua metalică. Metalele cu Conductibilitatea termică
+cea mai mare sunt: Ag, Cu, Al.
+Duritatea este o proprietate mecanică a metalelor, care indică rezistenţa
+lor la acţiunea unor forţe exterioare (zgâriere, lovire). Pentru aprecierea durităţii
+se foloseşte scara M o h s care are 10 unităţi: l corespunde durităţii talcului, iar
+10 durităţii diamantului. Există metale cu duritate foarte mică, sub-unitară (K,
+Na), altele au duritate mică sau medie (de exemplu: Pb, Ca, Mg, Sn, Ag, Au), iar
+unele sunt foarte dure (de exemplu: Cr, W). .
+Plasticitatea este o proprietate mecanică a metalelor, care le permite să
+sufere deformări permanente sub acţiunea unor forţe exterioare, fără să se rupă
+reţeaua metalică. Pe baza plasticităţii, unele metale pot fi trase în fire
+(proprietate numită ductilitate) sau în foi (maleabilitate).
+Operaţia prin care metalele (de exemplu: Ag, Cu, Al) se trag în fire poartă
+numele de filare (de exemplu, dintr-un gram de Ag se poate trage un fir atât de
+subţire, încât lungimea lui i-ar permite să înconjoare Globul pământesc la
+ecuator).
+76
+ Operaţia de tragere în foi a unor metale (de exemplu: Au, Cu, Zn) se
+numeşte laminare. Deoarece plasticitatea creşte cu temperatura, metalele se
+încălzesc pentru a fi prelucrate mecanic.
+Insolubilitatea în dizolvanţi comuni. Metalele se dizolvă numai în alte
+metale, cu formare de aliaje. De cele mai multe ori, metalele sunt folosite în
+industrie sub formă de aliaje, care au calităţi superioare metalelor pure
+componente.
+9.5. Proprietăţile chimice ale metalelor
+Metalele sunt caracterizate prin tendinţa de a ceda electroni din straturile
+electronice exterioare, transformandu-se in ioni pozitivi.
+Reprezentarea schematică a oxidării unui metal (M) prin cedare a unui
+număr de n e-
+ este:
+M0 - n e- → Mn+
+Datorită tendinţei de a ceda electroni, în majoritatea reacţiilor chimice,
+metalele acţionează ca reducători.
+Funcţie de potenţialele de oxidare, metalele sunt aşezate în ordinea
+descrescătoare a potenţialelor normale, primul fiind potasiul, metatul cel mai
+activ - cel mai puternic pozitiv.
+Potenţial normal. Seria potenţialelor electrochimice
+Pe baza proprietăţilor chimice ale metalelor a fost realizată seria de
+activitate a metalelor, seria activitătii electrodinamice sau seria Beketov-Volta
+Primul element (K) din această serie este cel mai activ metal, cel mai
+electropozitiv, care se oxidă cel mai uşor, iar la sfîrşitul seriei se află metalele
+preţioase:Ag, Pt, Au.
+K, Na, Ca, Mg, Al, Mn, Zn, Cr, Fe, Ni, Sn, Pb, H, Cu, Bi, Sb, Hg, Ag, Pt, Au
+77
+Pe baza poziţiei metalelor în seria potenţialelor electrochimice,
+determinată de configuraţia electronică a acestora se pot prevedea reacţiile
+chimice ale metalelor şi ale compuşilor lor.
+În general metalele situate la stânga hidrogenului în seria potenţialelor
+electrochimice, numite şi metale comune, se oxidează uşor, reacţionează cu
+nemetale, apă, acizi şi compuşi ai unor metale mai puţin active. Metalele situate
+după hidrogen, numite metale nobile, se caracterizează printr-o activitate
+chimică redusă, se oxidează greu.
+Acţiunea energiei electrice asupra soluţiilor sau topiturilor de electroliţi,
+duce la transformări chimice si invers,energia chimică se transforma in energie
+electrică.
+De exemplu,daca se consideră un sistem format dintr-o lamă de metal in
+soluţie de CaSO4, au loc următoarele transformări:
+CuSO4 +Zn = Ca + ZnSO4
+Zn → Zn 2+
+ (oxidare)
+Cu2+ → Cu (reducere)
+Deci , reacţia are loc astfel:
+Zn + Cu2+ = Zn2+ + Cu
+Aşadar au loc concomitent oxidarea atomilor de Zn şi reducerea ionilor de
+Cu2+, cu transfer de electroni de la Zn la Cu,ceea ce duce la o diferenţa de
+potenţial măsurabilă.
+Întrucât metalele au o tendinţa diferită, mai mare sau mai mică de a
+elibera ioni în soluţie, s-a determinat valoarea potenţialelor chimice la
+concentraţii egale ale soluţiilor ionilor lor.
+Se consideră o pilă electrică (elementul galvanic al lui Dauriel), notată:
+Zn │ ZnSO4 ║ Cu SO4 │ Cu
+ unde,
+78
+│ - reprezintă limita de faza metal – soluţie
+║ - reprezinta peretele poros
+La electrodul negativ (anodul) există exces de electroni, are loc oxidarea,
+adică cedarea de electroni, iar la electrodul pozitiv (catodul) are loc reducerea –
+acceptarea de electroni..
+Diferenţa de potenţial între electrodul metalic şi soluţia care conţine
+metalul sub formă de ioni se numeşte potenţial de electrod al metalului, care
+este o măsură a activităţii chimice.
+Electrodul normal (standard) de hidrogen este considerat electrod de
+referinţa (valoare 0), fiind constituit ca electrod de Pt în hidrogen la presiunea de
+1 atm, în soluţii de H2SO4 2N.
+Activitatea chimică a metalelor este caracterizată prin diferenţa de
+potenţial dintre un de electrod al metalului respectiv în soluţia unui electrolit al
+său care susţine un ion-gram metal/L şi electrodul standard de hidrogen
+denumită potenţialul standard de electrod al metalului.
+Semnul potenţalului standard de electrod este stabilit convenţional,
+neavând legatură cu sarcina electrică a electrodului. Potenţialul notat cu semnul
+(+) reprezintă potenţialul unui electrod al metalului care se oxidează la cuplarea
+cu un electrod electrod de hidrogen standard. Valorile potenţiale standard, la
+temperatura de 25oC, exprimate în volţi, raportate la valoarea 0 a potenţialului
+electrodului standard la hidrogen, sunt următoarele:
+79
+Tabelul 10. Potentiale standard (la 250
+ C)
+Potentiale standard (la 250
+ C) Valoare
+K/K+
+2,93
+Ca/Ca2+ 2,8
+Na/Na+
+2,71
+Mg/Mg2+ 2,34
+Al/Al3+ 1,67
+Mn/Mn2+ 1,1
+Zn/Zn2+ 0,76
+Fe/Fe2+ 0,44
+Cd/Cd2+ 0,41
+Ni/Ni2+ 0,28
+Sn/Sn2+ 0,14
+Pb/Pb2+ 0,13
+H2/H+
+0
+Cu/Cu2+ -0,34
+Hg/Hg2+ -0,79
+Ag/Ag+
+-0,8
+Pt/Pt2+ -1,2
+Au/Au3+ -1,3
+ În funcţie de poziţia în seria potenţialelor redox standard metalele pot
+reacţiona sau nu cu elemente situate după ele sau le pot deplasa pe acestea din
+compuşii lor:
+Metalele reacţionează uşor cu nemetalele: halogeni, oxigen, sulf, azot,
+fosfor şi carbon formând compuşii corespunzători.
+Fe + S  FeS Mg + O2  2MgO
+Metalele cu E0
+ cele mai negative pot reacţiona cu hidrogenul formând
+hidruri.
+Caracterul reducător al metalelor în reacţia cu acizii se manifestă diferit
+în funcţie de poziţia metalului în seria potenţialelor electrochimice. Astfel:
+80
+– metalele situate înaintea hidrogenului reacţionează cu acizii cu degajare
+de H2
+Zn + H2SO4  ZnSO4 + H2
+În general
+M e t a l s i t u a t
+î n a i n t e a h i d r o g e n u l u i + A c i d  S a r e+ H 2 
+e l e c t r o n i
+– metalele situate după hidrogen, dar aproape de el, reacţionează numai cu
+acizii cu caracter oxidant (HNO3, H2SO4 concentrat). În această reacţie nu se
+degajă hidrogen deoarece reacţiile redox au loc între metal şi nemetalul din acid.
+De exemplu, reacţia dintre cupru şi acid azotic:
+3Cu + 8HNO3  3Cu(NO3)2 + 2NO + 4H2O
+În general
+M e t a l s i t u a t i m e d i a t
+d u p ă h i d r o g e n
+O x i d d e n e m e t a l c u N . O .
+m a i m i c d e c â t î n a c i d + S a r e A p ă
+e l e c t r o n i
+ + + A c i d c u c a r a c t e r
+o x i d a n t
+– metalele situate după hidrogen, la capătul seriei, nu reacţionează nici cu
+acizii cu caracter oxidant; ele se numesc metale inerte, sau nobile; de exemplu :
+Au, Pt, Pd. Aceste metale reacţionează numai în amestecuri de acizi, de exemplu
+: apă regală (HCl : HNO3 = 3 : 1)
+Caracterul reducător al metalelor în reacţia cu apa se manifestă diferit în
+funcţie de poziţia metalului în seria potenţialelor electrochimice. Astfel:
+– metalele cu valori ale Eo
+ cele mai negative reacţionează violent cu apa la
+temperatura camerei
+2Na + H2O  2NaOH + H2
+– metale cu valori ale Eo
+ negative, dar apropiate de zero reacţionează cu
+apa la temperatură
+3Fe + 4H2O  Fe3O4 + 4H2
+– metalele cu valori ale Eo
+ pozitive nu deplasează hidrogenul din apă.
+81
+Caracterul reducător al metalelor este pus în evidenţă şi în reacţii cu
+compuşi ai altor metale.
+Orice metal poate reduce ionii tuturor metalelor situate după el în seria
+activităţilor electrochimice şi poate fi la rândul său redus din compuşii să de
+metalele care îl precedă în seria potenţialelor electrochimice:
+Cu + HgO tC→
+0
+ CuO + Hg
+Metalelor le sunt carcateristice următoarele reacţiile chimice:
+- reacţia cu hidrogenul:
+Metalele poziţionate înaintea hidrogenului, pot intra în combinaţii, cu atat mai
+energic cu cât se află se află la începutul seriei Beketov-Volta:
+în cazul metalelor Li, K, Ba, Sr, Ca, Na, Al:
+ M + H2O → H2 ↑
+ lichid
+în cazul metalelor începând cu K până la Fe, inclusiv:
+M + H2O → H2 ↑
+ gaz
+în cazul metalelor începând cu K până la Pb, inclusiv:
+M + acid → H2 ↑
+- reacţia faţă de oxigen : începând cu potasiul şi pâna la mercur,
+inclusiv, metale pot reacţiona cu oxigenul , cu formare de oxizi acizi, bazici sau
+amfoteri;
+- reacţia faţa de acizi: metalele situate la începutul seriei pâna la H
+reacţionează cu acizii diluaţi, cu eliberare de hidrogen, iar cele după H, Cu, Bi,
+Sb, Hg şi Ag reacţioneaza numai cu acizi oxidanţi ( HNO3 si H2SO4 ) cu formare
+de apă:
+Cu + 2HNO3 = CuO + 2NO2 + H2O
+CuO + 2HNO3 = Cu(NO3) + H2O
+2Ag + 2H2SO4 = Ag2SO4 +SO2+2H2O
+82
+Metalele preţioase, platina şi aurul, situaţi la sfarşitul seriei BeketovVolta,
+nu sunt atacaţi de nici un acid;
+- reacţia cu halogenii: metalele se combină direct, formând halogenuri:
+2Na + Cl = 2NaCl
+Metalele puternic active (Na,Cl), reacţionează violent cu clorul,bromul, pe
+când Pt si Au pot forma cloruri numai prin reacţia cu apa regală (raportul
+HNO3 : HCl este de 1:3)
+- reacţia cu sulful: toate metalele cu excepţia Au, formează sulfuri:
+metalele alcaline se combine energic prin încălzire, pe cand platina reacţionează
+numai în stare de pulbere.
+În majoritatea cazurilor, metalele sunt utilizate în laboratoare şi în
+industrie sub formă de săruri solide sau dizolvate în apă. În soluţii, sărurile
+metalice disociază în anioni şi cationi (ionii pozitivi ai metalelor).
+Capitolul X
+NEMETALE
+10.1. Generalităţi
+83
+Nemetalele sunt situate în tabelul periodic în partea stângă a acestuia, în
+grupele IV-VII.
+După structura electronică, primele două elemente, hidrogenul şi heliul,
+sunt de tip s, respectiv 1s1
+ şi 1s2
+, restul elementelor nemetalice şi semi-metalice
+fiind de tip p, cu electronul distinctiv situat într-un orbital npx
+, unde n = 2—6,
+iar x = 1—6 electroni.
+Cu toate că membrii unei grupe conţin acelaşi număr de electroni în
+ultimul strat electronic, în trecere de la primul element al fiecărei grupe la
+următoarele, se constată o modificare în structura penultimului strat ns sau nsp şi
+anume de la doi electroni, în cazul elementelor din perioada II, la 8 electroni, în
+cazul celor din perioadele III şi IV, şi 18 electroni, pentru cele din perioadele V
+şi VI. Drept urmare, efectul de ecranare, datorat învelişurilor electronice
+interioare, este diferit de la un element la altul, crescând în grupă de sus în jos şi
+prin aceasta slăbind atracţia electronilor exteriori de către nucleu. Aşa se explică
+motivul pentru care, elementele din perioada II: bor, carbon, azot, oxigen şi
+fluor, se deosebesc mult de omologii lor din grupă, ocupînd o poziţie specială.
+Dispunînd numai de un înveliş interior Îs2 cu un efect de ecranare foarte scăzut,
+electronii exteriori p sînt strîns legaţi de nucleu. în acest sens se remarcă fluorul,
+care mi poate forma decît combinaţii în stare de oxidare 1 — şi oxigenul care nu
+prezintă decît o singură stare de oxidare 2— faţă de toate elementele. Totodată,
+elementele din perioada II se distanţează de omologii lor şi prin faptul că nu
+dispun în structura lor de orbitali d. De aceea, în compuşi cum sînt oxoacizii,
+numărul maxim de coordinare este 3, iar legăturile sînt de tip a şi 7t (pp). De
+exemplu, azotul deşi aparent penta-covalent în acid azotic, în realitate nu poate
+exista decît cel mult în stare de oxidare (III).
+Stările maxime de oxidare pozitive ale elementelor de tip p în
+combinaţiile cu elemente mai electronegative ca ele, fiind egale cu numărul
+grapei din care fac parte şi ionii pozitivi rezultaţi prin pierdere de electroni,
+ajung la structura gazului rar dinainte.
+84
+În combinaţii cu elemente mai electropozitive ca ele, stările de oxidare
+sînt negative şi egale cu 8—n, unde n este numărul grupei, ionii negativi
+rezultaţi prin acceptare de electroni posedînd structura gazului rar următor.
+Datorită acestor structuri, precum şi a existenţei unei perechi de electroni
+s2, denumită „pereche de electroni inerţi", situaţi într-un orbital de nelegătură al
+ultimului înveliş electronic, mai puternic atraşi de nucleu, se observă o variaţie
+mai puţin regulată a proprietăţilor fizice şi chimice în grupe şi perioade decît ar
+fi de aşteptat. Efectul atribuit acestor electroni inerţi creşte cu numărul atomic şi
+este mai puternic la elementele din grupele IVA — YIIA, deci la elementele
+grele.
+Desigur că la evaluarea globală a proprietăţilor care caracterizează
+elementele p, trebuie avuţi în vedere şi alţi factori, cum ar fi cei legaţi de
+dimensiunile atomice şi ionice, de prezenţa efectului de contracţie d sau /, de
+structura cristalină etc. Elementele chimice electronegative practic lipsite de
+eonăuctibilitate termică şi electrică se numesc nemetale. în mediul ambiant, ele
+apar sub formă de gaze, lichide sau solide, fiind situate în sistemul periodic în
+partea dreaptă şi de sus a grupelor principale, cuprinzînd : hidrogenul, gazele
+rare, haîogenii, oxigenul, sulful, azotul, fosforul şi carbonul. Nemetalele, în
+afară de gazele rare, se combină cu hidrogenul rezultând combinaţii volatile, iar
+cu oxigenul, oxizi acizi. Structural, gazele rare sînt monoatomice, iar celelalte
+nemetale gazoase (H2, N2, O2, F2 şi Cl2) în condiţii normale, au moleculele
+diatomice, diamagnetice, cu excepţia O2 paramagnetic, proprietate rar întâlnită la
+elementele din grupele principale şi la compuşii lor. Totodată, oxigenul este şi
+singurul element în stare gazoasă la temperatura obişnuită, căruia îi corespund
+două forme alotropice: oxigenul propriu-zis şi ozonul. Singurul nemetal lichid în
+condiţii normale este bromul, de asemenea diatomic. Restul nemetalelor,
+substanţe solide (C, P şi S) posedă o mare varietate de structuri, radical diferite
+unele de altele, chiar şi de vecinii din sistemul periodic, alotropici fiind o
+caracteristică a lor. Elementele chimice B, Si, Ge, As, Sb, Se şi Te, care, prin
+85
+proprietăţile şi comportarea lor generală ocupă o poziţie intermediară între
+nemetale şi metale, se numesc semimetale. Deşi, după aspect, adesea
+caracterizat prin luciul metalic, se apropie de metale, după structura cristalină, se
+aseamănă mai mult cu nemetalele. Toate elementele semimetalice sînt substanţe
+cristaline, dominate de asemenea de fenomenul de alotropie, cu o chimie
+structurală foarte dificilă şi greu de sistematizat şi tendinţă accentuată la cele cu
+electronegativităţi apropiate de a carbonului, de a forma polimeri
+(macromolecule).
+Principalele caracteristici ale nemetalelor şi semimetalelor sunt: alotropia,
+tendinţa de a forma combinaţii covalente, în unele cazuri polimeri-zate, iar unii
+compuşi lichizi cu constantă dielectrică mare (NH3, HF, SO2 şi alţii) au
+capacitatea de a se comporta ca solvenţi neapoşi.
+De aceea, în caracterizarea elementelor nemetalice şi semimetalice,
+s-a apreciat că ar fi cel mai potrivit să se urmărească variaţia proprietăţilor fizice
+şi chimice pe grupe, iar în cazul oxigenului şi azotului, prezentarea se va face
+separat de omologii lor, de care se distanţează apreciabil prin structura şi poziţia
+în grupă.
+10.2. Hidrogenul
+Hidrogenul este primul element din grupă, dar are careateristici
+asemănătoare elementelor din grupa VIIA.
+Configuraţia electronică a atomul de hidrogen este 1s1
+ .
+Atomul de hidrogen are tendinţa atât de a ceda, cât şi de a accepta un
+electron :
+- cedarea electronului duce la tranformarea în ion pozitiv (proton, H+
+) :
+H
+0
+ – e-
+ → H+
+Hidrogenul este legat covalent de carbon, azot, oxigen, sulf, halogeni
+( CH4, NH3, H2O, H·S, HCl, HBr, HI,etc.)
+86
+- acceptarea de electron pentru a realiza configuraţia electronică stabilă (1s2
+) a
+gazului rar care încheie perioada 1, heliul, He:
+H
+0 + e- → H-
+ ionul de hidrură
+Hidrurile se clasifică în următoarele categorii:
+- hidruri ionice ale metalelelor ( notate M) din grupele IA şi IIA, cu
+formulele generale MH şi respectiv, MH2; moleculele lor sunt legate
+prin punţi de hidrogen (hidruri polimere);
+- hidruri volatile ale elementelor din grupele IVA, VA, VIA,VIIA , cu
+care hidrogenul formează legături covalente;
+- hidruri interstiţiare formate cu metalele grele din grupele secundare, cu
+compozişie stoechiometrică.
+În atmosferă, hidrogenul se găseşte sub formă de urme (în procent de
+10-4 %). Fiind component al apei şi al compuşilor organici, hidrogenul este
+prezent în organismele vii.
+10.2.1.Proprietăţi fizice
+Hidrogenul este un gaz inodor, incolor şi insipid, mai uşor decât aerul,
+având o mare conductibilitate termică şi electrică.
+Hidrogenul are trei izotopi:
+- hidrogenul uşor sau protiu, H, cu nucleul H+
+ (protoniul) cu
+- hidrogenul greu 2
+1H sau deuteriu, 2
+1D, cu nucleu D+ (deuteronul)
+izotopul 3
+1H, numit tritiu, 3
+1T.
+Caracteristicile fizice ale hidrogenului sunt prezentate în tabelul 11:
+Tabelul 11. Caracteristicile fizice ale hidrogenului
+Masa atomică 1,008
+Densitatea in raport cu aerul,g/cm3 0,069
+87
+Punctul de
+lichefiere °C -252,8
+Punctul de topire,
+°C -257,3
+Conductibilitatea termica
+(0°C) λ
+0,00041
+2
+cal/cm s grd
+Solubilitatea in apa (18°C) 0,0185
+vol/1 vol. apa
+Caldura de formare a moleculei de
+H2 102,72
+din atomi (0°K);kcal/mol
+H2
+Distanta intre nuclee H-H; Ǻ 0,75
+Momentul
+electric 0
+Potentialul de ionizare eV 13,595
+Afinitatea pentru
+electron,eV 0,715
+Electronegativitatea
+(Pauling) 2,1
+10.2.2. Proprietăţi chimice
+La temperatura obişnuită, hidrogenul este puţin reactiv, dar poate
+reacţiona cu elemente sau alţi compuşi chimici în anumite condiţii:
+- reacţia cu oxigenul ( reacţie exotermă), are loc în flacără sau scânteie electrică,
+cu formare a unui amestec numit gaz detonant (H2:O2 de 2:1)
+2H2 + O2 = 2H2O ΔH = - 57,85 Kcal/mol
+- reacţia cu halogenii, din care rezultă acizi halogenaţi:
+H2 + F2 = 2HF ΔH = - 64,2 Kcal/mol ( reacţie cu explozie)
+H2 + Cl2 = 2HCl ΔH = - 21,9 Kcal/mol ( reacţie sub influenţa
+ luminii)
+- reacţia cu sulful
+H2 + S = H2 S ΔH = - 4,8 Kcal/mol
+88
+- cu azotul în condiţii de presiune, temperatură ( 500 °C), în prezenţa unui
+catalizator
+3H2 + N2 = 2NH3 ΔH = - 11 Kcal/mol
+- reacţia cu metale alcaline, cu formare de hidruri , de exemplu:
+H2 + 2Na = 2NaH
+- reacţia de reducere a oxizilor până la metal, în condiţii deosebite de
+temperatură şi presiune . Oxizi metalelor aflate în apropierea hidrogenului în
+seria Beketov-Volta, sunt reduşi la metal (fier, cobalt, nichel, staniu, plumb,
+stibiu, cupru):
+Ag2O + H2 = Ag + H2O
+CuO + H2 = Cu + H2O
+10.3. GRUPA A VII-A
+Grupa a VIl-a a Tabelului Periodic se numeşte grupa halogenilor, datorită
+proprietăţii elementelor componente de a forma săruri (halogen = generator de
+sare). în această grupă sînt situate elementele cu o comportare foarte
+asemănătoare, şi anume: fluorul F, clorul CI, bromul Br, iodul I şi astatinul At.
+Ultimul element emite în mod spontan şi continuu radiaţii, este deci radioactiv.
+Din aceste ultime exemple se deduc următoarele:
+- halogenii au molecule diatomice;
+- în moleculă, atomii de halogen sînt legaţi prin legături covalente
+nepolare;
+- acizii halogenaţi prezintă legătură covalentă polară;
+- in acizii halogenaţi, halogenii sînt monocovalenţi;
+- valenţa lor faţă de hidrogen este dată de diferenţa dintre opt şi numărul
+grupei: 8 —7 = 1.
+10.3.1. Proprietăţi fizice
+89
+Cu excepţia fluorului, ceilalţi halogeni pot avea şi covalente superioare
+(tri-, penta- şi heptacovalenţă).
+În grupă variază şi o serie de proprietăţi fizice ale halogenilor după cum se
+poate observa în tabelul 12.
+Tabelul 12. Proprietăţi fizice ale halogenilor
+Halogenul Starea de
+agregare
+Culoarea Temperatura de
+topire în "C
+Solubilitatea în
+apă
+Fluor
+Clor
+Brom
+Iod
+Gaz
+Gaz
+Lichid*
+Solid
+Slab-verzui
+Galben-verzui
+Brun Cenuşiu
+cu aspect
+metalic
+—223
+—102
+—7,3
++ 114
+–
+0,09 mol/l
+0,210 mol/l
+0,001 mol/l
+* Bromul .este singurul nemetal lichid.
+10.3.1. Proprietăţi chimice
+Halogenii sînt elemente cu caracter nemetalic pronunţat, puternic
+electro-negativ şi foarte reactive, proprietăţi care în grupă descresc în ordinea:
+F>Cl>Br >I. Fluorul este cel mai reactiv dintre toate elementele cunoscute.
+Halogenii reacţionează direct cu majoritatea nemetalelor (S, P, As, Sb, C
+(cărbune de lemn), Si şi B), cu dezvoltare de căldură şi lumină, mai ales fluorul
+şi clorul destul de energic, bromul trecînd în halogenuri covalente. Nu
+reacţionează direct cu oxigenul, azotul şi carbonul, în schimb fluorul este
+singurul halogen care
+se combină direct cu carbonul cu formare de CF4 gaz stabil. Cu hidrogenul, toţi
+halogenii se combină direct formînd hidruri (HX), gaze incolore, pe baza unor
+reacţii exoterme, cu excepţia HI endoterm. De remarcat faptul că fluorul se
+combină direct cu hidrogenul chiar la rece şi întuneric, reacţia fiind violentă, iar
+flacăra fluor-hidrogen, atinge temperaturi de 4000—5000°O. Şi clorul se
+90
+combină direct şi energic cu hidrogenul la temperatura obişnuită şi în prezenţa
+luminii, bromul numai la 150°C în prezenţă de catalizatori sau sub acţiunea
+descărcărilor electrice, iar iodul se combină cel mai greu, la încălzire peste
+200°C. Principalele combinaţii ale halogenilor sunt prezentate în tabelul 13.
+Tabelul 13. Principalele combinaţii ale halogenilor
+Elementul F CI Br I
+H HF HC1 HBr HI
+B BF3 BG13 BBr3 BI3
+C GF4 — __
+Si SiF4 SiCl4 SlBr4 SI4
+N — — — —
+P PF3 ; PF5 PG13 ;
+PC15
+PBr3 ;
+PBrs
+Pis; Pis
+As AsF3 ;
+AsF5
+AsCl3 ;
+AsCl5
+AsBr3 ;
+AsBr6
+Aşi, ; Asl5
+Sb SbF3 ;
+SbF5
+SbCl3 ;
+SbCls
+SbBr3 ;
+SbBr5
+Sbl3; Sbl5
+O — — — —
+s SF6 ; S2F10 SC12 S2Br2 —
+Se SeF4 ;
+SeF6
+SeCl2;
+SeCl4
+Se„Br2 ; —
+"SeBr4
+Te TeF4;
+TeF6
+TeCl, ;
+TeCl4
+TeBr2 ;
+TeBr4
+Tel2 ; Tel4
+Halogenii sunt oxidanţi puternici şi reacţionează cu un număr mare de
+compuşi ai diferitelor elemente.
+Ei se înlocuiesc în ordinea fluor, clor, brom şi iod din halogenurile ionice:
+2MX + F2 → X2 + 2 MF, X : Cl, Br, I;
+Reacţionează diferit cu apa:
+- fluorul o descompune cu degajare de oxigen:
+- F2 + H2O→ 1/2O2 + 2HF
+- clorul şi bromul formează apa de clor (amestec de HCl şi HClO) şi
+respectiv apa de brom (amestec de HBr şi HBrO), ambele oxidanţi
+puternici:
+91
+- X2 + H2O → HX + HXO, X : Cl,
+- iodul reacţionează cu apa numai înmediu alcalin.
+10.4. GRUPA A VI-A
+Grupa a VI-a a Tabelului Periodic se numeşte grupa oxigenului, după
+denumirea primului element al grupei. În această grupă sînt situate următoarele
+elemente: oxigen O, sulf S, seleniu Se, telur Te şi poloniu Po, element
+radioactiv.
+În grupă raza atomică creşte de la oxigen spre telur; atomii tuturor
+elementelor din grupa a VI-a principală au 6 electroni pe stratul exterior.
+Existenţa a 6 electroni pe ultimul strat explică caracterul electronegativ, şi
+tendinţa de ionizare a acestor elemente. Creşterea razei atomice determină
+descreşterea caracterului electronegativ de la oxigen la telurcare este metal.
+10.4.1. Proprietăţi fizice
+Oxigenul este singurul element din această grupă care se află în stare
+gazoasă la temperatura camerei.
+Proprietăţile fizice ale elementelor din gupa a VI-a sunt prezentate în
+tabelul 14.
+Tabelul nr. 14 Proprietăţile fizice ale elementelor din gupa a VI-a
+Elementul Starea de
+agregate'
+Culoarea Temperatura de
+topire
+Oxigen
+Sulf
+Seleniu
+Telur
+Gaz
+Solid
+Solid
+Solid
+Incolor
+Galben
+Roşu-brun
+Alb-argintiu, luciu
+metalic
+- —218,9OC
++ 118,0°C
++ 220,2°C
++ 452,0°C
+92
+10.4.2. Proprietăţi chimice
+Oxigenul este un element puternic electronegativ. El se combină uşor cu
+majoritatea elemetelor pentru a forma oxizi. Excepţie fac gazele rare şi metalele
+nobile.
+Oxigenul are şase electroni în stratul de valenţă şi funcţionează cu valenţe
+variate în diferiţi compuşi. Numărul său de oxidare cel mai frecvent este —2. (L.
+P a n 1 i n g, R. E. W o o d şi J. H. Sturdivant — 1946). în apa oxigenată
+numărul de oxidare este —1, în HO2 sau derivaţii săi ca KO2 este —1/2, iar în
+F2O este +2.
+După fluor, oxigenul este cel mai electronegativ element. El se combină
+uşor cu majoritatea elemetelor pentru a forma oxizi.
+Având în vedere prezenţa sa în aer în proporţie de 20% se poate deduce
+importanţa pe care o are. Proprietatea esenţială a oxigenului este de a oxida
+substanţele cu care reacţionează. Oxigenul se combină direct sau indirect cu
+toate elementele. Pac excepţie gazele nobile. Indirect se combină cu clorul,
+bromul, azotul şi metalele preţioase (aurul, platina etc.) şi de aceea oxizii acestor
+elemente se obţin pe cale indirectă.
+Oxidările pot fi vii sau lente, după cum căldura degajată este inferioară
+sau superioară căldurii pierdute prin radiaţie, conductibilitate etc. Dacă oxidarea
+are loc într-o incintă care nu este izolată termic, arderea este lentă, nu se observă
+degajare de căldură.
+Ruginirea fierului în aer umed, combustia lentă a fosforului, oxidarea
+lentă a cărbunilor, oxidarea piritei în sulfat de fier (II), oxidările din organismul
+animal care gînt sursa căldurii animale sînt exemple de arderi lente. Putrezirea
+lemnelor, oţeţirea vinului, respiraţia fiinţelor vii sînt alte exemple de arderi lente.
+93
+Spre deosebire de oxigen, sulful, seleniul şi telurul sunt mai puţin reactive
+la temperatura camerei, dar prin încălzire se combină cu majoritatea elementlor.
+carcaterul chimic se modifică de la sulf la telur o dată cu scăderea
+electronegativităţii şi creşterea caracterului metalic.
+Toate elementele grupei a VI-a reacţionează cu hidrogenul cu formare de
+H2O, H2S, H2Se şi H2Te.
+Reacţionează cu halogenii cu formare de halogenuri.
+Afinitatea pentru nemetale scade de la sulf la telur. Sulful şi seleniu se
+combină cu fosforul şi arsenul, dar telurul nu.
+Nu reacţionează cu azotul.
+La temperaturi ridicate sulful, seleniul şi telurul se combină cu metalele
+formând sulfuri, selenuri şi teluri. De exemplu: Na2S, sulfura de sodiu, Cu2S,
+sulfură de cupru, SnS, sulfură de staniu.
+10.5. GRUPA A V-A
+Grupa a V-a din sistemul periodic se numeşte şi grupa azotului, după
+denumirea primului element.
+În această grupă sînt situate următoarele elemente: azot (nitrogen) N,
+fosfor P, arsen As, antimoniu (stibiu) Sb şi bismut Bi.
+Raza atomică creşte de la azot la bismut şi că atomii tuturor elementelor
+din grupa a V-a principală au pe stratul exterior 5 electroni.
+Ca urmare a creşterii razei atomice, caracterul electronegativ al elementelor
+scade de la azot la bismut. în acelaşi timp existenţa a 5 electroni pe ultimul
+strat explică tendinţa redusă de ionizare a acestor elemente şi caracterul electronegativ
+mai slab decît al elementelor din grupa a Vi-a. Astfel, elementele grupei
+a V-a formează foarte puţini compuşi ionici, iar ionii N3– şi As3– nu există decât
+în stare solidă. -
+94
+Pentru completarea stratului electronic exterior, atomii elementelor grupei
+a V-a tind să formeze legături covalente.
+10.5.1. Proprietăţi fizice
+Primul şi ultimul element din grupă sunt diferite de celelalte elemente. În
+atbelul 15 sunt prezentate principalele proprietăţi fizice ale elementelor din
+grupa a V–a principală.
+Tabelul 15. Principalele proprietăţi fizice ale elementelor din grupa a V–a principală
+Elementul Starea de
+agregare
+Culoarea Temperatura de
+topire fierbere
+Azot
+Fosfor
+Arsen
+Stibiu
+Bismiit
+Gaz
+Solid
+Solid
+Solid
+Solid
+Incolor
+Alb-gălbui
+Alb-cenuşiu
+Alb-argintiu
+Alb-roşiatic
+—210°C
+44,1°C
+817°C
+630°C
+271°C
+—195,8°C
+280°C
+633°C
+1640°C
+1660°C
+Cu excepţia azotului, toate celelalte elemente situate în grupa a V-a
+principală pot exista în două sau mai multe modificaţii cu proprietăţi fizice şi
+uneori chimice diferite. Proprietatea unor elemente de a se existe în mai multe
+forme, structuri moleculare sau cristaline diferite se numeşte alotropic Formele
+sau modi-ficaţiile diferite sub care se prezintă un element se numesc stări
+alotropice.Astfel, fosforul poate apărea sub 4 forme alotropice: fosfor alb, fosfor
+roşu, fosfor violet şi fosfor negru -
+Arsenul, stibiul şi bismutul care, de asemenea, prezintă diferite modificaţii
+alotropice au drept formă obişnuită pe cea metalică.
+Rezultă deci, că în grupa a V-a principală caracterul nemetalic scade de
+sus în jos, iar caracterul metalic creşte în acelaşi sens.
+Azotul este un nemetal, bismutul un metal, iar celelalte elemente prezintă
+stări în care apar ambele caractere.
+95
+Toate elementele din grupă, cu excepţia azotului, formează compuşi în
+care valenţa maximă este 5.
+10.5.2. Proprietăţi chimice
+În condiţii normale, azotul molecular se caracterizează printr-o stabilitate
+remarcabilă şi o reactivitate extrem de scăzută. Neavînd posibilitatea să utilizeze
+şi orbitalii d în compuşi cum sînt oxoacizii de exemplu, el formează compuşi cu
+număr de coordinare 3 şi legături σ şi π (pp). Aşa se explică faptul că în
+oxoacizi, ca dealtfel şi în oxizi, deşi aparent ar putea funcţiona în starea de
+oxidare (V) cum se credea înainte, de exemplu în acidul azotic, în realitate nu
+poate exista ca azot pentacovalent, starea maximă de oxidare atinsă de el fiind
+(III). Totodată, azotul întocmai ca şi carbonul realizează legături duble sau triple
+prin orbitalii p cu ele însele spre deosebire de analogii lor, care formează
+legături duble cu oxigenul, azotul şi sulful utilizînd orbitalii d în sistem conjugat,
+cum este cazul oxoacizilor.
+Deosebit de inert din punct de vedere chimic, se combină direct cu
+hidrogenul numai în anumite condiţii de temperatură şi presiune, iar cu oxigenul
+la temperatura arcului electric sau sub acţiunea descărcărilor electrice:
+N2 + 3H2  2NH3 ; ∆H = - 46 kJ⋅ mol–1
+,
+N2 + O2  2NO ; ∆H = 89,80 kJ⋅ mol–1
+,
+La temperaturi înalte se mai combină direct cu borul, carbonul şi siliciul,,
+formînd azoturi. Azotul nu reacţionează direct cu halogenii şi sulful, în schimb
+se combină prin încălzire la temperaturi cuprinse între 200—1000°C cu
+metalele, rezultînd azoturi metalice. Reacţia cu litiul are loc chiar la temperatura
+camerei, iar cu magneziul la 200-—300°C. Interesantă şi cu consecinţe practice
+sub aspect aplicativ este reacţia azotului cu hidrogenul în prezenţa carbonului, la
+temperatura arcului electric, cînd se obţine acid cianhidric cu randament 33% :
+96
+H2 + N2 +C  2HCN
+De asemenea, azotul poate reacţiona la temperaturi înalte cu unele combinaţii
+chimice cum ar fi CH4, CaC2, CaSi, rezultînd substanţe foarte importante
+cu aplicaţii industriale.
+Din punct de vedere chimic, fosforul alb, arsenul şi stibiul în formă metalică,
+se distanţează mult de azot, având o mare reactivitate, proprietăţi
+reducătoare şi posibilităţi de a forma compuşi pentacovalenţi. Aceste elemente
+au orbitali d în stratul de legătură, spre deosebire de azot.
+ La cald reacţionează direct cu aproape toate nemetalele cu excepţia
+borului, carbonului şi fosforului în cazul arsenului. De asemenea, fosforul alb şi
+arsenul se combină cu azotul numai în condiţii speciale. Reacţia cu hidrogenul
+are loc diferenţiat: la fosfor, ea se realizează sub presiune şi în prezenţa
+descărcărilor electrice, la arsen numai sub acţiunea hidrogenului în stare
+născândă, iar stibiul nu reacţionează direct cu hidrogenul, pe care însă îl
+absoarbe la cald.
+În aer umed, la temperatura ordinară, fosforul alb şi As galben prezintă
+fenomenul de chimioluminiscenţă, consecinţă a unei reacţii de oxidare lentă
+(autooxidare), însoţită de emanarea unei lumini slabe, vizibilă la întuneric
+(fosforescenţă) precum şi la formarea unei cantităţi de ozon. în schimb,
+antimoniul nu reacţionează cu aerul uscat sau umed pînă la temperatura de
+topire.
+Prin combustie, aceste elemente, se aprind şi ard, fosforul alb la 45°C cu o
+flacără gălbuie şi miros de usturoi, transformîndu-se în P4O10, arsenul cu flacără
+albăstruie, răspîndind, de asemenea, miros de usturoi, în opoziţie cu fosforul
+rezultînd numai As4O6.
+Asemănător arde şi antimoniul la 800°C dînd un fum alb constituit din
+molecule de Sb4O6.
+Fosforul alb reacţionează violent cu halogenii, aprinzîndu-se cu explozie,
+cu excepţia iodului care se combină lent.
+97
+Arsenul şi stibiul sînt atacate energic de halogeni şi transformate în
+pentahalogenuri. în atmosferă de fluor, arsenul se aprinde chiar la —187°C, iar
+în clor ard la temperatura camerei.
+Fosforul arsenul şi stibiul au caracter puternic reducător.
+Fosforul alb precipită Pb, Cu, Ag şi Au din soluţiile sărurilor acestor ioni.
+Capitolul XI
+POLUAREA MEDIULUI
+CONTAMINAREA PRODUSELOR ALIMENTARE
+11.1 Poluarea mediului
+Se vorbeşte despre poluare a mediului, atunci când una sau mai multe
+substanţe sau amestecuri de substanţe străine sunt prezente în mediu, în cantităţi
+sau pe o perioadă care le face periculoase pentru oameni, animale sau plante şi
+contribuie la punerea în pericol sau vătamarea, activităţii sau bunăstării
+persoanelor. ( definiţie dată de Organizaţia Mondială a Sănătăţii - O.M.S.)
+98
+Poluarea poate fi:
+- naturală (polenul plantelor şi florilor, care provoaca alergii, emisii
+vulcanice naturale, etc.) şi
+- artificială (ca urmare a intervenţiei umane - materii chimice reziduale,
+deşeuri industriale, gaze de eşapament, deversări accidentale, etc.),
+aceasta din urmă producându-se datorită depăşirii capacităţii de
+autoepurare.
+În prezent, majoritatea produselor sunt obţinute prin prelucrarea unor
+materiale brute şi au ca rezultat, în afară de produsul finit, numeroase deşeuri
+mai mult sau mai puţin toxice, care afectează la diferite niveluri învelişul
+terestru. Efectele poluării sunt resimţite până pe întinderile, până ieri imaculate,
+ale Antarcticii. S-a calculat că în ultimul deceniu al mileniului II, excesele
+civilizaţiei noastre au provocat mediului natural pagube mai mari decât într-un
+mileniu. Milioane de hectare de teren, ce până ieri erau socotite inerte pe vecie,
+în paralel cu alte milioane de hectare dintre cele aflate în producţie, devin
+improprii cultivării datorită tot acţiunii omului. De când omul a început să lupte
+împotriva naturii, suprafaţa deşerturilor a crescut cu un miliard de hectare şi
+procesul avansează într-un ritm accelerat.
+Din cele 14-16 miliarde de tone de dioxid de carbon lansate anual în
+atmosferă prin arderea combustibililor, plus cele provenite din respiraţia
+oamenilor şi animalelor, două treimi sunt absorbite de păduri, acei "plămâni
+verzi" ai Pământului, cărora le datorăm atât de mult. De asemenea, pădurea este
+menită să asigure cerinţele de agrement şi turism, tot mai accentuate în condţiile
+vieţii moderne, ambianţa biofizică indispensabilă localităţilor balneoclimaterice,
+conservarea multor specii de plante şi animale foarte utile etc. Într-un cuvânt,
+fără păduri suficiente, dezvoltarea şi, la urma urmelor, viaţa însăşi nu sunt
+posibile. În condiţiile în care rămân de răscumpărat faţă de pădure greşeli multe
+şi vechi, când un singur automobil, parcurgând 1000 de kilometri, consumă o
+cantitate de oxigen suficientă unui om pe timp de un an, iar râurile dezlănţuite
+99
+fac tot mai mari ravagii, spălând nemilos ce a mai rămas din fertilitatea solului,
+exploatarea neraţională a resurselor forestiere a devenit un lux prea scump.
+Paleta surselor de degradare a solului este vastă, însă partea cea mai
+vizibilă şi aflată la îndemâna înţelegerii oricui, priveşte acumularea unei enorme
+cantităţi de reziduuri de tot felul. Imaginea haldelor de deşeuri din jurul uzinelor
+şi impresionanta producţie de gunoi din centrele urbane sunt numai două din
+aspectele acestui fenomen nociv. Gunoi a existat dintotdeauna, dar noţiunea
+aceasta, ca şi atâtea altele, şi-a modificat serios conţinutul. Pentru gospodăriile
+tărăneşti tradiţionale şi deci pentru localităţile rurale, gunoiul însemnă aproape
+exclusiv resturi vegetale nefolosite de animale, care putrezeau în câteva luni,
+pentru ca iarna sau primavara să fie împrăştiate pe câmp pentru fertilizare.
+Există practic o reciclare naturală completă ce se consumă aproape la fel şi în
+perimetrul oraşelor, ale căror periferii nu se deosebeau cine ştie cât de felul de
+viaţă de la sate.
+Cu totul altfel stau lucrurile într-o lume a industrializării şi urbanizării
+vertiginoase, când doi din cinci locuitori ai globului trăiesc deja în oraşe - faţă
+de unul din şapte la începutul secolului. În plus, proliferează oraşele mari şi
+foarte mari, ajungâdu-se ca acelea cu peste un milion de locuitori să depăşească
+200. Ori, după calcule aproximative, fiecare locuitor din oraşele europene
+"produce" mai bine de 1.5 Kg de gunoi pe zi, iar în S.U.A de vreo trei ori mai
+mult. De obicei, drumul gunoiului sfârşeşte la periferia oraşului, în gropi
+existente, sau pe locuri virane, unde se acumulează în grămezi imense, acceptate
+ca servituţi inevitabile, urâţind peisajul, poluând solul, aerul şi apele subterane.
+Şi mai grav e că o bună parte din aceste gunoaie, îndeosebi materialele plastice,
+sunt extrem de rezistente la acţiunea bacteriilor şi practic, nu se reciclează pe
+cale naturală. Prin arderea a aproape opt miliarde de tone de combustibil
+convenţional se aruncă anual în atmosferă aproximativ un miliard şi jumătate de
+tone de cenuşă, praf şi gaze. Pe lângă arderea combustibililor - cărbune, petrol,
+lemn, gaze naturale - probleme asemănătoare creează şi alte industrii, îndeosebi
+100
+cea chimică, metalurgică, unele ramuri constructoare de maşini, industria
+alimentară etc. - ca şi circulaţia automobilelor, avioanelor, trenurilor,vapoarelor
+şi a altor mijloace de transport.
+Abstracţie făcând unele unităţi industriale plasate în plină natură, grosul
+poluării atmosferice provine din oraşe, căci apariţia industriei fie are loc în
+oraşe, fie creează ulterior oraşe. Aşa că primele victime sunt orăşenii. Există de
+acum un număr apreciabil de "infernuri ecologice", perimetre urbane unde
+noxele industrializării se fac simţite prin efecte combinate : aer viciat, zgomot,
+aglomeraţie. În asemenea locuri - cum sunt oraşele Sao Paulo, Ciudad de
+Mexico, Detroit, Calcutta, Los Angeles, New York - procentul de îmbolnăviri
+ale căilor respiratorii, inclusiv cancerul pulmonar, este de câteva ori mai mare,
+înregistrându-se, de asemenea diverşi alţi factori de risc pentru sănătatea
+oamenilor, şi nu numai a acelora ce locuiesc la oraşe. Abordând această
+problemă, specialiştii consideră că, pe lângă reducerea prin toate mijloacele a
+surselor de poluare şi dacă se poate, chiar eliminarea totală a unora dintre ele,
+însănătoşirea aerului este de neconceput fără aportul decisiv al ariilor verzi.
+La prima vedere, pare paradoxal să vorbim de nevoia asigurării apei pe o
+planetă care dispune de atăta apă, încât s-ar putea inunda complet cu un strat de
+3 km grosime. Problema e că 97% din apa globului este sărată, iar din restul de
+3% cea mai mare parte se află în gheţari. Rezultă că populaţia lumii are la
+dispoziţie pentru consumul personal şi pentru activităţile sale economice numai
+în jur de 1 la sută din volumul de apă dulce, respectiv cea din râuri, fluvii, lacuri
+şi din unele pânze freatice. Chiar şi aşa, ar fi mai mult decât suficient pe
+ansamblu, numai că, aşa ca şi la alte capitole ale înzestrării naturale, apa e foarte
+neuniform repartizată pe întinderea globului, iar o mare parte din ea este de
+acum puternic poluată. În ansamblul poluării, ponderea apelor uzate - menajere
+şi industriale - este covârşitoare.
+Dacă la poluarea aerului "imaginea-simbol" este oferită de arborii
+"perforaţi" de "ploile acide", la poluarea apei caracteristice ar putea fi
+101
+considerate "mareele negre", adică poluarea practic continuă cu petrol a mărilor
+şi oceanelor lumii, aceasta având efecte dezastroase asupra florei şi faunei
+marine.
+11.2. Contaminarea alimentelor
+Alimentele pot fi contaminate sub formă de materii prime, produse
+semifabricate sau finite, datorită a numeroşi factori.
+Condiţiile de contaminare a alimentelor sunt :
+- condiţiile de mediu datorită poluării aerului, apei sau solului;
+- condiţiile de prelucrare a materiilor prime;
+- condiţiile de producere a materiilor prime în procesul de fabricare a
+produselor alimentare;
+- condiţiile de recoltare, stocare şi transport a materiilor prime sau de
+stocare şi transport a produselor alimentare;
+- condiţiile de depozitare şi comercializare a produselor alimentare.
+În vederea obţinerii de produse alimentare al căror conţinut de impurităţi
+se încadrează în limitele admise de normele europene, se impun măsuri severe
+de eliminare a factorilor de contaminare a alimentelor de origine animală şi
+vegetală, întrucat produc afecţiuni grave ale sistemului vegetativ, circulator, etc.
+Agenţii poluanţi au diferite grade de nocivitate, fiind clasificaţi în:
+- substanţe cu caracter toxic existente în mod natural în alimente şi care în exces
+produc intoxicaţii şi chiar moartea (de exemplu: aminoacizii din diferite legume,
+fructe necoapte, amigdalina din migdale amare, toxinele din ciupercile
+otrăvitoare etc.).
+- produşi toxici ce provin din produsele de prelucrare şi conservare a
+conservare a produselor alimentare (de exemplu: îngrăşăminte chimice
+azotate, nitriţi, azotiţi şi azotaţi din plante, carne, lapte);
+102
+- micotoxinele ce provin din mucegaiurile de pe produsele vegetale,
+lactate, etc.;
+- pesticide utilizare în agricuttură şi medicină veterinară pentru
+combaterea dăunătorilor;
+- aditivii chimici folosici în procesul de prelucrare a materieiilor prime
+şi produselor alimentare;
+- produse chimice organice şi anorganice utilizate în procesele
+tehnologice industriale de producţie;
+- dejecţii animale şi apele uzate din sectorul zootehnic netratate
+corespunzător;
+- gunoiul de grajd depozitat direct pe sol şi deşeurile menajere din
+gospodăriile rurale.
+Dintre substanţele toxice anorganice subliniem toxicitatea metalelor grele
+care provin fie din mediul înconjurător, fie pe parcursul procesului tehnologic de
+prelucrare a materiilor prime şi/sau producere a produselor alimentare.
+Cantităţi mari mari de metale se găsesc în solul regiunilor miniere, având
+efecte negative asupra creşterii şi dezvoltării plantelor.
+Datorită interacţiunii mediu-organisme vegetale-organisme animaleorganismul
+uman, poluarea mediului înconjurător conduce la influenţarea stării
+de sănătate a populaţiei prin intermediul toxinelor din produsele alimentare (de
+exemplu: Cu, Pb, Ag, Zn, Sn, Co, Se).
+De asemenea, substanţele anorganice care provin din diferite instalaţii din
+industria alimentară, au acţiune nocivă asupra materiilor prime de origine
+animală sau vegetală prelucrate (de exemplu: SO2, H2S, NH3, CO, CO2, Cl, HCl,
+S, NO, N2O3, Pb(C2H5)4, CuSO4, compuşi cloruraţi de mercur etc.)
+Deosebit de importantă este adaptabilitatea unor plante de a se dezvolta în
+condiţii de poluare cu anumite substanţe anorganice, ceea ce dă posibilitatea
+103
+determinării substanţelor chimice poluante a mediului, prin metode chimice de
+analiză:
+- poluarea cu seleniu a plantelor de pe păşunile din Asia Centrală,
+Australia, America de Nord, ce a determinat manifestări acute de
+cădere a lânii oilor, moartea vitelor etc.
+- adaptarea unor plante pe soluri poluate cu săruri ale metalelor grele,
+prin mecanisme genetice şi biologice nedeterminate (de exemplu:
+reducerea absorbţiei de cupru, dacă ionii de zinc sunt în exces).
+Exemplele menţionate indică riscul major de contaminare a alimentelor de
+origine vegetală şi animală datorită poluării mediului înconjurător.
+11.3.Controlul şi expertiza produselor alimentare
+ Un produs alimentar este constituit dintr-un complex de substanţe
+organice şi anorganice, care au fie caracter nutritiv sau indiferent organismului
+uman, fie antinutriţional. Stabilirea calităţii produselor alimentare de origine
+vegetală şi animală implică controlul compoziţiei chimice a acestora prin
+metode chimice calitative (determinarea componentelor) şi cantitative
+(determinarea conţinutului fiecărui component în parte).
+Controlul chimic al alimentelor are un rol deosebit de important şi în
+determinarea conţinutului de substanţe toxice de contaminante şi impurităţi
+existente atât în materiile prime, cât şi în produsele alimentare finite.
+Printr-un bun management al calităţii, producătorul poate monitoriza
+procesul tehnologic de fabricare a produselor alimentare. Prin efectuarea de
+analize chimice atât în fazele intermediare ale procesului de producţie,
+depozitare, transport, cât şi în faza finală, se poate interveni pe parcursul
+fluxului tehnologic până la consumator, în vederea eliminării sau reducerii
+conţinutului de substanţe de contaminare a produselor alimentare.
+104
+În anumite situaţii, la solicitarea organelor judiciare sau a partenerilor în
+cadrul unui contract economic, este necesară verificarea calităţii produselor
+alimentare prin efectuarea de expertize ale specialiştilor acreditaţi în acest
+domeniu.
+În mod particular, expertiza produselor alimentare efectuată în scopul
+determinării substanţelor chimice toxice aflate accidental sau datorită poluării
+mediului, se finalizează prin întocmirea raportului de expertiză, pe baza
+buletinelor de analize chimice.
+La nivel european, în vederea asigurării protecţiei consumatorului,
+Comisia Codex Alimentarius a stabilit „un aport maximal zilnic admisibil de
+contaminanţi”, cum sunt: As, Cd, Cu, Fe, Pb, Hg, Sn, şi Zn.
+Concentraţiile maximale prevăzute în standardele europene sunt
+recomandate de comisia mixtă internaţională sub egida FAO/WHO.
+De asemenea, pe lângă standarde, Codex Alimentarius cuprinde şi alte
+acte normative (coduri de practici, recomandări) privind evaluarea toxicologică
+şi metodele analitice clasice şi instrumentale de analiză folosite în arbitrajele
+Codex, în cadrul circulaţiei europene a mărfurilor.
+În vederea îmbunătăţirii stării de sănătate a populaţiei, tendinţa mondială
+este de a realiza produse alimentare ecologice, prin aplicarea metodelor
+agriculturii şi a zootehniei biologice.
+Regulamentul CEE2092 2092/1991 a pus bazele sistemelor de certificare
+în agricultura ecologică.
+Obiectivul aplicării agriculturii şi zootehniei biologice constă în protecţia
+mediului şi a sănătăţii consumatorilor, prin renunţarea la utilizarea
+îngrăşămintelor chimice şi a oricăror substanţe de sinteză şi totodată,
+respectarea ciclului biologic natural de creştere a plantelor şi respectiv, al
+animalelor.
+105
+În următorii ani, controlul calităţii produselor alimentare va avea din ce în
+ce mai mare importanţă, datorită atenţiei acordate respectării normelor europene
+privind siguranţa alimentară a consumatorului.
