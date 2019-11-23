@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## **Welcome to the Romanian Language Repository**
 
-You can use the [editor on GitHub](https://github.com/lmidriganciochina/romaniancorpus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Romanian is a Eastern - Romance language, that developed in Southeastern Europe during the 5th-8th centuries. Presently, it is spoken by approximately 24 – 26 million people as a native language and about 4 million people as a secondary language. Romanian is the official language in Romania, the Rep. Of Moldova, and parts of Serbia and Greece, and it is also spoken within communities of Romanian and Moldovan immigrants in the countries of the European Union, the United States, Canada and Australia. 
 
 ### Markdown
 
