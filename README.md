@@ -1,4 +1,4 @@
-## **Welcome to the Romanian Language Repository**
+## **The Romanian Language Repository**
 
 Romanian is a Eastern - Romance language, that developed in Southeastern Europe during the 5th-8th centuries. Presently, it is spoken by approximately 24 – 26 million people as a native language and about 4 million people as a secondary language. Romanian is the official language in Romania, the Rep. Of Moldova, and parts of Serbia and Greece, and it is also spoken within communities of Romanian and Moldovan immigrants in the countries of the European Union, the United States, Canada and Australia. 
 
