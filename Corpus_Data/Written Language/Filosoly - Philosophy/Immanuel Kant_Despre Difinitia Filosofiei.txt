@@ -1,0 +1,145 @@
+Immanuel Kant
+DESPRE DEFINITIA FILOSOFIEI
+
+ “ Prolegomene la orice metafizica viitoare care se va putea afisa ca
+stiinta “
+par. 1, 2, 5, 7, 9, 10, 14, 15, 18, 19, 20
+“Daca voim sa infatisam o cunoastere drept stiinta, trebuie mai intai sa
+putem determina cu precizie ce anume o deosebeste de celelalte feluri de
+cunoastere, ce nu are comun nici una dintre acestea si ii este deci specific. Daca
+nu vom face astfel, hotarele ce despart stiintele se vor stare si nici una dintre ele
+nu va mai putea fi tratata temeinic potrivit naturii sale.
+ Aceasta specificitate poate sa provina din deosebirea ce exista fie intre
+obiectele cunoasterii, fie intre sursele cunoasterii, fie si din modul in care se
+realizeaza cunoasterea, sau din imbinarea unora daca nu chiar a tuturor, laolalta.
+Pe aceste elemente se intemeiaza, in primul rand, ideea unei stiinte posibile si a
+domeniului ei.
+ In ce priveste, mai intai, sursele unei cunoasteri metafizice, rezulta din
+insusi conceptul unei astfel de cunoasteri ca ele nu pot fi empirice. Principiile
+unei astfel de cunoasteri (de care tin nu numai propozitiile ei prime, ci si
+conceptele ei de baza) nu trebuie sa fie luate niciodata din experienta; caci
+cunoasterea nu trebuie sa fie fizica, ci metafizica, adica o cunoastere care se
+intinde dincolo de experienta. La temelia cunoasterii metafizice nu va sta, asadar,
+nici experienta externa, care reprezinta sursa fizicii (ca stiinta a naturii, in genere,
+n.n.) propriu-zise, nici experienta interna care constituie baza psihologiei
+empirice. Ea este deci o cunoastere a priori, izvorata din intelectul pur si din
+ratiunea pura.
+ Prin aceasta cunoasterea metafizica nu s-ar deosebi insa intru nimic de
+matematica pura; ea va trebui sa fie numita, prin urmare, cunoastere filosofica
+pura.
+ Cunoasterea metafizica trebuie sa cuprinda numai judecati a priori:
+aceasta o cere chiar specificul surselor ei. Oricare ar fi insa originea judecatilor,
+sau forma lor logica, exista o deosebire intre ele din punctul de vedere al
+continutului, si anume aceea ca ele sunt fie pur explicative, adica nu adauga
+nimic la continutul cunoasterii, fie extensive, cu alte cuvinte sporesc cunoasterea
+noastra; primele vor putea fi numite judecati analitice, iar celelalte judecati
+sintetice.
+ Judecatile analitice nu cuprind in predicatul lor nimic altceva decat ceea
+ce era de acum gandit in conceptul subiectului, chiar daca nu asa de limpede si pe
+deplin constient.
+ Atunci cand spun “Toate corpurile sunt intinse” nu am largit catusi de
+putin conceptul meu de corp, ci l-am desfacut doar in elementele sale. Caci
+intinderea era gandita in acest concept deja inainte de formularea subiectului
+judecatii, chiar daca relatia nu a fost enuntata ca atare explicit; judecata este prin
+urmare analitica. Dimpotriva, propozitia: “Unele corpuri sunt grele” contine ceva
+in predicat ce nu era gandit in conceptul general de corp; ea sporeste asadar
+cunoasterea mea pentru ca adauga ceva la conceptul pe care il aveam si trebuie ca
+atare sa fie numita judecata sintetica (…).
+Am vazut care este deosebirea dintre judecatile analitice si cele sintetice.
+ Posibilitatea propozitiilor analitice a putut fi inteleasa foarte usor, caci
+aceasta posibilitate se intemeiaza numai pe principiul contradictiei. Posibilitatea
+judecatilor sintetice a posteriori, adica a acelora care sunt obtinute din
+experienta, nu are nici ea nevoie de o explicatie speciala, deoarece experienta
+insasi nu este nimic altceva decat o imbinare continua (synthesis) a perceptiilor.
+Nu ne raman decat propozitii sintetice a priori, a caror posibilitate trebuie sa o
+cautam sau sa o cercetam, de vreme ce ea trebuie sa se intemeieze pe alte
+principii decat acelea ale contradictiei (…).
+ Problema propriu-zisa de care depinde totul este, exprimata cu o precizie
+scolastica, urmatoarea: Cum sunt posibile propozitiile sintetice a priori ?
+ Judecata sintetica a posteriori certa nu contine decat ceea ce poate fi
+intalnit in intuitia empirica intamplatoare, pe cand judecata sintetica a priori
+certa cuprinde ceea ce trebuie intalnit in chip necesar in intuitia pura, de vreme
+ce, in calitate de intuitie a priori, ea este legata in mod inseparabil de concept,
+inaintea oricarei experiente (…).
+ Daca intuitia noastra ar reprezenta lucrurile asa cum sunt ele in sine,
+atunci nu ar putea exista nici un fel de intuitie a priori, ci ea ar fi intotdeauna
+empirica. Nu pot sa stiu ce anume este cuprins in obiectul in sine, daca el este
+prezentat si imi este dat. Ce-i drept, si in acest caz ramane de neinteles cum este
+posibil ca intuitia unui lucru prezent sa ma poata face sa cunosc lucrul asa cum
+este in sine, de vreme ce proprietatile lui nu pot sa treaca in facultatea mea de
+reprezentare. Dar chiar daca am admite o asemenea posibilitate, nici atunci
+intuitia nu s-ar produce a priori, adica inainte de a-mi fi prezentat obiectul: caci
+fara aceasta conditie nu poate fi gandit nici un temei al relatiei reprezentarii mele
+cu acel obiect, daca reprezentarea nu va fi cumva sprijinita pe inspiratie. Nu
+exista, astfel, decat o singura posibilitate ca intuitia mea sa premearga realitatii
+obiective si sa aiba loc ca o cunoastere a priori si anume aceea ca ea sa nu
+cuprinda nimic altceva decat forma sensibilitatii, care precede in subiectul meu
+toate impresiile reale prin care sunt afectat de catre obiecte (…).
+ Prin urmare, numai in forma intuitiei sensibile putem intui a priori
+lucruri. Pe acestea le cunoastem insa numai asa cum ne pot apare noua
+(simturilor noastre) si nu asa cum pot fie ele in sine, iar aceasta premisa este
+absolut necesara pentru a admite posibilitatea propozitiilor sintetice a priori sau,
+daca constatam ca ele exista de fapt, pentru a intelege si determina dinainte
+posibilitatea lor.
+ Spatiul si timpul sunt acele intuitii pe care matematica pura le ia drept
+baza a tuturor cunostintelor si a judecatilor ei care se infatiseaza ca apodictice si
+necesare; caci matematica trebuie sa-si reprezinte toate conceptele ei mai inainte
+in intuitie, iar matematica pura, in intuitia pura, adica sa le construiasca…
+ Natura este existenta lucrurilor in masura in care aceasta din urma este
+determinata dupa legi universale. Daca natura ar insemna existenta lucrurilor in
+sine, atunci n-am putea-o cunoaste niciodata, a priori, nici a posteriori. Nu am
+putea cunoaste a priori caci nu am putea sti ce anume este propriu lucrurilor in
+sine de vreme ce nu putem afla niciodata aceasta prin analiza conceptelor
+noastre (propozitii analitice), deoarece nu urmarim sa aflam ce anume cuprinde
+conceptul nostru despre un lucru (caci aceasta apartine esentei sale logice), ci
+vrem sa stim ce se adauga la acest concept in realitate a lucrului si prin ce anume
+este determinat lucrul insusi in existenta sa, dincolo de conceptul meu. Intelectul
+meu si conditiile care, singure, ii permit sa lege intre ele determinarile lucrurilor
+in existenta lor, nu pot prescrie in sine nici o regula; lucrurile nu se orienteaza
+dupa intelectul meu, ci acesta, dimpotriva, trebuie sa se orienteze dupa lucruri.
+Prin urmare, lucrurile ar trebui sa-mi fie date dinainte ca eu sa pot lua de la ele
+aceste determinari. Dar in acest caz, ele nu ar mai fi cunoscute a priori .
+ O cunoastere a naturii lucrurilor in sine este imposibila si a posteriori.
+Caci daca experienta este cea care trebuie sa ma invete legi ce guverneaza
+existenta lucrurilor, atunci aceste legi ar trebui sa se aplice, in masura in care ele
+se refera la lucruri in sine, in chip necesar si in afara experientei mele. Ori,
+experienta ma invata, intr-adevar, ce exista si cum exista dar nu ma invata
+niciodata ca ceva trebuie sa fie in chip necesar intr-un anume fel. Prin urmare,
+experienta nu ma poate invata niciodata care este natura lucrurilor in sine.
+Noi ne aflam totusi in posesia unei stiinte pure a naturii care formuleaza legi
+ale naturii, a priori.
+Trebuie sa observam mai intai ca desi toate judecatile de experienta sunt
+empirice, adica isi au temeiul in perceptia nemijlocita a simturilor, nu este
+adevarat si invers, ca, din aceasta cauza, toate judecatile empirice sunt judecati de
+experienta, si ca empiricului, si in genere intuitiei sensibile, mai trebuie sa i se
+adauge si anumite concepte care au o origine pe de-a intregul a priori in ratiunea
+pura; dar orice perceptie trebuie mai intai sa fie subsumata acestora pentru a
+putea apoi sa fie transformata, prin mijlocirea lor, in experienta (…).
+Vom incerca sa explicam cele spuse. Ca incaperea este calda, zaharul este
+dulce(…)
+sunt judecati care nu sunt valabile decat subiectiv. Nu pretind catusi de
+putin ca le voi gasi in acelasi fel tot timpul si nici ca oricare le va gasi ca fiind in
+acelasi fel. Ele exprima doar o relatie a doua senzatii cu acelasi subiect, si anume
+cu mine insumi… Asemenea judecati le numesc de perceptie. Cu totul alta este
+situatia cand am de a face cu judecati de experienta. Ceea ce ma invata pe mine
+experienta in anumite conditii trebuie sa ma invete oricand si trebuie sa invete pe
+oricine. Valabilitatea acestor judecati nu se limiteaza la un subiect (…). De aceea
+socotesc toate judecatile de acest fel ca judecati obiectiv valabile (…).
+Va trebui sa analizam experienta in genere pentru a vedea ce anume tine in
+acest produs de simturi si ce anume de judecata si cum este posibila judecata de
+experienta insasi. La baza ei se afla intuitia de care sunt constient, adica
+perceptia… Dar in al doilea rand la ea participa si actul de a judeca (ce revine
+numai intelectului). Acesta poate fi de doua feluri; mai intai, compararea
+perceptiilor si legarea lor de catre o constiinta individuala, sau, in al doilea rand,
+legarea lor intr-o constiinta in genere. Prima judecata este doar o judecata de
+perceptie si are numai o valabilitate subiectiva… De aceea pentru a ajunge la
+experienta nu este indeajuns, asa se cum credea indeobste, sa compari perceptii
+si sa le legi prin actul judecatii intr-o constiinta, caci in acest fel nu ia nastere
+valabilitatea universala si necesitatea judecatii care singure, fac ca judecata sa
+aiba o valabilitate obiectiva si sa poata fi deci experienta.
+Inainte ca perceptia sa se poata transforma in experienta mai trebuie deci sa
+apara o judecata de cu totul alt fel. Intuitia data trebuie subsumata unui concept
+care determina forma judecatii in genere cu privire la intuitie, care leaga
+constiinta empirica a celei din urma intr-o constiinta in genere, facand astfel ca
+judecatile empirice sa fie universal valabile. Un asemenea concept este un
+concept pur a priori al intelectului.”
