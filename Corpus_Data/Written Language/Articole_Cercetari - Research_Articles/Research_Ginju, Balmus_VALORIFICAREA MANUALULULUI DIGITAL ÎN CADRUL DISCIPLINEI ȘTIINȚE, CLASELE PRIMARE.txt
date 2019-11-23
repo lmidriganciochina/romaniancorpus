@@ -1,0 +1,38 @@
+TITLE: VALORIFICAREA MANUALULULUI DIGITAL ÎN CADRUL DISCIPLINEI ȘTIINȚE, CLASELE PRIMARE
+AUTHOR: Stela Ginju, Nicolae Balmus
+
+Tehnologiile informaționale ne invadează viață de zi cu zi, inclusiv și sistemul de învățămînt.Instrumentele principalele ale unei lecții, care au existat secole în șir: creta, tabla și caietul, astăzi sînt înlocuite cu prezentări electronice, table interactive și mai nou, manualul digital.
+Manualele digitale sunt o resursă educațională modernă apărute ca rezultat al imaginaţiei, iniţiativelor, experimentelor şi promovărilor cercetării şi dezvoltării noilor tehnologii în educaţie.
+Din punct de vedre tehnic, manualul digital reprezintă un produs software (aplicaţie) ce poate fi folositonline dar şi offline, pe orice tip de tehnologie (descktop, laptop, tabletă, telefon), pe orice sistem de operare şi pe orice browser, iar din punct de vedere fizic există stocat pe un CD ce însoţeşte manualul tipărit. Din punct de vedere al conţinutului, manualul digital cuprinde integral conţinutul manualului tipărit (ce are reprezentări statice), având complementar (în locul ilustraţiilor, tabelelor, exerciţiilor, etc. de pe hârtie) elemente specifice, precum: exerciţii interactive, jocuri educaţionale, animaţii, filme şi simulări care, prin utilizare, aduc un plus de profit cognitiv . În figura 1 prezentăm o secvență din manualul digital interactiv,,Științe, clasa a 2-a” elaborat în mediul de programare Delphi, în baza manualului tipări și aprobat de Ministerul Educației al R. Moldova . De asemenea, putem menționa că manualele digitale reprezintă un manual alternativ care oferăeducabilului mai multe surse de informaţie, un suport şi mijloc electronic de realizare a procesului de învăţămînt, un sistem adaptiv care include legături hipermedia şi prezentarea adaptivă a contextului informaţional.
+Primele manuale digitale au apărut după anul 2010, în SUA, Coreea de Sud, Emiratele Arabe Unite, iar în anul de studii 2014-2015 apar și în România. Principalul scop al acestor manual este de a facilitamunca profesorului, de a motiva și a captiva educabilii. Manualele electronice pot avea o gamă largă deutilizatori: de la preșcolari, elevii claselor primare, gimnaziale și liceale, pînă la studenți, masteranzi și cadre didactice, care se preocupă de formarea sa continuă. Ca și orice strategie de învățămînt, manualul electronic are si avantaje, cît și dezavantaje.
+Printre avantajele manualului electronic putem enumera:
+1. oferirea unui proces de învățare-predare-evaluare interactiv, prin intermediul aplicațiilor multimedia, jocurilor electronice, animațiilor;
+2. scutirea profesorilor de a căuta material didactic (filme, prezentări, imagini, melodii) – toate pot fistocate în manual electronic;
+3. gradul mai mic de uzură față de manualele tipărite, care se transferă de la copil la copil, din clasă în clasă și nu sînt protejate de diverse notițe, ,,mîzgăleli”, șifonări sau rupturi;
+4. selectarea și schimbarea, după necesitate, a mărimii literelor, ceea ar facilitează învățarea copiilor cu deficiențe vizuale;
+5. masa (greutatea) manualului electronic este mai mică în comparație cu masa a 6 manuale tipărite. Într-un laptop sau o tabletă pot fi stocate zeci de manuale electronice;
+6. ,,Manualul digital reprezintă un pas important spre învățarea adaptivă, în care ritmul nu mai este cel impus de profesor sau de clasă. Acum fiecare elev poate parcurge activitățile de învățare într-un ritm propriu, iar acest lucru permite o dezvoltare organică a cunoașterii la nivelul clasei” 
+Dezavantajele manualului electronic sînt:
+1. accesarea manualelor electronice doar de pe dispozitive speciale (tablete, calculatoare, laptopuri)costisitoare, ceea ce ar obliga părinții la cheltuieli suplimentare;
+2. posibilitatea defectării dispozitivelor electronice, prezența unei pene de curent, ce impune riscul de apariție a anumitor probleme în utilizarea manualului electronic;
+3. diminuarea procesului de comunicare orală dintre elev-elev, elev-cadru didactic;
+4. promovarea sedentarismului;
+5. acțiune negativă asupra vederii copiilor.
+În continuare, propunem un proiect didactic de lecție în baza manualului digital ,,Științe, clasa a II-a”.Subiectul lecției: Corpurile terestre
+Subompetențe:
+1.1. Achiziţionarea şi utilizarea în comunicarea ştiinţifică a termenilor-cheie: natură, mediu înconjurător, corp, natural/ artificial, ocrotire.
+1.2. Descrierea unor caracteristici observabile ale diferitor corpuri din natură.Obiective operaționale:
+La finele lecției elevul va fi capabil:
+O.O 1 Să enumere 8-10 corpuri în baza imaginilor
+O.O2 Să descrie corpurile artificiale/naturale în baza unui film
+O.O3 Să clasifice corpurile în baza criteriului indicat
+Evocare.
+Elevii sau învățătoarea citește ghicitorile din manualul electronic, care nu sînt în manualul tipărit, iar
+elevii trebuie să selecteze, din multitudinea de imagini, doar acele imagini care reprezintă răspunsurile la ghicitori. Imaginea este plasată lîngă textul ghicitorii. Această activitate poate fi efectuată frontal, invitînd un elev la tabla interactivă, ceilalți urmărind de pe loc, sau poate fi efectuată individual, fiecare cu manualul săuelectronic .
+Bazîndu-ne pe activitatea desfășurată anterior, învățătoarea va solicita elevilor să clasifice imaginile în două grupuri: corpuri vii și nevii, apoi să încercuiască cu albastru corpurile create de om, iar cu verde –corpurile create de natură, aflînd că acestea se numesc naturale și artificiale.
+In compartimentul ,,Informează-te” al manualului tipărit, elevilor li se propune să dea exemple decorpuri vii și nevii. Această activitate în manualul digital poate fi realizată în format verbal: Elevul apasăbutonul R, care declanșează procesul de înregistrare audio al răspunsului. Apăsarea butonului A permiteelevului să autoevalueze calitatea răspunsului. Acest buton din manualul digital al elevului poate fi accesat de profesor sau părinte pentru evaluarea activității elevului. 
+Prin plasarea unui film în manualul electronic, elevii, fără dificultate, pot urmări viața unei plante cu flori – floarea soarelui.
+Reflecție
+Urmărind filmul, elevii pot scrie un mic eseu despre viața unei plante cu flori, ceea ce prevede și manualul tipărit, în exercițiul 2, pag. 11.Extensie
+În tema descrisă, manualul tipărit propune elevilor să afle mai multă informație despre Ion și Doina Aldea-Teodorovici. Manualul electronic oferă această posibilitate prin plasarea informației și chiar amelodiilor acestor personalități remarcabile.
+Nu împărtăşim ideea că manualele electronice pot înlocui 100% un manual tipărit, dar în această lume, în care singurul aspect nemodificat este schimbarea, învăţământul trebuie să se integreze şi să îşi adapteze ofertele pentru a veni în sprijinul noii generaţii, actualizîndu-şi permanent strategiile și resursele, astfel încât să răspundă noilor provocări şi, în acelaşi timp, să le ofere subiecţilor educaţiei deprinderi şi instrumente de muncă eficiente.
