@@ -11,12 +11,12 @@ A corpus is essentially a collection of written text, transcribed spoken languag
 ## Corpus Type 
 - _Monitor_ corpus
 ## Corpus Size
-- writen data
+- written data
   - ~ 4,500,000 words 
 - spoken data
   - ~ 25,000 words
 ## Representativenes
-- writen data
+- written data
   - 16 registers
 - spoken data 
   - 2 registers
