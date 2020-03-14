@@ -12,9 +12,10 @@ A corpus is essentially a collection of written text, transcribed spoken languag
 - _Monitor_ corpus
 ## Corpus Size
 - written data
-  - ~ 4,500,000 words 
+  - ~ 5,500,000 words 
 - spoken data
-  - ~ 25,000 words
+  - ~ 100,000 words of transcrived spoken data
+  -all audio associated with the transcribed data 
 ## Representativenes
 - written data
   - 16 registers
@@ -22,11 +23,12 @@ A corpus is essentially a collection of written text, transcribed spoken languag
   - 2 registers
 ### Authors 
 - The corpus data come (currently) from 381 authors 
- 
+### Metadata
+- the metadata associated with each file contains the author's name, gender, language, and the BRC information. 
 
 
 #### Acknowledgements
-We would like to thank Kenji Sagae, Ph.D., for suggestions and comments during the data collection. Aishwarya Jaggannath, Luci Sanchez Ortega, Victoria Boyd and Diana Malancea for helping with data collection and data computerization. 
+We would like to thank Kenji Sagae, Ph.D., for suggestions and comments during the data collection. Aishwarya Jaggannath, Luci Sanchez Ortega, Victoria Boyd, Doina Midrigan and Diana Malancea for helping with data collection and data computerization. 
 
 
 
