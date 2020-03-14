@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-03-06"
+                FormatId="IMDI 3.04"
+                Originator="CMDI Maker by CLASS - Cologne Language Archive Services"
+                Type="CORPUS"
+                Version="1.0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+   <Corpus>
+      <Name>BalancedRomanianCorpus</Name>
+      <Title>Written Language </Title>
+      <Description LanguageId="ISO639-3:eng"/>
+      <CorpusLink Name="TeatruIonLucaCaragiale">TeatruIonLucaCaragiale.imdi</CorpusLink>
+      <CorpusLink Name="TeatruPanaitiIstrati">TeatruPanaitiIstrati.imdi</CorpusLink>
+      <CorpusLink Name="TeatruBarbuŞtefanescuDelavrancea">TeatruBarbuŞtefanescuDelavrancea.imdi</CorpusLink>
+      <CorpusLink Name="TeatruVasileAlexandri">TeatruVasileAlexandri.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

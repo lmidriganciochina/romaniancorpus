@@ -1,0 +1,6423 @@
+{
+	"type": "environment_state",
+	"environment_id": "imdi",
+	"environment_version": "2.12.1",
+	"environments": {
+		"imdi": {
+			"settings": {
+				"output_format": "imdi",
+				"calc_actors_age": true,
+				"preserve_hyphens": false,
+				"metadata_creator": "CMDI Maker User",
+				"metadata_language": 0
+			},
+			"corpus": {
+				"name": "BalancedRomanianCorpus",
+				"title": "Written Language ",
+				"description": "",
+				"content_languages": {
+					"id_counter": 2,
+					"list": [
+						[
+							"ron",
+							"RO",
+							"L",
+							"Romanian"
+						],
+						[
+							"ron",
+							"MD",
+							"L",
+							"Romanian"
+						]
+					],
+					"pointer": 0,
+					"info": "ObjectList state"
+				}
+			},
+			"resources": {
+				"id_counter": 379,
+				"list": [
+					{
+						"name": "Vasile Alexandri_Legenda ciocârliei.txt",
+						"mime_type": "text/plain",
+						"size": "15.5 KB",
+						"lastModified": 1572421414295,
+						"id": 0
+					},
+					{
+						"name": "Vasile Alexandri_Legenda lăcrimioarei.txt",
+						"mime_type": "text/plain",
+						"size": "1.6 KB",
+						"lastModified": 1572421448017,
+						"id": 1
+					},
+					{
+						"name": "Vasile Alexandri_Legenda rândunicăi.txt",
+						"mime_type": "text/plain",
+						"size": "6.0 KB",
+						"lastModified": 1572421377123,
+						"id": 2
+					},
+					{
+						"name": "Vasile Alexandri_Miezul iernii.txt",
+						"mime_type": "text/plain",
+						"size": "839 B",
+						"lastModified": 1572421252502,
+						"id": 3
+					},
+					{
+						"name": "Vasile Alexandri_Soarele vântul şi gerul.txt",
+						"mime_type": "text/plain",
+						"size": "909 B",
+						"lastModified": 1572421479474,
+						"id": 4
+					},
+					{
+						"name": "Vasile Alexandri_Strunga.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572419971430,
+						"id": 5
+					},
+					{
+						"name": "Vasile Alexandri_Ţara.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572421508527,
+						"id": 6
+					},
+					{
+						"name": "Viorica Sălăjeanu_Am înteles.txt",
+						"mime_type": "text/plain",
+						"size": "287 B",
+						"lastModified": 1572414711000,
+						"id": 7
+					},
+					{
+						"name": "Viorica Sălăjeanu_Chem vântul.txt",
+						"mime_type": "text/plain",
+						"size": "111 B",
+						"lastModified": 1572414633561,
+						"id": 8
+					},
+					{
+						"name": "Viorica Sălăjeanu_Poarta sufletului.txt",
+						"mime_type": "text/plain",
+						"size": "226 B",
+						"lastModified": 1572414610161,
+						"id": 9
+					},
+					{
+						"name": "Viorica Sălăjeanu_Primăvara.txt",
+						"mime_type": "text/plain",
+						"size": "189 B",
+						"lastModified": 1572414680418,
+						"id": 10
+					},
+					{
+						"name": "Viorica Sălăjeanu_Retrezirea pădurii.txt",
+						"mime_type": "text/plain",
+						"size": "232 B",
+						"lastModified": 1572414654808,
+						"id": 11
+					},
+					{
+						"name": "Viorica Sălăjeanu_Te întreb.txt",
+						"mime_type": "text/plain",
+						"size": "363 B",
+						"lastModified": 1572414583783,
+						"id": 12
+					},
+					{
+						"name": "Zorica Latcu_Te port.txt",
+						"mime_type": "text/plain",
+						"size": "662 B",
+						"lastModified": 1572422057678,
+						"id": 13
+					},
+					{
+						"name": "Adrian Păunescu_Antiprimavara.txt",
+						"mime_type": "text/plain",
+						"size": "799 B",
+						"lastModified": 1572422548685,
+						"id": 14
+					},
+					{
+						"name": "Adrian Păunescu_Bătrânul cerşetor.txt",
+						"mime_type": "text/plain",
+						"size": "524 B",
+						"lastModified": 1572422604983,
+						"id": 15
+					},
+					{
+						"name": "Adrian Păunescu_Căţel emigrant.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572422521798,
+						"id": 16
+					},
+					{
+						"name": "Adrian Păunescu_Ce frumoasă eşti.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572422482898,
+						"id": 17
+					},
+					{
+						"name": "Adrian Păunescu_Cine iese ultimul din ţară.txt",
+						"mime_type": "text/plain",
+						"size": "1.8 KB",
+						"lastModified": 1572422578379,
+						"id": 18
+					},
+					{
+						"name": "Adrian Păunescu_Făt-Frumos.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572422336289,
+						"id": 19
+					},
+					{
+						"name": "Adrian Păunescu_Hipnoză de toamnă.txt",
+						"mime_type": "text/plain",
+						"size": "504 B",
+						"lastModified": 1572422452583,
+						"id": 20
+					},
+					{
+						"name": "Adrian Păunescu_Iertările.txt",
+						"mime_type": "text/plain",
+						"size": "944 B",
+						"lastModified": 1572422408690,
+						"id": 21
+					},
+					{
+						"name": "Adrian Păunescu_Leagăn pentru toată copilăria.txt",
+						"mime_type": "text/plain",
+						"size": "1.6 KB",
+						"lastModified": 1572422300889,
+						"id": 22
+					},
+					{
+						"name": "Adrian Păunescu_Pastel de toamnă.txt",
+						"mime_type": "text/plain",
+						"size": "572 B",
+						"lastModified": 1572422247848,
+						"id": 23
+					},
+					{
+						"name": "Adrian Păunescu_Poetul.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572422271972,
+						"id": 24
+					},
+					{
+						"name": "Adrian Păunescu_Rugă pentru părinţi.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572422196480,
+						"id": 25
+					},
+					{
+						"name": "Adrian Păunescu_Steaguri albe.txt",
+						"mime_type": "text/plain",
+						"size": "706 B",
+						"lastModified": 1572422223342,
+						"id": 26
+					},
+					{
+						"name": "Adrian Păunescu_Trăiască România.txt",
+						"mime_type": "text/plain",
+						"size": "2.8 KB",
+						"lastModified": 1572422377514,
+						"id": 27
+					},
+					{
+						"name": "Alexandru Macedonski_Noaptea de decembrie.txt",
+						"mime_type": "text/plain",
+						"size": "9.3 KB",
+						"lastModified": 1572421572485,
+						"id": 28
+					},
+					{
+						"name": "Alexandru Macedonski_Noaptea de iulie.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572421603110,
+						"id": 29
+					},
+					{
+						"name": "Alexandru Macedonski_Rondelul ajungerii la cer.txt",
+						"mime_type": "text/plain",
+						"size": "421 B",
+						"lastModified": 1572421768507,
+						"id": 30
+					},
+					{
+						"name": "Alexandru Macedonski_Rondelul contimporanilor.txt",
+						"mime_type": "text/plain",
+						"size": "409 B",
+						"lastModified": 1572421711837,
+						"id": 31
+					},
+					{
+						"name": "Alexandru Macedonski_Rondelul cupei de Murano.txt",
+						"mime_type": "text/plain",
+						"size": "361 B",
+						"lastModified": 1572421735841,
+						"id": 32
+					},
+					{
+						"name": "Alexandru Macedonski_Rondelul lucrurilor.txt",
+						"mime_type": "text/plain",
+						"size": "383 B",
+						"lastModified": 1572421662389,
+						"id": 33
+					},
+					{
+						"name": "Alexandru Macedonski_Rondelul orasului mic.txt",
+						"mime_type": "text/plain",
+						"size": "366 B",
+						"lastModified": 1572421688091,
+						"id": 34
+					},
+					{
+						"name": "Alexandru Macedonski_Rondelul rozelor de august.txt",
+						"mime_type": "text/plain",
+						"size": "409 B",
+						"lastModified": 1572421638200,
+						"id": 35
+					},
+					{
+						"name": "Ana Blandiana_Am crescut.txt",
+						"mime_type": "text/plain",
+						"size": "463 B",
+						"lastModified": 1572413338143,
+						"id": 36
+					},
+					{
+						"name": "Ana Blandiana_Arhitectură-n mişcare.txt",
+						"mime_type": "text/plain",
+						"size": "773 B",
+						"lastModified": 1572414407074,
+						"id": 37
+					},
+					{
+						"name": "Ana Blandiana_Aud.txt",
+						"mime_type": "text/plain",
+						"size": "486 B",
+						"lastModified": 1572414256597,
+						"id": 38
+					},
+					{
+						"name": "Ana Blandiana_Avram Iancu.txt",
+						"mime_type": "text/plain",
+						"size": "893 B",
+						"lastModified": 1572414233689,
+						"id": 39
+					},
+					{
+						"name": "Ana Blandiana_Balada vămilor.txt",
+						"mime_type": "text/plain",
+						"size": "1.8 KB",
+						"lastModified": 1572413835821,
+						"id": 40
+					},
+					{
+						"name": "Ana Blandiana_Călătorie.txt",
+						"mime_type": "text/plain",
+						"size": "319 B",
+						"lastModified": 1572413575261,
+						"id": 41
+					},
+					{
+						"name": "Ana Blandiana_Cântec de miner tânăr.txt",
+						"mime_type": "text/plain",
+						"size": "889 B",
+						"lastModified": 1572413179043,
+						"id": 42
+					},
+					{
+						"name": "Ana Blandiana_Cântecul.txt",
+						"mime_type": "text/plain",
+						"size": "718 B",
+						"lastModified": 1572414281998,
+						"id": 43
+					},
+					{
+						"name": "Ana Blandiana_Carantină.txt",
+						"mime_type": "text/plain",
+						"size": "704 B",
+						"lastModified": 1572413275951,
+						"id": 44
+					},
+					{
+						"name": "Ana Blandiana_Contratimp.txt",
+						"mime_type": "text/plain",
+						"size": "508 B",
+						"lastModified": 1572413602635,
+						"id": 45
+					},
+					{
+						"name": "Ana Blandiana_Copilărie.txt",
+						"mime_type": "text/plain",
+						"size": "451 B",
+						"lastModified": 1572413075534,
+						"id": 46
+					},
+					{
+						"name": "Ana Blandiana_Dans în ploaie.txt",
+						"mime_type": "text/plain",
+						"size": "818 B",
+						"lastModified": 1572413137458,
+						"id": 47
+					},
+					{
+						"name": "Ana Blandiana_De bună voie.txt",
+						"mime_type": "text/plain",
+						"size": "652 B",
+						"lastModified": 1572413540516,
+						"id": 48
+					},
+					{
+						"name": "Ana Blandiana_De dragoste.txt",
+						"mime_type": "text/plain",
+						"size": "603 B",
+						"lastModified": 1572414439296,
+						"id": 49
+					},
+					{
+						"name": "Ana Blandiana_Delimitări.txt",
+						"mime_type": "text/plain",
+						"size": "357 B",
+						"lastModified": 1572414352608,
+						"id": 50
+					},
+					{
+						"name": "Ana Blandiana_Descântec de ploaie.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572413110005,
+						"id": 51
+					},
+					{
+						"name": "Ana Blandiana_Două cruci.txt",
+						"mime_type": "text/plain",
+						"size": "509 B",
+						"lastModified": 1572414531970,
+						"id": 52
+					},
+					{
+						"name": "Ana Blandiana_Eclipsă.txt",
+						"mime_type": "text/plain",
+						"size": "635 B",
+						"lastModified": 1572413305975,
+						"id": 53
+					},
+					{
+						"name": "Ana Blandiana_Iarna stelele.txt",
+						"mime_type": "text/plain",
+						"size": "261 B",
+						"lastModified": 1572414181791,
+						"id": 54
+					},
+					{
+						"name": "Ana Blandiana_În somn.txt",
+						"mime_type": "text/plain",
+						"size": "465 B",
+						"lastModified": 1572414312644,
+						"id": 55
+					},
+					{
+						"name": "Ana Blandiana_Întâlnire.txt",
+						"mime_type": "text/plain",
+						"size": "418 B",
+						"lastModified": 1572413640427,
+						"id": 56
+					},
+					{
+						"name": "Ana Blandiana_Învaţă-mă să ard întunecat.txt",
+						"mime_type": "text/plain",
+						"size": "644 B",
+						"lastModified": 1572414093683,
+						"id": 57
+					},
+					{
+						"name": "Ana Blandiana_La ce serveşte bucuria.txt",
+						"mime_type": "text/plain",
+						"size": "403 B",
+						"lastModified": 1572413802480,
+						"id": 58
+					},
+					{
+						"name": "Ana Blandiana_Lasă-mi toamnă.txt",
+						"mime_type": "text/plain",
+						"size": "565 B",
+						"lastModified": 1572413386076,
+						"id": 59
+					},
+					{
+						"name": "Ana Blandiana_Legături.txt",
+						"mime_type": "text/plain",
+						"size": "489 B",
+						"lastModified": 1572413430808,
+						"id": 60
+					},
+					{
+						"name": "Ana Blandiana_Mamă.txt",
+						"mime_type": "text/plain",
+						"size": "527 B",
+						"lastModified": 1572413735047,
+						"id": 61
+					},
+					{
+						"name": "Ana Blandiana_Nealegere.txt",
+						"mime_type": "text/plain",
+						"size": "411 B",
+						"lastModified": 1572413482916,
+						"id": 62
+					},
+					{
+						"name": "Ana Blandiana_Ninge cu duşmănie.txt",
+						"mime_type": "text/plain",
+						"size": "519 B",
+						"lastModified": 1572414207909,
+						"id": 63
+					},
+					{
+						"name": "Ana Blandiana_Numai iubirea.txt",
+						"mime_type": "text/plain",
+						"size": "386 B",
+						"lastModified": 1572413454463,
+						"id": 64
+					},
+					{
+						"name": "Ana Blandiana_Poate că mă visează cineva.txt",
+						"mime_type": "text/plain",
+						"size": "526 B",
+						"lastModified": 1572414129806,
+						"id": 65
+					},
+					{
+						"name": "Ana Blandiana_Refren.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572414465235,
+						"id": 66
+					},
+					{
+						"name": "Ana Blandiana_Rugă.txt",
+						"mime_type": "text/plain",
+						"size": "586 B",
+						"lastModified": 1572414505094,
+						"id": 67
+					},
+					{
+						"name": "Ana Blandiana_Să lăsăm să cadă cuvintele.txt",
+						"mime_type": "text/plain",
+						"size": "292 B",
+						"lastModified": 1572413675453,
+						"id": 68
+					},
+					{
+						"name": "Ana Blandiana_Se face noapte.txt",
+						"mime_type": "text/plain",
+						"size": "451 B",
+						"lastModified": 1572413211435,
+						"id": 69
+					},
+					{
+						"name": "Ana Blandiana_Silabe.txt",
+						"mime_type": "text/plain",
+						"size": "499 B",
+						"lastModified": 1572414061738,
+						"id": 70
+					},
+					{
+						"name": "Ana Blandiana_Ştiu puritatea.txt",
+						"mime_type": "text/plain",
+						"size": "616 B",
+						"lastModified": 1572413243597,
+						"id": 71
+					},
+					{
+						"name": "Ana Blandiana_Te întreb.txt",
+						"mime_type": "text/plain",
+						"size": "363 B",
+						"lastModified": 1572414561673,
+						"id": 72
+					},
+					{
+						"name": "Ana Blandiana_Tu treci.txt",
+						"mime_type": "text/plain",
+						"size": "550 B",
+						"lastModified": 1572414382965,
+						"id": 73
+					},
+					{
+						"name": "Ana Blandiana_Voi ştiţi ceva.txt",
+						"mime_type": "text/plain",
+						"size": "446 B",
+						"lastModified": 1572413512727,
+						"id": 74
+					},
+					{
+						"name": "Elena Armenescu_În mine - apă din primordiala mare.txt",
+						"mime_type": "text/plain",
+						"size": "604 B",
+						"lastModified": 1572419826580,
+						"id": 75
+					},
+					{
+						"name": "Elena Armenescu_Iubirea împărătească.txt",
+						"mime_type": "text/plain",
+						"size": "20.1 KB",
+						"lastModified": 1572419729961,
+						"id": 76
+					},
+					{
+						"name": "Elena Armenescu_Mielul Pascal.txt",
+						"mime_type": "text/plain",
+						"size": "964 B",
+						"lastModified": 1572419883927,
+						"id": 77
+					},
+					{
+						"name": "Elena Armenescu_Migraţii.txt",
+						"mime_type": "text/plain",
+						"size": "555 B",
+						"lastModified": 1572419799057,
+						"id": 78
+					},
+					{
+						"name": "Elena Armenescu_Parabolă.txt",
+						"mime_type": "text/plain",
+						"size": "507 B",
+						"lastModified": 1572419853842,
+						"id": 79
+					},
+					{
+						"name": "Elena Armenescu_Rosteşte-mă.txt",
+						"mime_type": "text/plain",
+						"size": "855 B",
+						"lastModified": 1572419774563,
+						"id": 80
+					},
+					{
+						"name": "Elena Farago_Cătelusul schiop.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572419517635,
+						"id": 81
+					},
+					{
+						"name": "Elena Farago_Closca.txt",
+						"mime_type": "text/plain",
+						"size": "415 B",
+						"lastModified": 1572419657256,
+						"id": 82
+					},
+					{
+						"name": "Elena Farago_Gândăcelul.txt",
+						"mime_type": "text/plain",
+						"size": "998 B",
+						"lastModified": 1572419596204,
+						"id": 83
+					},
+					{
+						"name": "Elena Farago_Hai Nani Nani.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572419566747,
+						"id": 84
+					},
+					{
+						"name": "Elena Farago_Micul vânător.txt",
+						"mime_type": "text/plain",
+						"size": "2.3 KB",
+						"lastModified": 1572419633034,
+						"id": 85
+					},
+					{
+						"name": "Elena Liliana Popescu_Dacă.txt",
+						"mime_type": "text/plain",
+						"size": "426 B",
+						"lastModified": 1572422853459,
+						"id": 86
+					},
+					{
+						"name": "Elena Liliana Popescu_Imn vieţii.txt",
+						"mime_type": "text/plain",
+						"size": "783 B",
+						"lastModified": 1572422916413,
+						"id": 87
+					},
+					{
+						"name": "Elena Liliana Popescu_În clipa regăsirii.txt",
+						"mime_type": "text/plain",
+						"size": "547 B",
+						"lastModified": 1572422881183,
+						"id": 88
+					},
+					{
+						"name": "George Bacovia_Belşug.txt",
+						"mime_type": "text/plain",
+						"size": "732 B",
+						"lastModified": 1572423802440,
+						"id": 89
+					},
+					{
+						"name": "George Bacovia_Cuptor.txt",
+						"mime_type": "text/plain",
+						"size": "413 B",
+						"lastModified": 1572423835792,
+						"id": 90
+					},
+					{
+						"name": "George Bacovia_Poveste.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572423905248,
+						"id": 91
+					},
+					{
+						"name": "George Bacovia_Şi ce.txt",
+						"mime_type": "text/plain",
+						"size": "282 B",
+						"lastModified": 1572423964316,
+						"id": 92
+					},
+					{
+						"name": "George Bacovia_Tablou de iarnă.txt",
+						"mime_type": "text/plain",
+						"size": "466 B",
+						"lastModified": 1572423939751,
+						"id": 93
+					},
+					{
+						"name": "Gheorghe Topârceanu_Cântec.txt",
+						"mime_type": "text/plain",
+						"size": "343 B",
+						"lastModified": 1572423416076,
+						"id": 94
+					},
+					{
+						"name": "Gheorghe Topârceanu_Furtuna.txt",
+						"mime_type": "text/plain",
+						"size": "650 B",
+						"lastModified": 1572423565666,
+						"id": 95
+					},
+					{
+						"name": "Gheorghe Topârceanu_Noapte de toamnă.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572423445908,
+						"id": 96
+					},
+					{
+						"name": "Gheorghe Topârceanu_Pastel.txt",
+						"mime_type": "text/plain",
+						"size": "787 B",
+						"lastModified": 1572423469665,
+						"id": 97
+					},
+					{
+						"name": "Gheorghe Topârceanu_Rapsodii de toamnă.txt",
+						"mime_type": "text/plain",
+						"size": "4.0 KB",
+						"lastModified": 1572423502781,
+						"id": 98
+					},
+					{
+						"name": "Gheorghe Topârceanu_Scrisoare.txt",
+						"mime_type": "text/plain",
+						"size": "2.4 KB",
+						"lastModified": 1572423532001,
+						"id": 99
+					},
+					{
+						"name": "Ion Minulescu_ACELEI CARE VA VENI.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572403822846,
+						"id": 100
+					},
+					{
+						"name": "Ion Minulescu_ACUARELÃ.txt",
+						"mime_type": "text/plain",
+						"size": "810 B",
+						"lastModified": 1572412847623,
+						"id": 101
+					},
+					{
+						"name": "Ion Minulescu_ALEA JACTA EST.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572410379830,
+						"id": 102
+					},
+					{
+						"name": "Ion Minulescu_AMIAZÃ RURALÃ.txt",
+						"mime_type": "text/plain",
+						"size": "546 B",
+						"lastModified": 1572412762794,
+						"id": 103
+					},
+					{
+						"name": "Ion Minulescu_CÂNTA UN MATELOT.txt",
+						"mime_type": "text/plain",
+						"size": "809 B",
+						"lastModified": 1572410756683,
+						"id": 104
+					},
+					{
+						"name": "Ion Minulescu_CÂNTEC DE LEAGÃN.txt",
+						"mime_type": "text/plain",
+						"size": "987 B",
+						"lastModified": 1572410793785,
+						"id": 105
+					},
+					{
+						"name": "Ion Minulescu_Cât timp vorbesc.txt",
+						"mime_type": "text/plain",
+						"size": "728 B",
+						"lastModified": 1572413766110,
+						"id": 106
+					},
+					{
+						"name": "Ion Minulescu_CELEI CARE PLEACÃ.txt",
+						"mime_type": "text/plain",
+						"size": "791 B",
+						"lastModified": 1572409922584,
+						"id": 107
+					},
+					{
+						"name": "Ion Minulescu_CELEI CARE TRECE.txt",
+						"mime_type": "text/plain",
+						"size": "739 B",
+						"lastModified": 1572409888698,
+						"id": 108
+					},
+					{
+						"name": "Ion Minulescu_CELEI DIN URMÃ.txt",
+						"mime_type": "text/plain",
+						"size": "1011 B",
+						"lastModified": 1572411045951,
+						"id": 109
+					},
+					{
+						"name": "Ion Minulescu_CELEI ÎNVINSE.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572409987189,
+						"id": 110
+					},
+					{
+						"name": "Ion Minulescu_CELEI MAI APROAPE.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572404040856,
+						"id": 111
+					},
+					{
+						"name": "Ion Minulescu_CLOPOTELE.txt",
+						"mime_type": "text/plain",
+						"size": "882 B",
+						"lastModified": 1572410160704,
+						"id": 112
+					},
+					{
+						"name": "Ion Minulescu_CREPUSCUL LA TOMIS.txt",
+						"mime_type": "text/plain",
+						"size": "745 B",
+						"lastModified": 1572403556968,
+						"id": 113
+					},
+					{
+						"name": "Ion Minulescu_DE VORBA CU MINE INSUMI.txt",
+						"mime_type": "text/plain",
+						"size": "1.6 KB",
+						"lastModified": 1572410318137,
+						"id": 114
+					},
+					{
+						"name": "Ion Minulescu_Despre ţara din care venim.txt",
+						"mime_type": "text/plain",
+						"size": "482 B",
+						"lastModified": 1572413705373,
+						"id": 115
+					},
+					{
+						"name": "Ion Minulescu_ECCE HOMO.txt",
+						"mime_type": "text/plain",
+						"size": "739 B",
+						"lastModified": 1572410348572,
+						"id": 116
+					},
+					{
+						"name": "Ion Minulescu_ELEGIE DOMESTICÃ.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572412933896,
+						"id": 117
+					},
+					{
+						"name": "Ion Minulescu_GÉRARD DE NERVAL.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572410018075,
+						"id": 118
+					},
+					{
+						"name": "Ion Minulescu_GLASUL MORILOR.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572410527128,
+						"id": 119
+					},
+					{
+						"name": "Ion Minulescu_GÖTTERDÄMMERUNG.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572410227346,
+						"id": 120
+					},
+					{
+						"name": "Ion Minulescu_ÎN ORAŞUL CU TREI SUTE DE BISERICI.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572410192448,
+						"id": 121
+					},
+					{
+						"name": "Ion Minulescu_ÎN TEMPLUL LINIŞTII.txt",
+						"mime_type": "text/plain",
+						"size": "912 B",
+						"lastModified": 1572403402756,
+						"id": 122
+					},
+					{
+						"name": "Ion Minulescu_ÎNTR-UN BAZAR SENTIMENTAL.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572410917274,
+						"id": 123
+					},
+					{
+						"name": "Ion Minulescu_JULES LAFORGUE.txt",
+						"mime_type": "text/plain",
+						"size": "654 B",
+						"lastModified": 1572403880005,
+						"id": 124
+					},
+					{
+						"name": "Ion Minulescu_Klingsor.txt",
+						"mime_type": "text/plain",
+						"size": "2.2 KB",
+						"lastModified": 1572402032798,
+						"id": 125
+					},
+					{
+						"name": "Ion Minulescu_La Poarta Celor Care Dorm.txt",
+						"mime_type": "text/plain",
+						"size": "1.8 KB",
+						"lastModified": 1572401957254,
+						"id": 126
+					},
+					{
+						"name": "Ion Minulescu_LA UMBRA CRUCILOR DE LEMN.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572410254904,
+						"id": 127
+					},
+					{
+						"name": "Ion Minulescu_LITANII PENTRU MIEZUL NOPŢII.txt",
+						"mime_type": "text/plain",
+						"size": "1.9 KB",
+						"lastModified": 1572412504709,
+						"id": 128
+					},
+					{
+						"name": "Ion Minulescu_MARINÃ ESTIVALÃ.txt",
+						"mime_type": "text/plain",
+						"size": "817 B",
+						"lastModified": 1572412873530,
+						"id": 129
+					},
+					{
+						"name": "Ion Minulescu_MARŞ FUNEBRU.txt",
+						"mime_type": "text/plain",
+						"size": "1014 B",
+						"lastModified": 1572410130752,
+						"id": 130
+					},
+					{
+						"name": "Ion Minulescu_MOARTEA PASAGERULUI.txt",
+						"mime_type": "text/plain",
+						"size": "594 B",
+						"lastModified": 1572412710163,
+						"id": 131
+					},
+					{
+						"name": "Ion Minulescu_MULTAŞTEPTATEI.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572403784709,
+						"id": 132
+					},
+					{
+						"name": "Ion Minulescu_NOCTURNÃ.txt",
+						"mime_type": "text/plain",
+						"size": "583 B",
+						"lastModified": 1572403462235,
+						"id": 133
+					},
+					{
+						"name": "Ion Minulescu_NOCTURNÃ_2.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572410442513,
+						"id": 134
+					},
+					{
+						"name": "Ion Minulescu_O, NU TE-APROPIA DE MÃNÃSTIRE!.txt",
+						"mime_type": "text/plain",
+						"size": "962 B",
+						"lastModified": 1572410285698,
+						"id": 135
+					},
+					{
+						"name": "Ion Minulescu_OCTOMBRE.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572403690887,
+						"id": 136
+					},
+					{
+						"name": "Ion Minulescu_ODELETA.txt",
+						"mime_type": "text/plain",
+						"size": "714 B",
+						"lastModified": 1572410888625,
+						"id": 137
+					},
+					{
+						"name": "Ion Minulescu_ODELETÃ.txt",
+						"mime_type": "text/plain",
+						"size": "987 B",
+						"lastModified": 1572403937824,
+						"id": 138
+					},
+					{
+						"name": "Ion Minulescu_PASTEL BANAL.txt",
+						"mime_type": "text/plain",
+						"size": "920 B",
+						"lastModified": 1572412910599,
+						"id": 139
+					},
+					{
+						"name": "Ion Minulescu_PASTEL BOLNAV.txt",
+						"mime_type": "text/plain",
+						"size": "849 B",
+						"lastModified": 1572410676839,
+						"id": 140
+					},
+					{
+						"name": "Ion Minulescu_PASTEL DE TOAMNÃ.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572410651785,
+						"id": 141
+					},
+					{
+						"name": "Ion Minulescu_PASTEL MECANIC.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572410725042,
+						"id": 142
+					},
+					{
+						"name": "Ion Minulescu_PASTEL PROFAN.txt",
+						"mime_type": "text/plain",
+						"size": "846 B",
+						"lastModified": 1572412733993,
+						"id": 143
+					},
+					{
+						"name": "Ion Minulescu_PAUL VERLAINE.txt",
+						"mime_type": "text/plain",
+						"size": "769 B",
+						"lastModified": 1572403505905,
+						"id": 144
+					},
+					{
+						"name": "Ion Minulescu_PAUL VERLAINE_2.txt",
+						"mime_type": "text/plain",
+						"size": "1.7 KB",
+						"lastModified": 1572410070001,
+						"id": 145
+					},
+					{
+						"name": "Ion Minulescu_PELERINII MORŢII.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572403357101,
+						"id": 146
+					},
+					{
+						"name": "Ion Minulescu_PLOAIE URBANÃ.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572412820753,
+						"id": 147
+					},
+					{
+						"name": "Ion Minulescu_PRIN GÃRILE CU FIRME-ALBASTRE.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572410621811,
+						"id": 148
+					},
+					{
+						"name": "Ion Minulescu_RÂNDURI PENTRU SULAMITA.txt",
+						"mime_type": "text/plain",
+						"size": "967 B",
+						"lastModified": 1572412997416,
+						"id": 149
+					},
+					{
+						"name": "Ion Minulescu_REGINA IZABELA CÃTRE CRISTOFOR COLUMB.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572410471027,
+						"id": 150
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢÃ APOCRIFÃ.txt",
+						"mime_type": "text/plain",
+						"size": "798 B",
+						"lastModified": 1572410822417,
+						"id": 151
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA CELOR CE SE VÂND.txt",
+						"mime_type": "text/plain",
+						"size": "437 B",
+						"lastModified": 1572403259148,
+						"id": 152
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA CELOR TREI CORÃBII.txt",
+						"mime_type": "text/plain",
+						"size": "1016 B",
+						"lastModified": 1572403621456,
+						"id": 153
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA CELOR TREI GALERE.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572403659125,
+						"id": 154
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA CELOR TREI ROMANŢE.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572402286144,
+						"id": 155
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA CELUI CE S-A-NTORS.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572403722115,
+						"id": 156
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA CHEII.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572402322233,
+						"id": 157
+					},
+					{
+						"name": "Ion Minulescu_Romanta Corbului.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572401553083,
+						"id": 158
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢÃ FÃRÃ MUZICÃ.txt",
+						"mime_type": "text/plain",
+						"size": "959 B",
+						"lastModified": 1572403752900,
+						"id": 159
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢÃ FÃRÃ MUZICÃ_2.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572410100862,
+						"id": 160
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA IAHTURILOR.txt",
+						"mime_type": "text/plain",
+						"size": "1.7 KB",
+						"lastModified": 1572410558731,
+						"id": 161
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA MARILOR DISPÃRUŢI.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572402243228,
+						"id": 162
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA MORŢII.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572403127312,
+						"id": 163
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA MORTULUI.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572403091723,
+						"id": 164
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA NECUNOSCUTEI.txt",
+						"mime_type": "text/plain",
+						"size": "1.7 KB",
+						"lastModified": 1572410855203,
+						"id": 165
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢÃ NORDICÃ.txt",
+						"mime_type": "text/plain",
+						"size": "958 B",
+						"lastModified": 1572410594955,
+						"id": 166
+					},
+					{
+						"name": "Ion Minulescu_Romanta Noului Venit.txt",
+						"mime_type": "text/plain",
+						"size": "3.3 KB",
+						"lastModified": 1572401881100,
+						"id": 167
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA PELERINULUI.txt",
+						"mime_type": "text/plain",
+						"size": "795 B",
+						"lastModified": 1572403287078,
+						"id": 168
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢÃ POLICROMÃ.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572412476096,
+						"id": 169
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA ROZINEI.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572411074471,
+						"id": 170
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA SOARELUI.txt",
+						"mime_type": "text/plain",
+						"size": "844 B",
+						"lastModified": 1572410496681,
+						"id": 171
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA ULTIMEI SERI.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572410988967,
+						"id": 172
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA UNUI REGE ASIATIC.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572411017060,
+						"id": 173
+					},
+					{
+						"name": "Ion Minulescu_ROMANŢA ZILELOR DE IERI.txt",
+						"mime_type": "text/plain",
+						"size": "896 B",
+						"lastModified": 1572402351076,
+						"id": 174
+					},
+					{
+						"name": "Ion Minulescu_SEARÃ RURALÃ.txt",
+						"mime_type": "text/plain",
+						"size": "960 B",
+						"lastModified": 1572412791805,
+						"id": 175
+					},
+					{
+						"name": "Ion Minulescu_SONET.txt",
+						"mime_type": "text/plain",
+						"size": "586 B",
+						"lastModified": 1572403329123,
+						"id": 176
+					},
+					{
+						"name": "Ion Minulescu_SOSESC CORÃBIILE.txt",
+						"mime_type": "text/plain",
+						"size": "725 B",
+						"lastModified": 1572403591024,
+						"id": 177
+					},
+					{
+						"name": "Ion Minulescu_Spre Insula Enigma.txt",
+						"mime_type": "text/plain",
+						"size": "2.1 KB",
+						"lastModified": 1572402180301,
+						"id": 178
+					},
+					{
+						"name": "Ion Minulescu_STROFE PENTRU CELE PATRU ANOTIMPURI.txt",
+						"mime_type": "text/plain",
+						"size": "4.1 KB",
+						"lastModified": 1572412645396,
+						"id": 179
+					},
+					{
+						"name": "Ion Minulescu_STROFE PENTRU ELEMENTELE NATURII.txt",
+						"mime_type": "text/plain",
+						"size": "5.7 KB",
+						"lastModified": 1572412596829,
+						"id": 180
+					},
+					{
+						"name": "Ion Minulescu_TREC VAGABONZII.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572410409226,
+						"id": 181
+					},
+					{
+						"name": "Ion Minulescu_TREI LACRIMI RECI DE CÃLÃTOARE.txt",
+						"mime_type": "text/plain",
+						"size": "812 B",
+						"lastModified": 1572409953284,
+						"id": 182
+					},
+					{
+						"name": "Ion Minulescu_TRIPTIC BANAL.txt",
+						"mime_type": "text/plain",
+						"size": "3.4 KB",
+						"lastModified": 1572412550738,
+						"id": 183
+					},
+					{
+						"name": "Ion Minulescu_ULTIMA ORÃ.txt",
+						"mime_type": "text/plain",
+						"size": "829 B",
+						"lastModified": 1572412686961,
+						"id": 184
+					},
+					{
+						"name": "Ion Minulescu_VA FI.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572410960866,
+						"id": 185
+					},
+					{
+						"name": "Ion Minulescu_VESPERALÃ.txt",
+						"mime_type": "text/plain",
+						"size": "709 B",
+						"lastModified": 1572412970640,
+						"id": 186
+					},
+					{
+						"name": "Luciana Stoicescu Vaughau_În memoria.txt",
+						"mime_type": "text/plain",
+						"size": "684 B",
+						"lastModified": 1572423665027,
+						"id": 187
+					},
+					{
+						"name": "Luciana Stoicescu Vaughau_Lui Eminescu.txt",
+						"mime_type": "text/plain",
+						"size": "588 B",
+						"lastModified": 1572423734851,
+						"id": 188
+					},
+					{
+						"name": "Luciana Stoicescu Vaughau_Mă cert cu Dumnezeu.txt",
+						"mime_type": "text/plain",
+						"size": "606 B",
+						"lastModified": 1572423696459,
+						"id": 189
+					},
+					{
+						"name": "Luciana Stoicescu Vaughau_Sfîrsitul lumii.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572423630928,
+						"id": 190
+					},
+					{
+						"name": "Magda Ianos_Cânt.txt",
+						"mime_type": "text/plain",
+						"size": "752 B",
+						"lastModified": 1572421832838,
+						"id": 191
+					},
+					{
+						"name": "Magda Ianos_Eu nu regret.txt",
+						"mime_type": "text/plain",
+						"size": "305 B",
+						"lastModified": 1572421885896,
+						"id": 192
+					},
+					{
+						"name": "Magda Ianos_Invrăjbire.txt",
+						"mime_type": "text/plain",
+						"size": "685 B",
+						"lastModified": 1572421919578,
+						"id": 193
+					},
+					{
+						"name": "Magda Ianos_Primăvara.txt",
+						"mime_type": "text/plain",
+						"size": "780 B",
+						"lastModified": 1572421968125,
+						"id": 194
+					},
+					{
+						"name": "Magda Ianos_Toporasi.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572421862529,
+						"id": 195
+					},
+					{
+						"name": "Maria-Eugenia Olaru_A doua scrisoare - Logos.txt",
+						"mime_type": "text/plain",
+						"size": "656 B",
+						"lastModified": 1572414783156,
+						"id": 196
+					},
+					{
+						"name": "Maria-Eugenia Olaru_A douăzeci şi una scrisoare.txt",
+						"mime_type": "text/plain",
+						"size": "456 B",
+						"lastModified": 1572414876163,
+						"id": 197
+					},
+					{
+						"name": "Maria-Eugenia Olaru_A patrusprezecea scrisoare.txt",
+						"mime_type": "text/plain",
+						"size": "933 B",
+						"lastModified": 1572414809197,
+						"id": 198
+					},
+					{
+						"name": "Maria-Eugenia Olaru_A treisprezecea scrisoare.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572414844868,
+						"id": 199
+					},
+					{
+						"name": "Maria-Eugenia Olaru_A treizeci şi doua scrisoare.txt",
+						"mime_type": "text/plain",
+						"size": "909 B",
+						"lastModified": 1572414937519,
+						"id": 200
+					},
+					{
+						"name": "Maria-Eugenia Olaru_A treizeci şi una scrisoare.txt",
+						"mime_type": "text/plain",
+						"size": "774 B",
+						"lastModified": 1572414904737,
+						"id": 201
+					},
+					{
+						"name": "Maria-Eugenia Olaru_Alergare.txt",
+						"mime_type": "text/plain",
+						"size": "360 B",
+						"lastModified": 1572415077225,
+						"id": 202
+					},
+					{
+						"name": "Maria-Eugenia Olaru_Dimineţi de duminică.txt",
+						"mime_type": "text/plain",
+						"size": "399 B",
+						"lastModified": 1572415098997,
+						"id": 203
+					},
+					{
+						"name": "Maria-Eugenia Olaru_Glossă modernă.txt",
+						"mime_type": "text/plain",
+						"size": "868 B",
+						"lastModified": 1572415135629,
+						"id": 204
+					},
+					{
+						"name": "Maria-Eugenia Olaru_Înrourare.txt",
+						"mime_type": "text/plain",
+						"size": "430 B",
+						"lastModified": 1572415016865,
+						"id": 205
+					},
+					{
+						"name": "Maria-Eugenia Olaru_Întâia scrisoare - O zi senină.txt",
+						"mime_type": "text/plain",
+						"size": "2.0 KB",
+						"lastModified": 1572414753333,
+						"id": 206
+					},
+					{
+						"name": "Maria-Eugenia Olaru_Roua.txt",
+						"mime_type": "text/plain",
+						"size": "179 B",
+						"lastModified": 1572414958095,
+						"id": 207
+					},
+					{
+						"name": "Maria-Eugenia Olaru_Rugă către Sfânta Vineri.txt",
+						"mime_type": "text/plain",
+						"size": "284 B",
+						"lastModified": 1572414985506,
+						"id": 208
+					},
+					{
+						"name": "Maria-Eugenia Olaru_Scrisoare de dor către casă.txt",
+						"mime_type": "text/plain",
+						"size": "517 B",
+						"lastModified": 1572415051711,
+						"id": 209
+					},
+					{
+						"name": "Mateiu Ion Caragiale_Boierul.txt",
+						"mime_type": "text/plain",
+						"size": "716 B",
+						"lastModified": 1572423049480,
+						"id": 210
+					},
+					{
+						"name": "Mateiu Ion Caragiale_Domniţa.txt",
+						"mime_type": "text/plain",
+						"size": "667 B",
+						"lastModified": 1572423078703,
+						"id": 211
+					},
+					{
+						"name": "Mateiu Ion Caragiale_La Argeş.txt",
+						"mime_type": "text/plain",
+						"size": "686 B",
+						"lastModified": 1572423102707,
+						"id": 212
+					},
+					{
+						"name": "Mateiu Ion Caragiale_Mărturisire.txt",
+						"mime_type": "text/plain",
+						"size": "651 B",
+						"lastModified": 1572423133433,
+						"id": 213
+					},
+					{
+						"name": "Mateiu Ion Caragiale_Noapte roşie.txt",
+						"mime_type": "text/plain",
+						"size": "694 B",
+						"lastModified": 1572423016496,
+						"id": 214
+					},
+					{
+						"name": "Mihai Eminescu_Adio.txt",
+						"mime_type": "text/plain",
+						"size": "968 B",
+						"lastModified": 1572416974153,
+						"id": 215
+					},
+					{
+						"name": "Mihai Eminescu_Afară-i toamnă.txt",
+						"mime_type": "text/plain",
+						"size": "624 B",
+						"lastModified": 1572417000095,
+						"id": 216
+					},
+					{
+						"name": "Mihai Eminescu_Amorul unei marmure.txt",
+						"mime_type": "text/plain",
+						"size": "1.7 KB",
+						"lastModified": 1572417028926,
+						"id": 217
+					},
+					{
+						"name": "Mihai Eminescu_Atât de fragedă.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572417061754,
+						"id": 218
+					},
+					{
+						"name": "Mihai Eminescu_Călin.txt",
+						"mime_type": "text/plain",
+						"size": "14.2 KB",
+						"lastModified": 1572417095323,
+						"id": 219
+					},
+					{
+						"name": "Mihai Eminescu_Când amintirile.txt",
+						"mime_type": "text/plain",
+						"size": "673 B",
+						"lastModified": 1572417129357,
+						"id": 220
+					},
+					{
+						"name": "Mihai Eminescu_Când însuşi glasul.txt",
+						"mime_type": "text/plain",
+						"size": "554 B",
+						"lastModified": 1572417176734,
+						"id": 221
+					},
+					{
+						"name": "Mihai Eminescu_Ce e amorul.txt",
+						"mime_type": "text/plain",
+						"size": "773 B",
+						"lastModified": 1572417207570,
+						"id": 222
+					},
+					{
+						"name": "Mihai Eminescu_Ce te legeni.txt",
+						"mime_type": "text/plain",
+						"size": "676 B",
+						"lastModified": 1572417233519,
+						"id": 223
+					},
+					{
+						"name": "Mihai Eminescu_Ce-ţi doresc eu ţie dulce Românie.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572417268554,
+						"id": 224
+					},
+					{
+						"name": "Mihai Eminescu_Copii eram noi amândoi.txt",
+						"mime_type": "text/plain",
+						"size": "2.5 KB",
+						"lastModified": 1572417297761,
+						"id": 225
+					},
+					{
+						"name": "Mihai Eminescu_Crăiasa din poveşti.txt",
+						"mime_type": "text/plain",
+						"size": "817 B",
+						"lastModified": 1572417323302,
+						"id": 226
+					},
+					{
+						"name": "Mihai Eminescu_Criticilor mei.txt",
+						"mime_type": "text/plain",
+						"size": "807 B",
+						"lastModified": 1572417348184,
+						"id": 227
+					},
+					{
+						"name": "Mihai Eminescu_Cu mâine zilele-ţi adaogi.txt",
+						"mime_type": "text/plain",
+						"size": "956 B",
+						"lastModified": 1572417383677,
+						"id": 228
+					},
+					{
+						"name": "Mihai Eminescu_Cugetările sărmanului Dionis.txt",
+						"mime_type": "text/plain",
+						"size": "3.6 KB",
+						"lastModified": 1572417419069,
+						"id": 229
+					},
+					{
+						"name": "Mihai Eminescu_De câte ori iubito.txt",
+						"mime_type": "text/plain",
+						"size": "678 B",
+						"lastModified": 1572417461370,
+						"id": 230
+					},
+					{
+						"name": "Mihai Eminescu_De ce nu-mi vii.txt",
+						"mime_type": "text/plain",
+						"size": "730 B",
+						"lastModified": 1572417488637,
+						"id": 231
+					},
+					{
+						"name": "Mihai Eminescu_De-aş avea.txt",
+						"mime_type": "text/plain",
+						"size": "643 B",
+						"lastModified": 1572417514542,
+						"id": 232
+					},
+					{
+						"name": "Mihai Eminescu_De-or trece anii.txt",
+						"mime_type": "text/plain",
+						"size": "514 B",
+						"lastModified": 1572417545725,
+						"id": 233
+					},
+					{
+						"name": "Mihai Eminescu_Departe sunt de tine.txt",
+						"mime_type": "text/plain",
+						"size": "884 B",
+						"lastModified": 1572417575074,
+						"id": 234
+					},
+					{
+						"name": "Mihai Eminescu_Despărţire.txt",
+						"mime_type": "text/plain",
+						"size": "1.8 KB",
+						"lastModified": 1572417600437,
+						"id": 235
+					},
+					{
+						"name": "Mihai Eminescu_Diana.txt",
+						"mime_type": "text/plain",
+						"size": "970 B",
+						"lastModified": 1572417628638,
+						"id": 236
+					},
+					{
+						"name": "Mihai Eminescu_Din străinătate.txt",
+						"mime_type": "text/plain",
+						"size": "1.6 KB",
+						"lastModified": 1572417657433,
+						"id": 237
+					},
+					{
+						"name": "Mihai Eminescu_Din valurile vremii.txt",
+						"mime_type": "text/plain",
+						"size": "917 B",
+						"lastModified": 1572417681096,
+						"id": 238
+					},
+					{
+						"name": "Mihai Eminescu_Doina.txt",
+						"mime_type": "text/plain",
+						"size": "1.6 KB",
+						"lastModified": 1572417700856,
+						"id": 239
+					},
+					{
+						"name": "Mihai Eminescu_Dorinţa.txt",
+						"mime_type": "text/plain",
+						"size": "689 B",
+						"lastModified": 1572417728413,
+						"id": 240
+					},
+					{
+						"name": "Mihai Eminescu_Egipetul.txt",
+						"mime_type": "text/plain",
+						"size": "4.7 KB",
+						"lastModified": 1572417766392,
+						"id": 241
+					},
+					{
+						"name": "Mihai Eminescu_Epigonii.txt",
+						"mime_type": "text/plain",
+						"size": "6.1 KB",
+						"lastModified": 1572417799265,
+						"id": 242
+					},
+					{
+						"name": "Mihai Eminescu_Fiind băiet păduri cutreieram.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572417827635,
+						"id": 243
+					},
+					{
+						"name": "Mihai Eminescu_Floare-albastră.txt",
+						"mime_type": "text/plain",
+						"size": "1.6 KB",
+						"lastModified": 1572417854909,
+						"id": 244
+					},
+					{
+						"name": "Mihai Eminescu_Foaia veştedă.txt",
+						"mime_type": "text/plain",
+						"size": "785 B",
+						"lastModified": 1572417884859,
+						"id": 245
+					},
+					{
+						"name": "Mihai Eminescu_Freamăt de codru.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572417911767,
+						"id": 246
+					},
+					{
+						"name": "Mihai Eminescu_Glossă.txt",
+						"mime_type": "text/plain",
+						"size": "2.2 KB",
+						"lastModified": 1572417943965,
+						"id": 247
+					},
+					{
+						"name": "Mihai Eminescu_Iar când voi fi pământ.txt",
+						"mime_type": "text/plain",
+						"size": "905 B",
+						"lastModified": 1572417991139,
+						"id": 248
+					},
+					{
+						"name": "Mihai Eminescu_Împărat şi proletar.txt",
+						"mime_type": "text/plain",
+						"size": "9.9 KB",
+						"lastModified": 1572418040341,
+						"id": 249
+					},
+					{
+						"name": "Mihai Eminescu_Înger de pază.txt",
+						"mime_type": "text/plain",
+						"size": "585 B",
+						"lastModified": 1572418069381,
+						"id": 250
+					},
+					{
+						"name": "Mihai Eminescu_Înger şi demon.txt",
+						"mime_type": "text/plain",
+						"size": "5.9 KB",
+						"lastModified": 1572418100484,
+						"id": 251
+					},
+					{
+						"name": "Mihai Eminescu_Junii corupţi.txt",
+						"mime_type": "text/plain",
+						"size": "3.0 KB",
+						"lastModified": 1572418133529,
+						"id": 252
+					},
+					{
+						"name": "Mihai Eminescu_La Bucovina.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572418167103,
+						"id": 253
+					},
+					{
+						"name": "Mihai Eminescu_La moartea principelui Ştirbey.txt",
+						"mime_type": "text/plain",
+						"size": "858 B",
+						"lastModified": 1572418200440,
+						"id": 254
+					},
+					{
+						"name": "Mihai Eminescu_La mormântul lui Aron Pumnul.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572418235194,
+						"id": 255
+					},
+					{
+						"name": "Mihai Eminescu_Lasă-ţi lumea.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572418267432,
+						"id": 256
+					},
+					{
+						"name": "Mihai Eminescu_Luceafărul.txt",
+						"mime_type": "text/plain",
+						"size": "10.8 KB",
+						"lastModified": 1572418298844,
+						"id": 257
+					},
+					{
+						"name": "Mihai Eminescu_Mai am un singur dor.txt",
+						"mime_type": "text/plain",
+						"size": "828 B",
+						"lastModified": 1572418323369,
+						"id": 258
+					},
+					{
+						"name": "Mihai Eminescu_Mănuşa.txt",
+						"mime_type": "text/plain",
+						"size": "1.9 KB",
+						"lastModified": 1572418352299,
+						"id": 259
+					},
+					{
+						"name": "Mihai Eminescu_Melancolie.txt",
+						"mime_type": "text/plain",
+						"size": "1.8 KB",
+						"lastModified": 1572418380470,
+						"id": 260
+					},
+					{
+						"name": "Mihai Eminescu_Misterele nopţii.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572418405944,
+						"id": 261
+					},
+					{
+						"name": "Mihai Eminescu_Mortua est.txt",
+						"mime_type": "text/plain",
+						"size": "2.9 KB",
+						"lastModified": 1572418472617,
+						"id": 262
+					},
+					{
+						"name": "Mihai Eminescu_Noaptea.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572418550895,
+						"id": 263
+					},
+					{
+						"name": "Mihai Eminescu_Nu mă înţelegi.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572418494717,
+						"id": 264
+					},
+					{
+						"name": "Mihai Eminescu_Nu voi mormânt bogat.txt",
+						"mime_type": "text/plain",
+						"size": "832 B",
+						"lastModified": 1572418579682,
+						"id": 265
+					},
+					{
+						"name": "Mihai Eminescu_Numai poetul.txt",
+						"mime_type": "text/plain",
+						"size": "341 B",
+						"lastModified": 1572418602664,
+						"id": 266
+					},
+					{
+						"name": "Mihai Eminescu_O mamă.txt",
+						"mime_type": "text/plain",
+						"size": "843 B",
+						"lastModified": 1572418631598,
+						"id": 267
+					},
+					{
+						"name": "Mihai Eminescu_O rămâi.txt",
+						"mime_type": "text/plain",
+						"size": "797 B",
+						"lastModified": 1572418667131,
+						"id": 268
+					},
+					{
+						"name": "Mihai Eminescu_Odă.txt",
+						"mime_type": "text/plain",
+						"size": "699 B",
+						"lastModified": 1572418693804,
+						"id": 269
+					},
+					{
+						"name": "Mihai Eminescu_Pajul Cupidon.txt",
+						"mime_type": "text/plain",
+						"size": "984 B",
+						"lastModified": 1572418721977,
+						"id": 270
+					},
+					{
+						"name": "Mihai Eminescu_Pe aceeaşi ulicioară.txt",
+						"mime_type": "text/plain",
+						"size": "878 B",
+						"lastModified": 1572418749681,
+						"id": 271
+					},
+					{
+						"name": "Mihai Eminescu_Pe lângă plopii fără soţ.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572418778696,
+						"id": 272
+					},
+					{
+						"name": "Mihai Eminescu_Peste vârfuri.txt",
+						"mime_type": "text/plain",
+						"size": "328 B",
+						"lastModified": 1572418800635,
+						"id": 273
+					},
+					{
+						"name": "Mihai Eminescu_Povestea codrului.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572418859878,
+						"id": 274
+					},
+					{
+						"name": "Mihai Eminescu_Scrisoarea I.txt",
+						"mime_type": "text/plain",
+						"size": "8.3 KB",
+						"lastModified": 1572418891837,
+						"id": 275
+					},
+					{
+						"name": "Mihai Eminescu_Scrisoarea II.txt",
+						"mime_type": "text/plain",
+						"size": "4.3 KB",
+						"lastModified": 1572418926524,
+						"id": 276
+					},
+					{
+						"name": "Mihai Eminescu_Scrisoarea III.txt",
+						"mime_type": "text/plain",
+						"size": "14.5 KB",
+						"lastModified": 1572418953452,
+						"id": 277
+					},
+					{
+						"name": "Mihai Eminescu_Scrisoarea IV.txt",
+						"mime_type": "text/plain",
+						"size": "7.9 KB",
+						"lastModified": 1572418985060,
+						"id": 278
+					},
+					{
+						"name": "Mihai Eminescu_Scrisoarea V.txt",
+						"mime_type": "text/plain",
+						"size": "6.3 KB",
+						"lastModified": 1572419014838,
+						"id": 279
+					},
+					{
+						"name": "Mihai Eminescu_Seara pe deal.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572418827878,
+						"id": 280
+					},
+					{
+						"name": "Nichita Stănescu_Cântec de dor.txt",
+						"mime_type": "text/plain",
+						"size": "631 B",
+						"lastModified": 1572419134279,
+						"id": 281
+					},
+					{
+						"name": "Nichita Stănescu_Cântec de lume.txt",
+						"mime_type": "text/plain",
+						"size": "488 B",
+						"lastModified": 1572419193260,
+						"id": 282
+					},
+					{
+						"name": "Nichita Stănescu_Ce bine că eşti.txt",
+						"mime_type": "text/plain",
+						"size": "881 B",
+						"lastModified": 1572419278323,
+						"id": 283
+					},
+					{
+						"name": "Nichita Stănescu_De dragoste.txt",
+						"mime_type": "text/plain",
+						"size": "479 B",
+						"lastModified": 1572419475043,
+						"id": 284
+					},
+					{
+						"name": "Nichita Stănescu_Dimineaţă marină.txt",
+						"mime_type": "text/plain",
+						"size": "583 B",
+						"lastModified": 1572419250432,
+						"id": 285
+					},
+					{
+						"name": "Nichita Stănescu_Dreptul la timp.txt",
+						"mime_type": "text/plain",
+						"size": "558 B",
+						"lastModified": 1572419342137,
+						"id": 286
+					},
+					{
+						"name": "Nichita Stănescu_Frunzişuri.txt",
+						"mime_type": "text/plain",
+						"size": "807 B",
+						"lastModified": 1572419369400,
+						"id": 287
+					},
+					{
+						"name": "Nichita Stănescu_Muzica.txt",
+						"mime_type": "text/plain",
+						"size": "976 B",
+						"lastModified": 1572419447802,
+						"id": 288
+					},
+					{
+						"name": "Nichita Stănescu_Ploaie în luna lui Marte.txt",
+						"mime_type": "text/plain",
+						"size": "712 B",
+						"lastModified": 1572419315516,
+						"id": 289
+					},
+					{
+						"name": "Nichita Stănescu_Poveste sentimentală.txt",
+						"mime_type": "text/plain",
+						"size": "590 B",
+						"lastModified": 1572419390904,
+						"id": 290
+					},
+					{
+						"name": "Nichita Stănescu_Primăvara.txt",
+						"mime_type": "text/plain",
+						"size": "598 B",
+						"lastModified": 1572419222711,
+						"id": 291
+					},
+					{
+						"name": "Nichita Stănescu_Tinerii.txt",
+						"mime_type": "text/plain",
+						"size": "1000 B",
+						"lastModified": 1572419420760,
+						"id": 292
+					},
+					{
+						"name": "Nicolae Labiş_Confesiuni.txt",
+						"mime_type": "text/plain",
+						"size": "3.8 KB",
+						"lastModified": 1572423329574,
+						"id": 293
+					},
+					{
+						"name": "Nicolae Labiş_Geografia timpului.txt",
+						"mime_type": "text/plain",
+						"size": "2.5 KB",
+						"lastModified": 1572423234238,
+						"id": 294
+					},
+					{
+						"name": "Nicolae Labiş_Marină.txt",
+						"mime_type": "text/plain",
+						"size": "2.0 KB",
+						"lastModified": 1572423358683,
+						"id": 295
+					},
+					{
+						"name": "Nicolae Labiş_Moartea căprioarei.txt",
+						"mime_type": "text/plain",
+						"size": "3.2 KB",
+						"lastModified": 1572423206084,
+						"id": 296
+					},
+					{
+						"name": "Nicolae Labiş_Primele iubiri.txt",
+						"mime_type": "text/plain",
+						"size": "3.1 KB",
+						"lastModified": 1572423301700,
+						"id": 297
+					},
+					{
+						"name": "Octavian Goga_Asfinţit.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572415964766,
+						"id": 298
+					},
+					{
+						"name": "Octavian Goga_Aşteptare.txt",
+						"mime_type": "text/plain",
+						"size": "651 B",
+						"lastModified": 1572416529340,
+						"id": 299
+					},
+					{
+						"name": "Octavian Goga_Bătrâni.txt",
+						"mime_type": "text/plain",
+						"size": "656 B",
+						"lastModified": 1572415450538,
+						"id": 300
+					},
+					{
+						"name": "Octavian Goga_Biata Inimă.txt",
+						"mime_type": "text/plain",
+						"size": "618 B",
+						"lastModified": 1572416275590,
+						"id": 301
+					},
+					{
+						"name": "Octavian Goga_Cântece.txt",
+						"mime_type": "text/plain",
+						"size": "2.3 KB",
+						"lastModified": 1572416033981,
+						"id": 302
+					},
+					{
+						"name": "Octavian Goga_Cântecele mele.txt",
+						"mime_type": "text/plain",
+						"size": "852 B",
+						"lastModified": 1572415767519,
+						"id": 303
+					},
+					{
+						"name": "Octavian Goga_Cărbunii.txt",
+						"mime_type": "text/plain",
+						"size": "276 B",
+						"lastModified": 1572415243611,
+						"id": 304
+					},
+					{
+						"name": "Octavian Goga_Ceahlăul.txt",
+						"mime_type": "text/plain",
+						"size": "637 B",
+						"lastModified": 1572416719058,
+						"id": 305
+					},
+					{
+						"name": "Octavian Goga_Cinquecento.txt",
+						"mime_type": "text/plain",
+						"size": "656 B",
+						"lastModified": 1572416115594,
+						"id": 306
+					},
+					{
+						"name": "Octavian Goga_Cosaşul.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572415797418,
+						"id": 307
+					},
+					{
+						"name": "Octavian Goga_Dăscăliţa.txt",
+						"mime_type": "text/plain",
+						"size": "1.9 KB",
+						"lastModified": 1572415385162,
+						"id": 308
+					},
+					{
+						"name": "Octavian Goga_Dascălul.txt",
+						"mime_type": "text/plain",
+						"size": "1.8 KB",
+						"lastModified": 1572415360193,
+						"id": 309
+					},
+					{
+						"name": "Octavian Goga_De demult.txt",
+						"mime_type": "text/plain",
+						"size": "2.0 KB",
+						"lastModified": 1572415826954,
+						"id": 310
+					},
+					{
+						"name": "Octavian Goga_De Profundis.txt",
+						"mime_type": "text/plain",
+						"size": "775 B",
+						"lastModified": 1572416187239,
+						"id": 311
+					},
+					{
+						"name": "Octavian Goga_Departe.txt",
+						"mime_type": "text/plain",
+						"size": "825 B",
+						"lastModified": 1572415530703,
+						"id": 312
+					},
+					{
+						"name": "Octavian Goga_Din larg.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572416663280,
+						"id": 313
+					},
+					{
+						"name": "Octavian Goga_Doina.txt",
+						"mime_type": "text/plain",
+						"size": "888 B",
+						"lastModified": 1572416247870,
+						"id": 314
+					},
+					{
+						"name": "Octavian Goga_Dorinţa.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572415744446,
+						"id": 315
+					},
+					{
+						"name": "Octavian Goga_Eu ştiu un basm.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572416412675,
+						"id": 316
+					},
+					{
+						"name": "Octavian Goga_Fără ţară.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572416495765,
+						"id": 317
+					},
+					{
+						"name": "Octavian Goga_Graiul pâinii.txt",
+						"mime_type": "text/plain",
+						"size": "1.3 KB",
+						"lastModified": 1572415852661,
+						"id": 318
+					},
+					{
+						"name": "Octavian Goga_În mormânt la Argeş.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572416605711,
+						"id": 319
+					},
+					{
+						"name": "Octavian Goga_În munţi.txt",
+						"mime_type": "text/plain",
+						"size": "1.7 KB",
+						"lastModified": 1572415879635,
+						"id": 320
+					},
+					{
+						"name": "Octavian Goga_În muzeu.txt",
+						"mime_type": "text/plain",
+						"size": "2.2 KB",
+						"lastModified": 1572416090330,
+						"id": 321
+					},
+					{
+						"name": "Octavian Goga_În pacea mută.txt",
+						"mime_type": "text/plain",
+						"size": "617 B",
+						"lastModified": 1572416580809,
+						"id": 322
+					},
+					{
+						"name": "Octavian Goga_Inima.txt",
+						"mime_type": "text/plain",
+						"size": "618 B",
+						"lastModified": 1572416288462,
+						"id": 323
+					},
+					{
+						"name": "Octavian Goga_La mal.txt",
+						"mime_type": "text/plain",
+						"size": "819 B",
+						"lastModified": 1572416142012,
+						"id": 324
+					},
+					{
+						"name": "Octavian Goga_Lacul.txt",
+						"mime_type": "text/plain",
+						"size": "760 B",
+						"lastModified": 1572416216116,
+						"id": 325
+					},
+					{
+						"name": "Octavian Goga_Moştenire.txt",
+						"mime_type": "text/plain",
+						"size": "874 B",
+						"lastModified": 1572416443752,
+						"id": 326
+					},
+					{
+						"name": "Octavian Goga_Noapte.txt",
+						"mime_type": "text/plain",
+						"size": "2.5 KB",
+						"lastModified": 1572415716353,
+						"id": 327
+					},
+					{
+						"name": "Octavian Goga_Noi.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572415419133,
+						"id": 328
+					},
+					{
+						"name": "Octavian Goga_O clipă.txt",
+						"mime_type": "text/plain",
+						"size": "385 B",
+						"lastModified": 1572416470530,
+						"id": 329
+					},
+					{
+						"name": "Octavian Goga_O ramură întârziată.txt",
+						"mime_type": "text/plain",
+						"size": "626 B",
+						"lastModified": 1572416743715,
+						"id": 330
+					},
+					{
+						"name": "Octavian Goga_Oltul.txt",
+						"mime_type": "text/plain",
+						"size": "2.2 KB",
+						"lastModified": 1572415327771,
+						"id": 331
+					},
+					{
+						"name": "Octavian Goga_Pace.txt",
+						"mime_type": "text/plain",
+						"size": "790 B",
+						"lastModified": 1572415643466,
+						"id": 332
+					},
+					{
+						"name": "Octavian Goga_Părăsit.txt",
+						"mime_type": "text/plain",
+						"size": "533 B",
+						"lastModified": 1572415665640,
+						"id": 333
+					},
+					{
+						"name": "Octavian Goga_Pe înserate.txt",
+						"mime_type": "text/plain",
+						"size": "597 B",
+						"lastModified": 1572415554633,
+						"id": 334
+					},
+					{
+						"name": "Octavian Goga_Plugarii.txt",
+						"mime_type": "text/plain",
+						"size": "2.0 KB",
+						"lastModified": 1572415297455,
+						"id": 335
+					},
+					{
+						"name": "Octavian Goga_Pribeag.txt",
+						"mime_type": "text/plain",
+						"size": "616 B",
+						"lastModified": 1572415609767,
+						"id": 336
+					},
+					{
+						"name": "Octavian Goga_Profetul.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572416696847,
+						"id": 337
+					},
+					{
+						"name": "Octavian Goga_Răsună toaca.txt",
+						"mime_type": "text/plain",
+						"size": "526 B",
+						"lastModified": 1572416003015,
+						"id": 338
+					},
+					{
+						"name": "Octavian Goga_Reîntors.txt",
+						"mime_type": "text/plain",
+						"size": "2.0 KB",
+						"lastModified": 1572415479718,
+						"id": 339
+					},
+					{
+						"name": "Octavian Goga_Revedere.txt",
+						"mime_type": "text/plain",
+						"size": "782 B",
+						"lastModified": 1572416063636,
+						"id": 340
+					},
+					{
+						"name": "Octavian Goga_Rugăciune.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572415271676,
+						"id": 341
+					},
+					{
+						"name": "Octavian Goga_Sângele.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572416558053,
+						"id": 342
+					},
+					{
+						"name": "Octavian Goga_Sara.txt",
+						"mime_type": "text/plain",
+						"size": "565 B",
+						"lastModified": 1572415582035,
+						"id": 343
+					},
+					{
+						"name": "Octavian Goga_Scrisoare.txt",
+						"mime_type": "text/plain",
+						"size": "652 B",
+						"lastModified": 1572415934470,
+						"id": 344
+					},
+					{
+						"name": "Octavian Goga_Solus ero.txt",
+						"mime_type": "text/plain",
+						"size": "1.6 KB",
+						"lastModified": 1572415688914,
+						"id": 345
+					},
+					{
+						"name": "Octavian Goga_Străinul.txt",
+						"mime_type": "text/plain",
+						"size": "1.5 KB",
+						"lastModified": 1572415908855,
+						"id": 346
+					},
+					{
+						"name": "Octavian Goga_Sufletul.txt",
+						"mime_type": "text/plain",
+						"size": "2.3 KB",
+						"lastModified": 1572416638616,
+						"id": 347
+					},
+					{
+						"name": "Octavian Goga_Trecutul.txt",
+						"mime_type": "text/plain",
+						"size": "794 B",
+						"lastModified": 1572416780508,
+						"id": 348
+					},
+					{
+						"name": "Tudor Arghezi_Blesteme.txt",
+						"mime_type": "text/plain",
+						"size": "1.7 KB",
+						"lastModified": 1572422733689,
+						"id": 349
+					},
+					{
+						"name": "Tudor Arghezi_De-abia plecaseşi.txt",
+						"mime_type": "text/plain",
+						"size": "405 B",
+						"lastModified": 1572422756948,
+						"id": 350
+					},
+					{
+						"name": "Tudor Arghezi_Flori de mucigai.txt",
+						"mime_type": "text/plain",
+						"size": "637 B",
+						"lastModified": 1572422710572,
+						"id": 351
+					},
+					{
+						"name": "Tudor Arghezi_Psalm VI.txt",
+						"mime_type": "text/plain",
+						"size": "649 B",
+						"lastModified": 1572422794353,
+						"id": 352
+					},
+					{
+						"name": "Tudor Arghezi_Tâlharul pedepsit.txt",
+						"mime_type": "text/plain",
+						"size": "721 B",
+						"lastModified": 1572422688547,
+						"id": 353
+					},
+					{
+						"name": "Tudor Arghezi_Zdreanţă.txt",
+						"mime_type": "text/plain",
+						"size": "1.0 KB",
+						"lastModified": 1572422646020,
+						"id": 354
+					},
+					{
+						"name": "Vasile Alexandri_Adio Moldovei.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572421219350,
+						"id": 355
+					},
+					{
+						"name": "Vasile Alexandri_Andrii-Popa.txt",
+						"mime_type": "text/plain",
+						"size": "2.2 KB",
+						"lastModified": 1572420012701,
+						"id": 356
+					},
+					{
+						"name": "Vasile Alexandri_Cuza Vodă.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572421342519,
+						"id": 357
+					},
+					{
+						"name": "Vasile Alexandri_Deşteptarea României.txt",
+						"mime_type": "text/plain",
+						"size": "2.1 KB",
+						"lastModified": 1572421190218,
+						"id": 358
+					},
+					{
+						"name": "Vasile Alexandri_Doina.txt",
+						"mime_type": "text/plain",
+						"size": "1.1 KB",
+						"lastModified": 1572419912657,
+						"id": 359
+					},
+					{
+						"name": "Vasile Alexandri_Dorul româncei.txt",
+						"mime_type": "text/plain",
+						"size": "1018 B",
+						"lastModified": 1572420038467,
+						"id": 360
+					},
+					{
+						"name": "Vasile Alexandri_Gerul.txt",
+						"mime_type": "text/plain",
+						"size": "855 B",
+						"lastModified": 1572421307960,
+						"id": 361
+					},
+					{
+						"name": "Vasile Alexandri_Gondoleta.txt",
+						"mime_type": "text/plain",
+						"size": "850 B",
+						"lastModified": 1572421277183,
+						"id": 362
+					},
+					{
+						"name": "Vasile Alexandri_Hora unirii.txt",
+						"mime_type": "text/plain",
+						"size": "931 B",
+						"lastModified": 1572421157843,
+						"id": 363
+					},
+					{
+						"name": "Viorica Sălăjeanu_Am înteles.txt",
+						"mime_type": "text/plain",
+						"size": "287 B",
+						"lastModified": 1572414711000,
+						"id": 364
+					},
+					{
+						"name": "Viorica Sălăjeanu_Chem vântul.txt",
+						"mime_type": "text/plain",
+						"size": "111 B",
+						"lastModified": 1572414633561,
+						"id": 365
+					},
+					{
+						"name": "Viorica Sălăjeanu_Poarta sufletului.txt",
+						"mime_type": "text/plain",
+						"size": "226 B",
+						"lastModified": 1572414610161,
+						"id": 366
+					},
+					{
+						"name": "Viorica Sălăjeanu_Primăvara.txt",
+						"mime_type": "text/plain",
+						"size": "189 B",
+						"lastModified": 1572414680418,
+						"id": 367
+					},
+					{
+						"name": "Viorica Sălăjeanu_Retrezirea pădurii.txt",
+						"mime_type": "text/plain",
+						"size": "232 B",
+						"lastModified": 1572414654808,
+						"id": 368
+					},
+					{
+						"name": "Viorica Sălăjeanu_Te întreb.txt",
+						"mime_type": "text/plain",
+						"size": "363 B",
+						"lastModified": 1572414583783,
+						"id": 369
+					},
+					{
+						"name": "Zorica Latcu_Te port.txt",
+						"mime_type": "text/plain",
+						"size": "662 B",
+						"lastModified": 1572422057678,
+						"id": 370
+					},
+					{
+						"name": "Vasile Alexandri_Hora unirii.txt",
+						"mime_type": "text/plain",
+						"size": "931 B",
+						"lastModified": 1572421157843,
+						"id": 371
+					},
+					{
+						"name": "Vasile Alexandri_Legenda ciocârliei.txt",
+						"mime_type": "text/plain",
+						"size": "15.5 KB",
+						"lastModified": 1572421414295,
+						"id": 372
+					},
+					{
+						"name": "Vasile Alexandri_Legenda lăcrimioarei.txt",
+						"mime_type": "text/plain",
+						"size": "1.6 KB",
+						"lastModified": 1572421448017,
+						"id": 373
+					},
+					{
+						"name": "Vasile Alexandri_Legenda rândunicăi.txt",
+						"mime_type": "text/plain",
+						"size": "6.0 KB",
+						"lastModified": 1572421377123,
+						"id": 374
+					},
+					{
+						"name": "Vasile Alexandri_Miezul iernii.txt",
+						"mime_type": "text/plain",
+						"size": "839 B",
+						"lastModified": 1572421252502,
+						"id": 375
+					},
+					{
+						"name": "Vasile Alexandri_Soarele vântul şi gerul.txt",
+						"mime_type": "text/plain",
+						"size": "909 B",
+						"lastModified": 1572421479474,
+						"id": 376
+					},
+					{
+						"name": "Vasile Alexandri_Strunga.txt",
+						"mime_type": "text/plain",
+						"size": "1.2 KB",
+						"lastModified": 1572419971430,
+						"id": 377
+					},
+					{
+						"name": "Vasile Alexandri_Ţara.txt",
+						"mime_type": "text/plain",
+						"size": "1.4 KB",
+						"lastModified": 1572421508527,
+						"id": 378
+					}
+				],
+				"pointer": 0,
+				"info": "ObjectList state"
+			},
+			"actor": {
+				"id_counter": 21,
+				"list": [
+					{
+						"name": "Adrian Păunescu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "1943",
+							"month": "07",
+							"day": "20"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 0
+					},
+					{
+						"name": "Alexandru Macedonski",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "MD",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 1
+					},
+					{
+						"name": "Ana Blandiana",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 2
+					},
+					{
+						"name": "Elena Armenescu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 3
+					},
+					{
+						"name": "Elena Farago",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 4
+					},
+					{
+						"name": "Elena Liliana Popescu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 5
+					},
+					{
+						"name": "George Bacovia",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 6
+					},
+					{
+						"name": "Gheorghe Topârceanu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 7
+					},
+					{
+						"name": "Ion Minulescu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 8
+					},
+					{
+						"name": "Magda Ianos",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 9
+					},
+					{
+						"name": "Luciana Stoicescu Vaughau",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 10
+					},
+					{
+						"name": "Maria-Eugenia Olaru",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 11
+					},
+					{
+						"name": "Mateiu Ion Caragiale",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 12
+					},
+					{
+						"name": "Mihai Eminescu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 13
+					},
+					{
+						"name": "Nichita Stănescu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 14
+					},
+					{
+						"name": "Octavian Goga",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 15
+					},
+					{
+						"name": "Tudor Arghezi",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								},
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "MD",
+									"type": "L",
+									"MotherTongue": false,
+									"PrimaryLanguage": false,
+									"id": 1
+								}
+							]
+						},
+						"id": 16
+					},
+					{
+						"name": "Vasile Alexandri",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 17
+					},
+					{
+						"name": "Viorica Sălăjeanu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 18
+					},
+					{
+						"name": "Zorica Latcu",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Female",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "MD",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								},
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": false,
+									"PrimaryLanguage": false,
+									"id": 1
+								}
+							]
+						},
+						"id": 19
+					},
+					{
+						"name": "Nicolae  Labiş",
+						"full_name": "",
+						"code": "",
+						"birth_date": {
+							"year": "YYYY",
+							"month": "MM",
+							"day": "DD"
+						},
+						"age": "",
+						"sex": "Male",
+						"education": "",
+						"role": "Author",
+						"ethnic_group": "",
+						"family_social_role": "Unspecified",
+						"description": "",
+						"anonymized": false,
+						"contact": {
+							"name": "",
+							"address": "",
+							"email": "",
+							"organisation": ""
+						},
+						"languages": {
+							"actor_languages": [
+								{
+									"name": "Romanian",
+									"iso_code": "ron",
+									"country_code": "RO",
+									"type": "L",
+									"MotherTongue": true,
+									"PrimaryLanguage": true,
+									"id": 0
+								}
+							]
+						},
+						"id": 20
+					}
+				],
+				"pointer": 20,
+				"info": "ObjectList state"
+			},
+			"session": {
+				"id_counter": 35,
+				"list": [
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Alexandru Macedonski",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								1
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Alexandru Macedonski_Noaptea de decembrie.txt",
+										"size": "9.3 KB",
+										"id": 43
+									},
+									{
+										"name": "Alexandru Macedonski_Noaptea de iulie.txt",
+										"size": "1.5 KB",
+										"id": 45
+									},
+									{
+										"name": "Alexandru Macedonski_Rondelul contimporanilor.txt",
+										"size": "409 B",
+										"id": 47
+									},
+									{
+										"name": "Alexandru Macedonski_Rondelul contimporanilor.txt",
+										"size": "409 B",
+										"id": 49
+									},
+									{
+										"name": "Alexandru Macedonski_Rondelul cupei de Murano.txt",
+										"size": "361 B",
+										"id": 51
+									},
+									{
+										"name": "Alexandru Macedonski_Rondelul lucrurilor.txt",
+										"size": "383 B",
+										"id": 53
+									},
+									{
+										"name": "Alexandru Macedonski_Rondelul rozelor de august.txt",
+										"size": "409 B",
+										"id": 55
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 13
+					},
+					{
+						"session": {
+							"name": "Poems",
+							"title": "Ana Blandiana",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poems_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								2
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Ana Blandiana_Am crescut.txt",
+										"size": "463 B",
+										"id": 57
+									},
+									{
+										"name": "Ana Blandiana_Arhitectură-n mişcare.txt",
+										"size": "773 B",
+										"id": 59
+									},
+									{
+										"name": "Ana Blandiana_Aud.txt",
+										"size": "486 B",
+										"id": 61
+									},
+									{
+										"name": "Ana Blandiana_Avram Iancu.txt",
+										"size": "893 B",
+										"id": 63
+									},
+									{
+										"name": "Ana Blandiana_Balada vămilor.txt",
+										"size": "1.8 KB",
+										"id": 65
+									},
+									{
+										"name": "Ana Blandiana_Călătorie.txt",
+										"size": "319 B",
+										"id": 67
+									},
+									{
+										"name": "Ana Blandiana_Cântec de miner tânăr.txt",
+										"size": "889 B",
+										"id": 69
+									},
+									{
+										"name": "Ana Blandiana_Cântecul.txt",
+										"size": "718 B",
+										"id": 71
+									},
+									{
+										"name": "Ana Blandiana_Carantină.txt",
+										"size": "704 B",
+										"id": 73
+									},
+									{
+										"name": "Ana Blandiana_Contratimp.txt",
+										"size": "508 B",
+										"id": 75
+									},
+									{
+										"name": "Ana Blandiana_Copilărie.txt",
+										"size": "451 B",
+										"id": 77
+									},
+									{
+										"name": "Ana Blandiana_Dans în ploaie.txt",
+										"size": "818 B",
+										"id": 79
+									},
+									{
+										"name": "Ana Blandiana_De bună voie.txt",
+										"size": "652 B",
+										"id": 81
+									},
+									{
+										"name": "Ana Blandiana_Delimitări.txt",
+										"size": "357 B",
+										"id": 83
+									},
+									{
+										"name": "Ana Blandiana_De dragoste.txt",
+										"size": "603 B",
+										"id": 85
+									},
+									{
+										"name": "Ana Blandiana_Descântec de ploaie.txt",
+										"size": "1.4 KB",
+										"id": 87
+									},
+									{
+										"name": "Ana Blandiana_Două cruci.txt",
+										"size": "509 B",
+										"id": 89
+									},
+									{
+										"name": "Ana Blandiana_Eclipsă.txt",
+										"size": "635 B",
+										"id": 91
+									},
+									{
+										"name": "Ana Blandiana_Iarna stelele.txt",
+										"size": "261 B",
+										"id": 93
+									},
+									{
+										"name": "Ana Blandiana_În somn.txt",
+										"size": "465 B",
+										"id": 95
+									},
+									{
+										"name": "Ana Blandiana_Întâlnire.txt",
+										"size": "418 B",
+										"id": 97
+									},
+									{
+										"name": "Ana Blandiana_Învaţă-mă să ard întunecat.txt",
+										"size": "644 B",
+										"id": 99
+									},
+									{
+										"name": "Ana Blandiana_La ce serveşte bucuria.txt",
+										"size": "403 B",
+										"id": 101
+									},
+									{
+										"name": "Ana Blandiana_Lasă-mi toamnă.txt",
+										"size": "565 B",
+										"id": 103
+									},
+									{
+										"name": "Ana Blandiana_Legături.txt",
+										"size": "489 B",
+										"id": 105
+									},
+									{
+										"name": "Ana Blandiana_Mamă.txt",
+										"size": "527 B",
+										"id": 107
+									},
+									{
+										"name": "Ana Blandiana_Nealegere.txt",
+										"size": "411 B",
+										"id": 109
+									},
+									{
+										"name": "Ana Blandiana_Ninge cu duşmănie.txt",
+										"size": "519 B",
+										"id": 111
+									},
+									{
+										"name": "Ana Blandiana_Numai iubirea.txt",
+										"size": "386 B",
+										"id": 115
+									},
+									{
+										"name": "Ana Blandiana_Poate că mă visează cineva.txt",
+										"size": "526 B",
+										"id": 117
+									},
+									{
+										"name": "Ana Blandiana_Refren.txt",
+										"size": "1.0 KB",
+										"id": 119
+									},
+									{
+										"name": "Ana Blandiana_Rugă.txt",
+										"size": "586 B",
+										"id": 121
+									},
+									{
+										"name": "Ana Blandiana_Să lăsăm să cadă cuvintele.txt",
+										"size": "292 B",
+										"id": 123
+									},
+									{
+										"name": "Ana Blandiana_Se face noapte.txt",
+										"size": "451 B",
+										"id": 125
+									},
+									{
+										"name": "Ana Blandiana_Silabe.txt",
+										"size": "499 B",
+										"id": 127
+									},
+									{
+										"name": "Ana Blandiana_Ştiu puritatea.txt",
+										"size": "616 B",
+										"id": 129
+									},
+									{
+										"name": "Ana Blandiana_Te întreb.txt",
+										"size": "363 B",
+										"id": 131
+									},
+									{
+										"name": "Ana Blandiana_Voi ştiţi ceva.txt",
+										"size": "446 B",
+										"id": 133
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 14
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Elena Armenescu",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								3
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Elena Armenescu_În mine - apă din primordiala mare.txt",
+										"size": "604 B",
+										"id": 135
+									},
+									{
+										"name": "Elena Armenescu_Iubirea împărătească.txt",
+										"size": "20.1 KB",
+										"id": 137
+									},
+									{
+										"name": "Elena Armenescu_Mielul Pascal.txt",
+										"size": "964 B",
+										"id": 139
+									},
+									{
+										"name": "Elena Armenescu_Migraţii.txt",
+										"size": "555 B",
+										"id": 141
+									},
+									{
+										"name": "Elena Armenescu_Parabolă.txt",
+										"size": "507 B",
+										"id": 143
+									},
+									{
+										"name": "Elena Armenescu_Rosteşte-mă.txt",
+										"size": "855 B",
+										"id": 145
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 15
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Elena Farago",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Pome pentru copii_Children poetry ",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								4
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Elena Farago_Cătelusul schiop.txt",
+										"size": "1.0 KB",
+										"id": 147
+									},
+									{
+										"name": "Elena Farago_Closca.txt",
+										"size": "415 B",
+										"id": 149
+									},
+									{
+										"name": "Elena Farago_Gândăcelul.txt",
+										"size": "998 B",
+										"id": 151
+									},
+									{
+										"name": "Elena Farago_Hai Nani Nani.txt",
+										"size": "1.1 KB",
+										"id": 153
+									},
+									{
+										"name": "Elena Farago_Micul vânător.txt",
+										"size": "2.3 KB",
+										"id": 155
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 16
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "George Bacovia",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								6
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "George Bacovia_Belşug.txt",
+										"size": "732 B",
+										"id": 157
+									},
+									{
+										"name": "George Bacovia_Cuptor.txt",
+										"size": "413 B",
+										"id": 159
+									},
+									{
+										"name": "George Bacovia_Poveste.txt",
+										"size": "1.1 KB",
+										"id": 161
+									},
+									{
+										"name": "George Bacovia_Şi ce.txt",
+										"size": "282 B",
+										"id": 163
+									},
+									{
+										"name": "George Bacovia_Tablou de iarnă.txt",
+										"size": "466 B",
+										"id": 165
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 17
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Ion Minulescu",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": []
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Ion Minulescu_ACELEI CARE VA VENI.txt",
+										"size": "1.2 KB",
+										"id": 175
+									},
+									{
+										"name": "Ion Minulescu_ACUARELÃ.txt",
+										"size": "810 B",
+										"id": 177
+									},
+									{
+										"name": "Ion Minulescu_ALEA JACTA EST.txt",
+										"size": "1.4 KB",
+										"id": 179
+									},
+									{
+										"name": "Ion Minulescu_AMIAZÃ RURALÃ.txt",
+										"size": "546 B",
+										"id": 181
+									},
+									{
+										"name": "Ion Minulescu_CÂNTA UN MATELOT.txt",
+										"size": "809 B",
+										"id": 183
+									},
+									{
+										"name": "Ion Minulescu_CÂNTEC DE LEAGÃN.txt",
+										"size": "987 B",
+										"id": 185
+									},
+									{
+										"name": "Ion Minulescu_Cât timp vorbesc.txt",
+										"size": "728 B",
+										"id": 187
+									},
+									{
+										"name": "Ion Minulescu_CELEI CARE PLEACÃ.txt",
+										"size": "791 B",
+										"id": 189
+									},
+									{
+										"name": "Ion Minulescu_CELEI CARE TRECE.txt",
+										"size": "739 B",
+										"id": 191
+									},
+									{
+										"name": "Ion Minulescu_CELEI DIN URMÃ.txt",
+										"size": "1011 B",
+										"id": 193
+									},
+									{
+										"name": "Ion Minulescu_CELEI ÎNVINSE.txt",
+										"size": "1.2 KB",
+										"id": 195
+									},
+									{
+										"name": "Ion Minulescu_CELEI MAI APROAPE.txt",
+										"size": "1.4 KB",
+										"id": 197
+									},
+									{
+										"name": "Ion Minulescu_CLOPOTELE.txt",
+										"size": "882 B",
+										"id": 199
+									},
+									{
+										"name": "Ion Minulescu_CREPUSCUL LA TOMIS.txt",
+										"size": "745 B",
+										"id": 201
+									},
+									{
+										"name": "Ion Minulescu_DE VORBA CU MINE INSUMI.txt",
+										"size": "1.6 KB",
+										"id": 203
+									},
+									{
+										"name": "Ion Minulescu_Despre ţara din care venim.txt",
+										"size": "482 B",
+										"id": 205
+									},
+									{
+										"name": "Ion Minulescu_ECCE HOMO.txt",
+										"size": "739 B",
+										"id": 207
+									},
+									{
+										"name": "Ion Minulescu_ELEGIE DOMESTICÃ.txt",
+										"size": "1.2 KB",
+										"id": 209
+									},
+									{
+										"name": "Ion Minulescu_GÉRARD DE NERVAL.txt",
+										"size": "1.4 KB",
+										"id": 211
+									},
+									{
+										"name": "Ion Minulescu_GLASUL MORILOR.txt",
+										"size": "1.2 KB",
+										"id": 213
+									},
+									{
+										"name": "Ion Minulescu_GÖTTERDÄMMERUNG.txt",
+										"size": "1.1 KB",
+										"id": 215
+									},
+									{
+										"name": "Ion Minulescu_ÎN ORAŞUL CU TREI SUTE DE BISERICI.txt",
+										"size": "1.1 KB",
+										"id": 217
+									},
+									{
+										"name": "Ion Minulescu_ÎN TEMPLUL LINIŞTII.txt",
+										"size": "912 B",
+										"id": 219
+									},
+									{
+										"name": "Ion Minulescu_ÎNTR-UN BAZAR SENTIMENTAL.txt",
+										"size": "1.5 KB",
+										"id": 221
+									},
+									{
+										"name": "Ion Minulescu_JULES LAFORGUE.txt",
+										"size": "654 B",
+										"id": 223
+									},
+									{
+										"name": "Ion Minulescu_Klingsor.txt",
+										"size": "2.2 KB",
+										"id": 225
+									},
+									{
+										"name": "Ion Minulescu_La Poarta Celor Care Dorm.txt",
+										"size": "1.8 KB",
+										"id": 227
+									},
+									{
+										"name": "Ion Minulescu_LA UMBRA CRUCILOR DE LEMN.txt",
+										"size": "1.0 KB",
+										"id": 229
+									},
+									{
+										"name": "Ion Minulescu_LITANII PENTRU MIEZUL NOPŢII.txt",
+										"size": "1.9 KB",
+										"id": 231
+									},
+									{
+										"name": "Ion Minulescu_MARINÃ ESTIVALÃ.txt",
+										"size": "817 B",
+										"id": 233
+									},
+									{
+										"name": "Ion Minulescu_MARINÃ ESTIVALÃ.txt",
+										"size": "817 B",
+										"id": 235
+									},
+									{
+										"name": "Ion Minulescu_MARŞ FUNEBRU.txt",
+										"size": "1014 B",
+										"id": 237
+									},
+									{
+										"name": "Ion Minulescu_MOARTEA PASAGERULUI.txt",
+										"size": "594 B",
+										"id": 239
+									},
+									{
+										"name": "Ion Minulescu_MULTAŞTEPTATEI.txt",
+										"size": "1.0 KB",
+										"id": 241
+									},
+									{
+										"name": "Ion Minulescu_NOCTURNÃ.txt",
+										"size": "583 B",
+										"id": 243
+									},
+									{
+										"name": "Ion Minulescu_NOCTURNÃ_2.txt",
+										"size": "1.2 KB",
+										"id": 245
+									},
+									{
+										"name": "Ion Minulescu_O, NU TE-APROPIA DE MÃNÃSTIRE!.txt",
+										"size": "962 B",
+										"id": 247
+									},
+									{
+										"name": "Ion Minulescu_OCTOMBRE.txt",
+										"size": "1.3 KB",
+										"id": 249
+									},
+									{
+										"name": "Ion Minulescu_ODELETA.txt",
+										"size": "714 B",
+										"id": 251
+									},
+									{
+										"name": "Ion Minulescu_ODELETÃ.txt",
+										"size": "987 B",
+										"id": 253
+									},
+									{
+										"name": "Ion Minulescu_PASTEL BOLNAV.txt",
+										"size": "849 B",
+										"id": 255
+									},
+									{
+										"name": "Ion Minulescu_PASTEL BANAL.txt",
+										"size": "920 B",
+										"id": 257
+									},
+									{
+										"name": "Ion Minulescu_PASTEL DE TOAMNÃ.txt",
+										"size": "1.0 KB",
+										"id": 259
+									},
+									{
+										"name": "Ion Minulescu_PASTEL MECANIC.txt",
+										"size": "1.1 KB",
+										"id": 261
+									},
+									{
+										"name": "Ion Minulescu_PASTEL PROFAN.txt",
+										"size": "846 B",
+										"id": 263
+									},
+									{
+										"name": "Ion Minulescu_PAUL VERLAINE.txt",
+										"size": "769 B",
+										"id": 265
+									},
+									{
+										"name": "Ion Minulescu_PAUL VERLAINE_2.txt",
+										"size": "1.7 KB",
+										"id": 267
+									},
+									{
+										"name": "Ion Minulescu_PELERINII MORŢII.txt",
+										"size": "1.3 KB",
+										"id": 269
+									},
+									{
+										"name": "Ion Minulescu_PLOAIE URBANÃ.txt",
+										"size": "1.0 KB",
+										"id": 271
+									},
+									{
+										"name": "Ion Minulescu_PRIN GÃRILE CU FIRME-ALBASTRE.txt",
+										"size": "1.5 KB",
+										"id": 273
+									},
+									{
+										"name": "Ion Minulescu_RÂNDURI PENTRU SULAMITA.txt",
+										"size": "967 B",
+										"id": 275
+									},
+									{
+										"name": "Ion Minulescu_REGINA IZABELA CÃTRE CRISTOFOR COLUMB.txt",
+										"size": "1.1 KB",
+										"id": 277
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢÃ APOCRIFÃ.txt",
+										"size": "798 B",
+										"id": 279
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢÃ POLICROMÃ.txt",
+										"size": "1.4 KB",
+										"id": 281
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA CELOR TREI GALERE.txt",
+										"size": "1.1 KB",
+										"id": 283
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA CELOR TREI CORÃBII.txt",
+										"size": "1016 B",
+										"id": 285
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA CELOR TREI ROMANŢE.txt",
+										"size": "1.2 KB",
+										"id": 287
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA CELUI CE S-A-NTORS.txt",
+										"size": "1.1 KB",
+										"id": 289
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA CHEII.txt",
+										"size": "1.1 KB",
+										"id": 291
+									},
+									{
+										"name": "Ion Minulescu_Romanta Corbului.txt",
+										"size": "1.2 KB",
+										"id": 293
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢÃ FÃRÃ MUZICÃ.txt",
+										"size": "959 B",
+										"id": 295
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢÃ FÃRÃ MUZICÃ_2.txt",
+										"size": "1.1 KB",
+										"id": 297
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA IAHTURILOR.txt",
+										"size": "1.7 KB",
+										"id": 299
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA MARILOR DISPÃRUŢI.txt",
+										"size": "1.2 KB",
+										"id": 301
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA MORŢII.txt",
+										"size": "1.4 KB",
+										"id": 303
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA MORTULUI.txt",
+										"size": "1.3 KB",
+										"id": 305
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA NECUNOSCUTEI.txt",
+										"size": "1.7 KB",
+										"id": 307
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢÃ NORDICÃ.txt",
+										"size": "958 B",
+										"id": 309
+									},
+									{
+										"name": "Ion Minulescu_Romanta Noului Venit.txt",
+										"size": "3.3 KB",
+										"id": 311
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA PELERINULUI.txt",
+										"size": "795 B",
+										"id": 313
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢÃ POLICROMÃ.txt",
+										"size": "1.4 KB",
+										"id": 315
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA ROZINEI.txt",
+										"size": "1.2 KB",
+										"id": 317
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA SOARELUI.txt",
+										"size": "844 B",
+										"id": 319
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA ULTIMEI SERI.txt",
+										"size": "1.3 KB",
+										"id": 321
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA UNUI REGE ASIATIC.txt",
+										"size": "1.0 KB",
+										"id": 323
+									},
+									{
+										"name": "Ion Minulescu_ROMANŢA ZILELOR DE IERI.txt",
+										"size": "896 B",
+										"id": 325
+									},
+									{
+										"name": "Ion Minulescu_SONET.txt",
+										"size": "586 B",
+										"id": 327
+									},
+									{
+										"name": "Ion Minulescu_SOSESC CORÃBIILE.txt",
+										"size": "725 B",
+										"id": 329
+									},
+									{
+										"name": "Ion Minulescu_Spre Insula Enigma.txt",
+										"size": "2.1 KB",
+										"id": 331
+									},
+									{
+										"name": "Ion Minulescu_STROFE PENTRU CELE PATRU ANOTIMPURI.txt",
+										"size": "4.1 KB",
+										"id": 333
+									},
+									{
+										"name": "Ion Minulescu_STROFE PENTRU ELEMENTELE NATURII.txt",
+										"size": "5.7 KB",
+										"id": 335
+									},
+									{
+										"name": "Ion Minulescu_TREC VAGABONZII.txt",
+										"size": "1.1 KB",
+										"id": 337
+									},
+									{
+										"name": "Ion Minulescu_TREI LACRIMI RECI DE CÃLÃTOARE.txt",
+										"size": "812 B",
+										"id": 339
+									},
+									{
+										"name": "Ion Minulescu_TRIPTIC BANAL.txt",
+										"size": "3.4 KB",
+										"id": 341
+									},
+									{
+										"name": "Ion Minulescu_ULTIMA ORÃ.txt",
+										"size": "829 B",
+										"id": 343
+									},
+									{
+										"name": "Ion Minulescu_VA FI.txt",
+										"size": "1.3 KB",
+										"id": 345
+									},
+									{
+										"name": "Ion Minulescu_VESPERALÃ.txt",
+										"size": "709 B",
+										"id": 347
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 18
+					},
+					{
+						"session": {
+							"name": "Poems",
+							"title": "Luciana Stoicescu Vaughau",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								10
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Luciana Stoicescu Vaughau_În memoria.txt",
+										"size": "684 B",
+										"id": 359
+									},
+									{
+										"name": "Luciana Stoicescu Vaughau_Lui Eminescu.txt",
+										"size": "588 B",
+										"id": 361
+									},
+									{
+										"name": "Luciana Stoicescu Vaughau_Mă cert cu Dumnezeu.txt",
+										"size": "606 B",
+										"id": 363
+									},
+									{
+										"name": "Luciana Stoicescu Vaughau_Sfîrsitul lumii.txt",
+										"size": "1.5 KB",
+										"id": 365
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 19
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Maria-Eugenia Olaru",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								11
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Maria-Eugenia Olaru_A doua scrisoare - Logos.txt",
+										"size": "656 B",
+										"id": 367
+									},
+									{
+										"name": "Maria-Eugenia Olaru_A douăzeci şi una scrisoare.txt",
+										"size": "456 B",
+										"id": 369
+									},
+									{
+										"name": "Maria-Eugenia Olaru_A patrusprezecea scrisoare.txt",
+										"size": "933 B",
+										"id": 371
+									},
+									{
+										"name": "Maria-Eugenia Olaru_A treisprezecea scrisoare.txt",
+										"size": "1.4 KB",
+										"id": 373
+									},
+									{
+										"name": "Maria-Eugenia Olaru_A treizeci şi doua scrisoare.txt",
+										"size": "909 B",
+										"id": 375
+									},
+									{
+										"name": "Maria-Eugenia Olaru_A treizeci şi una scrisoare.txt",
+										"size": "774 B",
+										"id": 377
+									},
+									{
+										"name": "Maria-Eugenia Olaru_Alergare.txt",
+										"size": "360 B",
+										"id": 379
+									},
+									{
+										"name": "Maria-Eugenia Olaru_Dimineţi de duminică.txt",
+										"size": "399 B",
+										"id": 381
+									},
+									{
+										"name": "Maria-Eugenia Olaru_Glossă modernă.txt",
+										"size": "868 B",
+										"id": 383
+									},
+									{
+										"name": "Maria-Eugenia Olaru_Înrourare.txt",
+										"size": "430 B",
+										"id": 385
+									},
+									{
+										"name": "Maria-Eugenia Olaru_Întâia scrisoare - O zi senină.txt",
+										"size": "2.0 KB",
+										"id": 387
+									},
+									{
+										"name": "Maria-Eugenia Olaru_Roua.txt",
+										"size": "179 B",
+										"id": 389
+									},
+									{
+										"name": "Maria-Eugenia Olaru_Rugă către Sfânta Vineri.txt",
+										"size": "284 B",
+										"id": 391
+									},
+									{
+										"name": "Maria-Eugenia Olaru_Scrisoare de dor către casă.txt",
+										"size": "517 B",
+										"id": 393
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 21
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Mateiu Ion Caragiale",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								12
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Mateiu Ion Caragiale_Boierul.txt",
+										"size": "716 B",
+										"id": 395
+									},
+									{
+										"name": "Mateiu Ion Caragiale_Domniţa.txt",
+										"size": "667 B",
+										"id": 397
+									},
+									{
+										"name": "Mateiu Ion Caragiale_La Argeş.txt",
+										"size": "686 B",
+										"id": 399
+									},
+									{
+										"name": "Mateiu Ion Caragiale_Mărturisire.txt",
+										"size": "651 B",
+										"id": 401
+									},
+									{
+										"name": "Mateiu Ion Caragiale_Noapte roşie.txt",
+										"size": "694 B",
+										"id": 403
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 22
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Mihai Eminescu",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								13
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Mihai Eminescu_Adio.txt",
+										"size": "968 B",
+										"id": 405
+									},
+									{
+										"name": "Mihai Eminescu_Afară-i toamnă.txt",
+										"size": "624 B",
+										"id": 407
+									},
+									{
+										"name": "Mihai Eminescu_Amorul unei marmure.txt",
+										"size": "1.7 KB",
+										"id": 409
+									},
+									{
+										"name": "Mihai Eminescu_Atât de fragedă.txt",
+										"size": "1.1 KB",
+										"id": 411
+									},
+									{
+										"name": "Mihai Eminescu_Călin.txt",
+										"size": "14.2 KB",
+										"id": 413
+									},
+									{
+										"name": "Mihai Eminescu_Când amintirile.txt",
+										"size": "673 B",
+										"id": 415
+									},
+									{
+										"name": "Mihai Eminescu_Când însuşi glasul.txt",
+										"size": "554 B",
+										"id": 417
+									},
+									{
+										"name": "Mihai Eminescu_Ce e amorul.txt",
+										"size": "773 B",
+										"id": 419
+									},
+									{
+										"name": "Mihai Eminescu_Ce te legeni.txt",
+										"size": "676 B",
+										"id": 421
+									},
+									{
+										"name": "Mihai Eminescu_Ce-ţi doresc eu ţie dulce Românie.txt",
+										"size": "1.2 KB",
+										"id": 423
+									},
+									{
+										"name": "Mihai Eminescu_Copii eram noi amândoi.txt",
+										"size": "2.5 KB",
+										"id": 425
+									},
+									{
+										"name": "Mihai Eminescu_Crăiasa din poveşti.txt",
+										"size": "817 B",
+										"id": 427
+									},
+									{
+										"name": "Mihai Eminescu_Criticilor mei.txt",
+										"size": "807 B",
+										"id": 429
+									},
+									{
+										"name": "Mihai Eminescu_Cu mâine zilele-ţi adaogi.txt",
+										"size": "956 B",
+										"id": 431
+									},
+									{
+										"name": "Mihai Eminescu_Cugetările sărmanului Dionis.txt",
+										"size": "3.6 KB",
+										"id": 433
+									},
+									{
+										"name": "Mihai Eminescu_De câte ori iubito.txt",
+										"size": "678 B",
+										"id": 435
+									},
+									{
+										"name": "Mihai Eminescu_De ce nu-mi vii.txt",
+										"size": "730 B",
+										"id": 437
+									},
+									{
+										"name": "Mihai Eminescu_De-aş avea.txt",
+										"size": "643 B",
+										"id": 439
+									},
+									{
+										"name": "Mihai Eminescu_De-or trece anii.txt",
+										"size": "514 B",
+										"id": 441
+									},
+									{
+										"name": "Mihai Eminescu_Departe sunt de tine.txt",
+										"size": "884 B",
+										"id": 443
+									},
+									{
+										"name": "Mihai Eminescu_Despărţire.txt",
+										"size": "1.8 KB",
+										"id": 445
+									},
+									{
+										"name": "Mihai Eminescu_Diana.txt",
+										"size": "970 B",
+										"id": 447
+									},
+									{
+										"name": "Mihai Eminescu_Din străinătate.txt",
+										"size": "1.6 KB",
+										"id": 451
+									},
+									{
+										"name": "Mihai Eminescu_Din valurile vremii.txt",
+										"size": "917 B",
+										"id": 453
+									},
+									{
+										"name": "Mihai Eminescu_Doina.txt",
+										"size": "1.6 KB",
+										"id": 455
+									},
+									{
+										"name": "Mihai Eminescu_Dorinţa.txt",
+										"size": "689 B",
+										"id": 457
+									},
+									{
+										"name": "Mihai Eminescu_Egipetul.txt",
+										"size": "4.7 KB",
+										"id": 459
+									},
+									{
+										"name": "Mihai Eminescu_Epigonii.txt",
+										"size": "6.1 KB",
+										"id": 461
+									},
+									{
+										"name": "Mihai Eminescu_Fiind băiet păduri cutreieram.txt",
+										"size": "1.2 KB",
+										"id": 463
+									},
+									{
+										"name": "Mihai Eminescu_Floare-albastră.txt",
+										"size": "1.6 KB",
+										"id": 465
+									},
+									{
+										"name": "Mihai Eminescu_Foaia veştedă.txt",
+										"size": "785 B",
+										"id": 467
+									},
+									{
+										"name": "Mihai Eminescu_Freamăt de codru.txt",
+										"size": "1.2 KB",
+										"id": 469
+									},
+									{
+										"name": "Mihai Eminescu_Glossă.txt",
+										"size": "2.2 KB",
+										"id": 471
+									},
+									{
+										"name": "Mihai Eminescu_Iar când voi fi pământ.txt",
+										"size": "905 B",
+										"id": 473
+									},
+									{
+										"name": "Mihai Eminescu_Împărat şi proletar.txt",
+										"size": "9.9 KB",
+										"id": 475
+									},
+									{
+										"name": "Mihai Eminescu_Înger de pază.txt",
+										"size": "585 B",
+										"id": 477
+									},
+									{
+										"name": "Mihai Eminescu_Înger şi demon.txt",
+										"size": "5.9 KB",
+										"id": 479
+									},
+									{
+										"name": "Mihai Eminescu_Junii corupţi.txt",
+										"size": "3.0 KB",
+										"id": 481
+									},
+									{
+										"name": "Mihai Eminescu_La Bucovina.txt",
+										"size": "1.2 KB",
+										"id": 483
+									},
+									{
+										"name": "Mihai Eminescu_La moartea principelui Ştirbey.txt",
+										"size": "858 B",
+										"id": 485
+									},
+									{
+										"name": "Mihai Eminescu_La mormântul lui Aron Pumnul.txt",
+										"size": "1.0 KB",
+										"id": 487
+									},
+									{
+										"name": "Mihai Eminescu_Lasă-ţi lumea.txt",
+										"size": "1.5 KB",
+										"id": 489
+									},
+									{
+										"name": "Mihai Eminescu_Luceafărul.txt",
+										"size": "10.8 KB",
+										"id": 491
+									},
+									{
+										"name": "Mihai Eminescu_Mai am un singur dor.txt",
+										"size": "828 B",
+										"id": 493
+									},
+									{
+										"name": "Mihai Eminescu_Mănuşa.txt",
+										"size": "1.9 KB",
+										"id": 495
+									},
+									{
+										"name": "Mihai Eminescu_Melancolie.txt",
+										"size": "1.8 KB",
+										"id": 497
+									},
+									{
+										"name": "Mihai Eminescu_Misterele nopţii.txt",
+										"size": "1.0 KB",
+										"id": 499
+									},
+									{
+										"name": "Mihai Eminescu_Mortua est.txt",
+										"size": "2.9 KB",
+										"id": 501
+									},
+									{
+										"name": "Mihai Eminescu_Noaptea.txt",
+										"size": "1.1 KB",
+										"id": 503
+									},
+									{
+										"name": "Mihai Eminescu_Nu mă înţelegi.txt",
+										"size": "1.2 KB",
+										"id": 505
+									},
+									{
+										"name": "Mihai Eminescu_Nu voi mormânt bogat.txt",
+										"size": "832 B",
+										"id": 507
+									},
+									{
+										"name": "Mihai Eminescu_Numai poetul.txt",
+										"size": "341 B",
+										"id": 509
+									},
+									{
+										"name": "Mihai Eminescu_O mamă.txt",
+										"size": "843 B",
+										"id": 511
+									},
+									{
+										"name": "Mihai Eminescu_O rămâi.txt",
+										"size": "797 B",
+										"id": 513
+									},
+									{
+										"name": "Mihai Eminescu_Odă.txt",
+										"size": "699 B",
+										"id": 515
+									},
+									{
+										"name": "Mihai Eminescu_Pajul Cupidon.txt",
+										"size": "984 B",
+										"id": 517
+									},
+									{
+										"name": "Mihai Eminescu_Pe aceeaşi ulicioară.txt",
+										"size": "878 B",
+										"id": 519
+									},
+									{
+										"name": "Mihai Eminescu_Pe lângă plopii fără soţ.txt",
+										"size": "1.2 KB",
+										"id": 521
+									},
+									{
+										"name": "Mihai Eminescu_Peste vârfuri.txt",
+										"size": "328 B",
+										"id": 523
+									},
+									{
+										"name": "Mihai Eminescu_Povestea codrului.txt",
+										"size": "1.4 KB",
+										"id": 525
+									},
+									{
+										"name": "Mihai Eminescu_Scrisoarea I.txt",
+										"size": "8.3 KB",
+										"id": 527
+									},
+									{
+										"name": "Mihai Eminescu_Scrisoarea II.txt",
+										"size": "4.3 KB",
+										"id": 529
+									},
+									{
+										"name": "Mihai Eminescu_Scrisoarea III.txt",
+										"size": "14.5 KB",
+										"id": 531
+									},
+									{
+										"name": "Mihai Eminescu_Scrisoarea V.txt",
+										"size": "6.3 KB",
+										"id": 533
+									},
+									{
+										"name": "Mihai Eminescu_Scrisoarea IV.txt",
+										"size": "7.9 KB",
+										"id": 535
+									},
+									{
+										"name": "Mihai Eminescu_Seara pe deal.txt",
+										"size": "1.0 KB",
+										"id": 537
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 23
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Nichita Stănescu",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								14
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Nichita Stănescu_Cântec de dor.txt",
+										"size": "631 B",
+										"id": 543
+									},
+									{
+										"name": "Nichita Stănescu_Cântec de lume.txt",
+										"size": "488 B",
+										"id": 545
+									},
+									{
+										"name": "Nichita Stănescu_Ce bine că eşti.txt",
+										"size": "881 B",
+										"id": 547
+									},
+									{
+										"name": "Nichita Stănescu_De dragoste.txt",
+										"size": "479 B",
+										"id": 549
+									},
+									{
+										"name": "Nichita Stănescu_Dimineaţă marină.txt",
+										"size": "583 B",
+										"id": 551
+									},
+									{
+										"name": "Nichita Stănescu_Dreptul la timp.txt",
+										"size": "558 B",
+										"id": 553
+									},
+									{
+										"name": "Nichita Stănescu_Frunzişuri.txt",
+										"size": "807 B",
+										"id": 555
+									},
+									{
+										"name": "Nichita Stănescu_Muzica.txt",
+										"size": "976 B",
+										"id": 559
+									},
+									{
+										"name": "Nichita Stănescu_Ploaie în luna lui Marte.txt",
+										"size": "712 B",
+										"id": 561
+									},
+									{
+										"name": "Nichita Stănescu_Poveste sentimentală.txt",
+										"size": "590 B",
+										"id": 563
+									},
+									{
+										"name": "Nichita Stănescu_Primăvara.txt",
+										"size": "598 B",
+										"id": 565
+									},
+									{
+										"name": "Nichita Stănescu_Primăvara.txt",
+										"size": "598 B",
+										"id": 567
+									},
+									{
+										"name": "Nichita Stănescu_Tinerii.txt",
+										"size": "1000 B",
+										"id": 569
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 24
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Octavian Goga",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								15
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Octavian Goga_Asfinţit.txt",
+										"size": "1.4 KB",
+										"id": 571
+									},
+									{
+										"name": "Octavian Goga_Aşteptare.txt",
+										"size": "651 B",
+										"id": 573
+									},
+									{
+										"name": "Octavian Goga_Bătrâni.txt",
+										"size": "656 B",
+										"id": 575
+									},
+									{
+										"name": "Octavian Goga_Biata Inimă.txt",
+										"size": "618 B",
+										"id": 577
+									},
+									{
+										"name": "Octavian Goga_Cântece.txt",
+										"size": "2.3 KB",
+										"id": 579
+									},
+									{
+										"name": "Octavian Goga_Cântecele mele.txt",
+										"size": "852 B",
+										"id": 581
+									},
+									{
+										"name": "Octavian Goga_Cărbunii.txt",
+										"size": "276 B",
+										"id": 583
+									},
+									{
+										"name": "Octavian Goga_Ceahlăul.txt",
+										"size": "637 B",
+										"id": 585
+									},
+									{
+										"name": "Octavian Goga_Cinquecento.txt",
+										"size": "656 B",
+										"id": 587
+									},
+									{
+										"name": "Octavian Goga_Cosaşul.txt",
+										"size": "1.5 KB",
+										"id": 589
+									},
+									{
+										"name": "Octavian Goga_Dăscăliţa.txt",
+										"size": "1.9 KB",
+										"id": 591
+									},
+									{
+										"name": "Octavian Goga_Dascălul.txt",
+										"size": "1.8 KB",
+										"id": 593
+									},
+									{
+										"name": "Octavian Goga_De demult.txt",
+										"size": "2.0 KB",
+										"id": 595
+									},
+									{
+										"name": "Octavian Goga_De Profundis.txt",
+										"size": "775 B",
+										"id": 597
+									},
+									{
+										"name": "Octavian Goga_Departe.txt",
+										"size": "825 B",
+										"id": 599
+									},
+									{
+										"name": "Octavian Goga_Din larg.txt",
+										"size": "1.5 KB",
+										"id": 601
+									},
+									{
+										"name": "Octavian Goga_Doina.txt",
+										"size": "888 B",
+										"id": 603
+									},
+									{
+										"name": "Octavian Goga_Dorinţa.txt",
+										"size": "1.0 KB",
+										"id": 605
+									},
+									{
+										"name": "Octavian Goga_Fără ţară.txt",
+										"size": "1.2 KB",
+										"id": 607
+									},
+									{
+										"name": "Octavian Goga_Graiul pâinii.txt",
+										"size": "1.3 KB",
+										"id": 609
+									},
+									{
+										"name": "Octavian Goga_În mormânt la Argeş.txt",
+										"size": "1.0 KB",
+										"id": 611
+									},
+									{
+										"name": "Octavian Goga_În munţi.txt",
+										"size": "1.7 KB",
+										"id": 613
+									},
+									{
+										"name": "Octavian Goga_În muzeu.txt",
+										"size": "2.2 KB",
+										"id": 615
+									},
+									{
+										"name": "Octavian Goga_În pacea mută.txt",
+										"size": "617 B",
+										"id": 617
+									},
+									{
+										"name": "Octavian Goga_Inima.txt",
+										"size": "618 B",
+										"id": 619
+									},
+									{
+										"name": "Octavian Goga_La mal.txt",
+										"size": "819 B",
+										"id": 621
+									},
+									{
+										"name": "Octavian Goga_Lacul.txt",
+										"size": "760 B",
+										"id": 623
+									},
+									{
+										"name": "Octavian Goga_Moştenire.txt",
+										"size": "874 B",
+										"id": 625
+									},
+									{
+										"name": "Octavian Goga_Noapte.txt",
+										"size": "2.5 KB",
+										"id": 627
+									},
+									{
+										"name": "Octavian Goga_O clipă.txt",
+										"size": "385 B",
+										"id": 629
+									},
+									{
+										"name": "Octavian Goga_Noi.txt",
+										"size": "1.1 KB",
+										"id": 631
+									},
+									{
+										"name": "Octavian Goga_O ramură întârziată.txt",
+										"size": "626 B",
+										"id": 633
+									},
+									{
+										"name": "Octavian Goga_Oltul.txt",
+										"size": "2.2 KB",
+										"id": 635
+									},
+									{
+										"name": "Octavian Goga_Pace.txt",
+										"size": "790 B",
+										"id": 637
+									},
+									{
+										"name": "Octavian Goga_Părăsit.txt",
+										"size": "533 B",
+										"id": 639
+									},
+									{
+										"name": "Octavian Goga_Pe înserate.txt",
+										"size": "597 B",
+										"id": 641
+									},
+									{
+										"name": "Octavian Goga_Plugarii.txt",
+										"size": "2.0 KB",
+										"id": 643
+									},
+									{
+										"name": "Octavian Goga_Pribeag.txt",
+										"size": "616 B",
+										"id": 645
+									},
+									{
+										"name": "Octavian Goga_Profetul.txt",
+										"size": "1.2 KB",
+										"id": 649
+									},
+									{
+										"name": "Octavian Goga_Răsună toaca.txt",
+										"size": "526 B",
+										"id": 651
+									},
+									{
+										"name": "Octavian Goga_Reîntors.txt",
+										"size": "2.0 KB",
+										"id": 653
+									},
+									{
+										"name": "Octavian Goga_Revedere.txt",
+										"size": "782 B",
+										"id": 655
+									},
+									{
+										"name": "Octavian Goga_Rugăciune.txt",
+										"size": "1.5 KB",
+										"id": 657
+									},
+									{
+										"name": "Octavian Goga_Sângele.txt",
+										"size": "1.2 KB",
+										"id": 659
+									},
+									{
+										"name": "Octavian Goga_Sara.txt",
+										"size": "565 B",
+										"id": 661
+									},
+									{
+										"name": "Octavian Goga_Scrisoare.txt",
+										"size": "652 B",
+										"id": 663
+									},
+									{
+										"name": "Octavian Goga_Solus ero.txt",
+										"size": "1.6 KB",
+										"id": 665
+									},
+									{
+										"name": "Octavian Goga_Străinul.txt",
+										"size": "1.5 KB",
+										"id": 667
+									},
+									{
+										"name": "Octavian Goga_Sufletul.txt",
+										"size": "2.3 KB",
+										"id": 669
+									},
+									{
+										"name": "Octavian Goga_Trecutul.txt",
+										"size": "794 B",
+										"id": 671
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 25
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Tudor Arghezi",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								16
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Tudor Arghezi_Blesteme.txt",
+										"size": "1.7 KB",
+										"id": 673
+									},
+									{
+										"name": "Tudor Arghezi_De-abia plecaseşi.txt",
+										"size": "405 B",
+										"id": 675
+									},
+									{
+										"name": "Tudor Arghezi_Flori de mucigai.txt",
+										"size": "637 B",
+										"id": 677
+									},
+									{
+										"name": "Tudor Arghezi_Psalm VI.txt",
+										"size": "649 B",
+										"id": 679
+									},
+									{
+										"name": "Tudor Arghezi_Tâlharul pedepsit.txt",
+										"size": "721 B",
+										"id": 681
+									},
+									{
+										"name": "Tudor Arghezi_Zdreanţă.txt",
+										"size": "1.0 KB",
+										"id": 683
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 26
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Vasile Alexandri",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								17
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Vasile Alexandri_Legenda ciocârliei.txt",
+										"size": "15.5 KB",
+										"id": 685
+									},
+									{
+										"name": "Vasile Alexandri_Miezul iernii.txt",
+										"size": "839 B",
+										"id": 687
+									},
+									{
+										"name": "Vasile Alexandri_Legenda rândunicăi.txt",
+										"size": "6.0 KB",
+										"id": 689
+									},
+									{
+										"name": "Vasile Alexandri_Miezul iernii.txt",
+										"size": "839 B",
+										"id": 691
+									},
+									{
+										"name": "Vasile Alexandri_Soarele vântul şi gerul.txt",
+										"size": "909 B",
+										"id": 693
+									},
+									{
+										"name": "Vasile Alexandri_Strunga.txt",
+										"size": "1.2 KB",
+										"id": 695
+									},
+									{
+										"name": "Vasile Alexandri_Ţara.txt",
+										"size": "1.4 KB",
+										"id": 697
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 27
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Viorica Sălăjeanu",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								0
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Viorica Sălăjeanu_Am înteles.txt",
+										"size": "287 B",
+										"id": 699
+									},
+									{
+										"name": "Viorica Sălăjeanu_Chem vântul.txt",
+										"size": "111 B",
+										"id": 701
+									},
+									{
+										"name": "Viorica Sălăjeanu_Poarta sufletului.txt",
+										"size": "226 B",
+										"id": 703
+									},
+									{
+										"name": "Viorica Sălăjeanu_Primăvara.txt",
+										"size": "189 B",
+										"id": 705
+									},
+									{
+										"name": "Viorica Sălăjeanu_Retrezirea pădurii.txt",
+										"size": "232 B",
+										"id": 707
+									},
+									{
+										"name": "Viorica Sălăjeanu_Te întreb.txt",
+										"size": "363 B",
+										"id": 711
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 28
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Zorica Latcu",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								19
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Zorica Latcu_Te port.txt",
+										"size": "662 B",
+										"id": 713
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 29
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Adrian Păunescu",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								0
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Adrian Păunescu_Antiprimavara.txt",
+										"size": "799 B",
+										"id": 13
+									},
+									{
+										"name": "Adrian Păunescu_Bătrânul cerşetor.txt",
+										"size": "524 B",
+										"id": 15
+									},
+									{
+										"name": "Adrian Păunescu_Căţel emigrant.txt",
+										"size": "1.3 KB",
+										"id": 17
+									},
+									{
+										"name": "Adrian Păunescu_Ce frumoasă eşti.txt",
+										"size": "1.1 KB",
+										"id": 19
+									},
+									{
+										"name": "Adrian Păunescu_Cine iese ultimul din ţară.txt",
+										"size": "1.8 KB",
+										"id": 21
+									},
+									{
+										"name": "Adrian Păunescu_Făt-Frumos.txt",
+										"size": "1.3 KB",
+										"id": 25
+									},
+									{
+										"name": "Adrian Păunescu_Hipnoză de toamnă.txt",
+										"size": "504 B",
+										"id": 27
+									},
+									{
+										"name": "Adrian Păunescu_Iertările.txt",
+										"size": "944 B",
+										"id": 29
+									},
+									{
+										"name": "Adrian Păunescu_Leagăn pentru toată copilăria.txt",
+										"size": "1.6 KB",
+										"id": 31
+									},
+									{
+										"name": "Adrian Păunescu_Pastel de toamnă.txt",
+										"size": "572 B",
+										"id": 33
+									},
+									{
+										"name": "Adrian Păunescu_Poetul.txt",
+										"size": "1.3 KB",
+										"id": 35
+									},
+									{
+										"name": "Adrian Păunescu_Rugă pentru părinţi.txt",
+										"size": "1.0 KB",
+										"id": 37
+									},
+									{
+										"name": "Adrian Păunescu_Steaguri albe.txt",
+										"size": "706 B",
+										"id": 39
+									},
+									{
+										"name": "Adrian Păunescu_Trăiască România.txt",
+										"size": "2.8 KB",
+										"id": 41
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 30
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Elena Liliana Popescu",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								5
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Elena Liliana Popescu_Dacă.txt",
+										"size": "426 B",
+										"id": 167
+									},
+									{
+										"name": "Elena Liliana Popescu_Imn vieţii.txt",
+										"size": "783 B",
+										"id": 169
+									},
+									{
+										"name": "Elena Liliana Popescu_În clipa regăsirii.txt",
+										"size": "547 B",
+										"id": 173
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 32
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Magda Ianos",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Unspecified",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								9
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Magda Ianos_Cânt.txt",
+										"size": "752 B",
+										"id": 349
+									},
+									{
+										"name": "Magda Ianos_Eu nu regret.txt",
+										"size": "305 B",
+										"id": 351
+									},
+									{
+										"name": "Magda Ianos_Invrăjbire.txt",
+										"size": "685 B",
+										"id": 353
+									},
+									{
+										"name": "Magda Ianos_Primăvara.txt",
+										"size": "780 B",
+										"id": 355
+									},
+									{
+										"name": "Magda Ianos_Toporasi.txt",
+										"size": "1.2 KB",
+										"id": 357
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 33
+					},
+					{
+						"session": {
+							"name": "Poeme",
+							"title": "Nicolae  Labiş",
+							"date": {
+								"year": "YYYY",
+								"month": "MM",
+								"day": "DD"
+							},
+							"description": "",
+							"location": {
+								"continent": "North-America",
+								"country": "United States",
+								"region": "California",
+								"address": ""
+							}
+						},
+						"project": {
+							"name": "Balanced Romanian Corpus (BRC)",
+							"title": "BRC",
+							"id": "",
+							"description": "",
+							"contact": {
+								"name": "Ludmila M Ciochina",
+								"address": "",
+								"email": "midriganludmila@gmail.com",
+								"organisation": "University of California, Davis "
+							}
+						},
+						"content": {
+							"genre": "Poetry",
+							"subgenre": "Poeme_Poetry",
+							"task": "Unspecified",
+							"description": "",
+							"communication_context": {
+								"eventstructure": "Not a natural format",
+								"planningtype": "Unspecified",
+								"interactivity": "Unspecified",
+								"socialcontext": "Unspecified",
+								"involvement": "Unspecified"
+							}
+						},
+						"actors": {
+							"description": "",
+							"actors": [
+								20
+							]
+						},
+						"resources": {
+							"resources": {
+								"writtenResources": [
+									{
+										"name": "Nicolae Labiş_Primele iubiri.txt",
+										"size": "3.1 KB",
+										"id": 715
+									},
+									{
+										"name": "Nicolae Labiş_Moartea căprioarei.txt",
+										"size": "3.2 KB",
+										"id": 717
+									},
+									{
+										"name": "Nicolae Labiş_Marină.txt",
+										"size": "2.0 KB",
+										"id": 719
+									},
+									{
+										"name": "Nicolae Labiş_Geografia timpului.txt",
+										"size": "2.5 KB",
+										"id": 721
+									},
+									{
+										"name": "Nicolae Labiş_Confesiuni.txt",
+										"size": "3.8 KB",
+										"id": 723
+									}
+								],
+								"mediaFiles": []
+							}
+						},
+						"expanded": true,
+						"id": 34
+					}
+				],
+				"pointer": 13,
+				"info": "ObjectList state"
+			}
+		}
+	}
+}

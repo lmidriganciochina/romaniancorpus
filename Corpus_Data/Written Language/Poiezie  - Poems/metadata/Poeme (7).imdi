@@ -1,0 +1,3106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-03-02"
+                FormatId="IMDI 3.04"
+                Originator="CMDI Maker by CLASS - Cologne Language Archive Services"
+                Type="SESSION"
+                Version="1.0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+   <Session>
+      <Name>Poeme</Name>
+      <Title>Mihai Eminescu</Title>
+      <Date>Unspecified</Date>
+      <Description LanguageId="ISO639-3:eng"
+                   Link=""/>
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">North-America</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="OpenVocabulary">United States</Country>
+            <Region>California</Region>
+            <Address/>
+         </Location>
+         <Project>
+            <Name>Balanced Romanian Corpus (BRC)</Name>
+            <Title>BRC</Title>
+            <Id/>
+            <Contact>
+               <Name>Ludmila M Ciochina</Name>
+               <Address/>
+               <Email>midriganludmila@gmail.com</Email>
+               <Organisation>University of California, Davis </Organisation>
+            </Contact>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+         </Project>
+         <Keys></Keys>
+         <Content>
+            <Genre Link="http://www.mpi.nl/IMDI/Schema/Content-Genre.xml"
+                   Type="OpenVocabulary">Poetry</Genre>
+            <SubGenre Link="http://www.mpi.nl/IMDI/Schema/Content-SubGenre.xml"
+                      Type="OpenVocabularyList">Poeme_Poetry</SubGenre>
+            <Task Link="http://www.mpi.nl/IMDI/Schema/Content-Task.xml"
+                  Type="OpenVocabulary">Unspecified</Task>
+            <Modalities Link="http://www.mpi.nl/IMDI/Schema/Content-Modalities.xml"
+                        Type="OpenVocabulary"/>
+            <Subject Link="http://www.mpi.nl/IMDI/Schema/Content-Subject.xml"
+                     Type="OpenVocabularyList"/>
+            <CommunicationContext>
+               <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary">Unspecified</Interactivity>
+               <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary">Unspecified</PlanningType>
+               <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary">Unspecified</Involvement>
+               <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary">Unspecified</SocialContext>
+               <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary">Unspecified</EventStructure>
+               <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary"/>
+            </CommunicationContext>
+            <Languages>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+               <Language>
+                  <Id>ISO639-3:ron</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Romanian</Name>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+               </Language>
+               <Language>
+                  <Id>ISO639-3:ron</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Romanian</Name>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+               </Language>
+            </Languages>
+            <Keys/>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+         </Content>
+         <Actors>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Author</Role>
+               <Name>Mihai Eminescu</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+         </Actors>
+      </MDGroup>
+      <Resources>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Adio.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>968 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Afară-i toamnă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>624 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Amorul unei marmure.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.7 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Atât de fragedă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.1 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Călin.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>14.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Când amintirile.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>673 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Când însuşi glasul.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>554 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Ce e amorul.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>773 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Ce te legeni.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>676 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Ce-ţi doresc eu ţie dulce Românie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Copii eram noi amândoi.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>2.5 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Crăiasa din poveşti.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>817 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Criticilor mei.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>807 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Cu mâine zilele-ţi adaogi.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>956 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Cugetările sărmanului Dionis.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>3.6 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_De câte ori iubito.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>678 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_De ce nu-mi vii.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>730 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_De-aş avea.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>643 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_De-or trece anii.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>514 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Departe sunt de tine.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>884 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Despărţire.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.8 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Diana.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>970 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Din străinătate.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.6 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Din valurile vremii.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>917 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Doina.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.6 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Dorinţa.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>689 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Egipetul.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>4.7 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Epigonii.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>6.1 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Fiind băiet păduri cutreieram.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Floare-albastră.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.6 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Foaia veştedă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>785 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Freamăt de codru.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Glossă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>2.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Iar când voi fi pământ.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>905 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Împărat şi proletar.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>9.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Înger de pază.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>585 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Înger şi demon.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>5.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Junii corupţi.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>3.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_La Bucovina.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_La moartea principelui Ştirbey.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>858 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_La mormântul lui Aron Pumnul.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Lasă-ţi lumea.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.5 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Luceafărul.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>10.8 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Mai am un singur dor.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>828 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Mănuşa.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Melancolie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.8 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Misterele nopţii.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Mortua est.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>2.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Noaptea.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.1 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Nu mă înţelegi.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Nu voi mormânt bogat.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>832 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Numai poetul.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>341 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_O mamă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>843 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_O rămâi.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>797 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Odă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>699 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Pajul Cupidon.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>984 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Pe aceeaşi ulicioară.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>878 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Pe lângă plopii fără soţ.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Peste vârfuri.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>328 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Povestea codrului.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.4 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Scrisoarea I.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>8.3 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Scrisoarea II.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>4.3 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Scrisoarea III.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>14.5 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Scrisoarea V.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>6.3 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Scrisoarea IV.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>7.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Mihai Eminescu_Seara pe deal.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+      </Resources>
+      <References/>
+   </Session>
+</METATRANSCRIPT>

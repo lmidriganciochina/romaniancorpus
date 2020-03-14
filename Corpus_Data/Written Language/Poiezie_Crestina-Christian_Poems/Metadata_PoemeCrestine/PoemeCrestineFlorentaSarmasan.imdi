@@ -1,0 +1,2431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-03-04"
+                FormatId="IMDI 3.04"
+                Originator="CMDI Maker by CLASS - Cologne Language Archive Services"
+                Type="SESSION"
+                Version="1.0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+   <Session>
+      <Name>PoemeCrestineFlorentaSarmasan</Name>
+      <Title>Florenta Sarmasan</Title>
+      <Date>Unspecified</Date>
+      <Description LanguageId="ISO639-3:eng"
+                   Link=""/>
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">North-America</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="OpenVocabulary">United States</Country>
+            <Region>California</Region>
+            <Address>Davis</Address>
+         </Location>
+         <Project>
+            <Name>Balanced Romanian Corpus(BRC)</Name>
+            <Title>BRC</Title>
+            <Id/>
+            <Contact>
+               <Name>Ludmila M Ciochina</Name>
+               <Address/>
+               <Email>midriganludmila@gmail.com</Email>
+               <Organisation>University of California, Davis</Organisation>
+            </Contact>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+         </Project>
+         <Keys></Keys>
+         <Content>
+            <Genre Link="http://www.mpi.nl/IMDI/Schema/Content-Genre.xml"
+                   Type="OpenVocabulary">Poetry</Genre>
+            <SubGenre Link="http://www.mpi.nl/IMDI/Schema/Content-SubGenre.xml"
+                      Type="OpenVocabularyList">Poeme Crestine_Christian Poems</SubGenre>
+            <Task Link="http://www.mpi.nl/IMDI/Schema/Content-Task.xml"
+                  Type="OpenVocabulary">Unspecified</Task>
+            <Modalities Link="http://www.mpi.nl/IMDI/Schema/Content-Modalities.xml"
+                        Type="OpenVocabulary"/>
+            <Subject Link="http://www.mpi.nl/IMDI/Schema/Content-Subject.xml"
+                     Type="OpenVocabularyList"/>
+            <CommunicationContext>
+               <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary">Unspecified</Interactivity>
+               <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary">Unspecified</PlanningType>
+               <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary">Unspecified</Involvement>
+               <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary">Unspecified</SocialContext>
+               <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary">Unspecified</EventStructure>
+               <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary"/>
+            </CommunicationContext>
+            <Languages>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+               <Language>
+                  <Id>ISO639-3:ron</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Romanian</Name>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+               </Language>
+               <Language>
+                  <Id>ISO639-3:ron</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Romanian</Name>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+               </Language>
+            </Languages>
+            <Keys/>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+         </Content>
+         <Actors>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Author</Role>
+               <Name>Florenta Sarmasan</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+         </Actors>
+      </MDGroup>
+      <Resources>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_A înviat Isus, creştini!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>552 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_ Din moarte a înviat Cel Bun şi Drept!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>955 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Ai Săi îngeri vor veni.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>548 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Călare pe un asin venea….txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Cerul vreau să-mi fie casă!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>960 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Cu Tine voi birui Isus.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>710 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Curând, El va veni pe nori.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>924 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Dacă Domnul a-nviat....txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>486 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_De sunt pe un pământ străin.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>782 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Din morţi a înviat Isus.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>536 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Domnul cel Sfânt rostuieşte.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>718 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Domnul Sfânt a înviat.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>487 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Este noptea de Înviere.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>500 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Eşti la cârma vieţii mele.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>697 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Fii milos cu cel sărac!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>676 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Gândul departe mă duce....txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>721 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Hotărât pe calea dreaptă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>911 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Ierusalimul Te aşteaptă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1003 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Înainte voi păşi.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>931 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Îngerii Tăi minunaţi înspre Tine m-or conduce.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.3 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Inima ta, acum cântă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.1 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Isus să Te însoţească!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>808 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Jertfa de la Golgota.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>828 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_La cer şi eu Te voi slăvi.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>741 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Lanţul morţii l-ai zdrobit.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>800 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Lasă-ţi inima să cânte!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>716 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Laurii credinţei.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>914 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Mă pot numi fericit.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.1 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Mielul de jertfă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Nădejdea mea e doar la Tine.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>810 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_N-ai vrut ca să fiu pierdut.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>970 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_N-aş putea să uit, Isus....txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>730 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Nu te încrede în tine însuţi!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>750 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Nu vreau să păcătuiesc.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>739 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Nu vreau să Te pierd, Isus.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>713 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Nu-i treaba noastră să aflăm....txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>828 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_O, vino Doamne, să scăpăm de toate!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>861 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Oare poţi, creştine bun_....txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>761 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Pe calea credinţei, să nu osteneşti!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>917 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Pe calea vieţii noastre întâlnim....txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1009 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Secerişul nu-i departe.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>973 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Simt că sunt un om bogat.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>729 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Sus, crucile s-au înălţat.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Te-am găsit, nu Te mai las!.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>937 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Tu Doamne, toate mi le-ai dat.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>827 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Tu eşti tot ce am pe această lume.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Tu, cu gura Ta ai spus....txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>733 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Un tăciune scos din foc.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>604 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Vei avea curaj în toate.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>705 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Vorbe pline de putere.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>694 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Florenta Sarmasan_Vreau a Ta Împărăţie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>727 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+      </Resources>
+      <References/>
+   </Session>
+</METATRANSCRIPT>

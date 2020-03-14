@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-03-02"
+                FormatId="IMDI 3.04"
+                Originator="CMDI Maker by CLASS - Cologne Language Archive Services"
+                Type="SESSION"
+                Version="1.0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+   <Session>
+      <Name>Poems</Name>
+      <Title>Ana Blandiana</Title>
+      <Date>Unspecified</Date>
+      <Description LanguageId="ISO639-3:eng"
+                   Link=""/>
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">North-America</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="OpenVocabulary">United States</Country>
+            <Region>California</Region>
+            <Address/>
+         </Location>
+         <Project>
+            <Name>Balanced Romanian Corpus (BRC)</Name>
+            <Title>BRC</Title>
+            <Id/>
+            <Contact>
+               <Name>Ludmila M Ciochina</Name>
+               <Address/>
+               <Email>midriganludmila@gmail.com</Email>
+               <Organisation>University of California, Davis </Organisation>
+            </Contact>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+         </Project>
+         <Keys></Keys>
+         <Content>
+            <Genre Link="http://www.mpi.nl/IMDI/Schema/Content-Genre.xml"
+                   Type="OpenVocabulary">Poetry</Genre>
+            <SubGenre Link="http://www.mpi.nl/IMDI/Schema/Content-SubGenre.xml"
+                      Type="OpenVocabularyList">Poems_Poetry</SubGenre>
+            <Task Link="http://www.mpi.nl/IMDI/Schema/Content-Task.xml"
+                  Type="OpenVocabulary">Unspecified</Task>
+            <Modalities Link="http://www.mpi.nl/IMDI/Schema/Content-Modalities.xml"
+                        Type="OpenVocabulary"/>
+            <Subject Link="http://www.mpi.nl/IMDI/Schema/Content-Subject.xml"
+                     Type="OpenVocabularyList"/>
+            <CommunicationContext>
+               <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary">Unspecified</Interactivity>
+               <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary">Unspecified</PlanningType>
+               <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary">Unspecified</Involvement>
+               <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary">Unspecified</SocialContext>
+               <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary">Unspecified</EventStructure>
+               <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary"/>
+            </CommunicationContext>
+            <Languages>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+               <Language>
+                  <Id>ISO639-3:ron</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Romanian</Name>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+               </Language>
+               <Language>
+                  <Id>ISO639-3:ron</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Romanian</Name>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+               </Language>
+            </Languages>
+            <Keys/>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+         </Content>
+         <Actors>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Author</Role>
+               <Name>Ana Blandiana</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+         </Actors>
+      </MDGroup>
+      <Resources>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Am crescut.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>463 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Arhitectură-n mişcare.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>773 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Aud.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>486 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Avram Iancu.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>893 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Balada vămilor.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.8 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Călătorie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>319 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Cântec de miner tânăr.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>889 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Cântecul.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>718 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Carantină.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>704 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Contratimp.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>508 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Copilărie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>451 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Dans în ploaie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>818 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_De bună voie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>652 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Delimitări.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>357 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_De dragoste.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>603 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Descântec de ploaie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.4 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Două cruci.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>509 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Eclipsă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>635 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Iarna stelele.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>261 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_În somn.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>465 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Întâlnire.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>418 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Învaţă-mă să ard întunecat.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>644 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_La ce serveşte bucuria.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>403 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Lasă-mi toamnă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>565 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Legături.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>489 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Mamă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>527 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Nealegere.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>411 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Ninge cu duşmănie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>519 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Numai iubirea.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>386 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Poate că mă visează cineva.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>526 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Refren.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>1.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Rugă.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>586 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Să lăsăm să cadă cuvintele.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>292 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Se face noapte.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>451 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Silabe.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>499 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Ştiu puritatea.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>616 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Te întreb.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>363 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Ana Blandiana_Voi ştiţi ceva.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>446 B</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+      </Resources>
+      <References/>
+   </Session>
+</METATRANSCRIPT>

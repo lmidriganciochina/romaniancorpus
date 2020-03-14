@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-03-06"
+                FormatId="IMDI 3.04"
+                Originator="CMDI Maker by CLASS - Cologne Language Archive Services"
+                Type="CORPUS"
+                Version="1.0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+   <Corpus>
+      <Name>BalancedRomanianCorpus</Name>
+      <Title>Written Language </Title>
+      <Description LanguageId="ISO639-3:eng"/>
+      <CorpusLink Name="StiriAndoniCinci">StiriAndoniCinci.imdi</CorpusLink>
+      <CorpusLink Name="StiriBalancini">StiriBalancini.imdi</CorpusLink>
+      <CorpusLink Name="StiriBotnariuc">StiriBotnariuc.imdi</CorpusLink>
+      <CorpusLink Name="StiriSorinaBujarov">StiriSorinaBujarov.imdi</CorpusLink>
+      <CorpusLink Name="StiriOlgaBulat">StiriOlgaBulat.imdi</CorpusLink>
+      <CorpusLink Name="StiriCiobanu">StiriCiobanu.imdi</CorpusLink>
+      <CorpusLink Name="StiriAlionaCiurca">StiriAlionaCiurca.imdi</CorpusLink>
+      <CorpusLink Name="StiriAnaCovrig">StiriAnaCovrig.imdi</CorpusLink>
+      <CorpusLink Name="StiriNicolaeCuschevici">StiriNicolaeCuschevici.imdi</CorpusLink>
+      <CorpusLink Name="StiriValentinEsanu">StiriValentinEsanu.imdi</CorpusLink>
+      <CorpusLink Name="StiriEtco">StiriEtco.imdi</CorpusLink>
+      <CorpusLink Name="StiriGideiToader">StiriGideiToader.imdi</CorpusLink>
+      <CorpusLink Name="StiriIurieGotisan">StiriIurieGotisan.imdi</CorpusLink>
+      <CorpusLink Name="StiriAnetaGrosu">StiriAnetaGrosu.imdi</CorpusLink>
+      <CorpusLink Name="StiriPetruGrozavu">StiriPetruGrozavu.imdi</CorpusLink>
+      <CorpusLink Name="StiriVictorGrozu">StiriVictorGrozu.imdi</CorpusLink>
+      <CorpusLink Name="StiriLiliaGulca">StiriLiliaGulca.imdi</CorpusLink>
+      <CorpusLink Name="StiriPaulHodogorea">StiriPaulHodogorea.imdi</CorpusLink>
+      <CorpusLink Name="StiriDianaLungu">StiriDianaLungu.imdi</CorpusLink>
+      <CorpusLink Name="StiriIgorMosneag">StiriIgorMosneag.imdi</CorpusLink>
+      <CorpusLink Name="StiriAnastasiaNani">StiriAnastasiaNani.imdi</CorpusLink>
+      <CorpusLink Name="StiriLidiaOprea">StiriLidiaOprea.imdi</CorpusLink>
+      <CorpusLink Name="StiriIonPlop">StiriIonPlop.imdi</CorpusLink>
+      <CorpusLink Name="StiriAlinaRadu">StiriAlinaRadu.imdi</CorpusLink>
+      <CorpusLink Name="StiriDianaRailean">StiriDianaRailean.imdi</CorpusLink>
+      <CorpusLink Name="StiriOxanaRuss">StiriOxanaRuss.imdi</CorpusLink>
+      <CorpusLink Name="StiriIurieSanduta">StiriIurieSanduta.imdi</CorpusLink>
+      <CorpusLink Name="StiriNataliaSeverin">StiriNataliaSeverin.imdi</CorpusLink>
+      <CorpusLink Name="StiriCosminaStratan">StiriCosminaStratan.imdi</CorpusLink>
+      <CorpusLink Name="StiriMarianSuraMura">StiriMarianSuraMura.imdi</CorpusLink>
+      <CorpusLink Name="StiriRuxandaTeodor">StiriRuxandaTeodor.imdi</CorpusLink>
+      <CorpusLink Name="StiriMarianaVerdes">StiriMarianaVerdes.imdi</CorpusLink>
+      <CorpusLink Name="StiriZiarul_de_gard">StiriZiarul_de_gard.imdi</CorpusLink>
+      <CorpusLink Name="StiriAhtemenciuc">StiriAhtemenciuc.imdi</CorpusLink>
+      <CorpusLink Name="StiriVladimirPolusatov">StiriVladimirPolusatov.imdi</CorpusLink>
+      <CorpusLink Name="StiriSimionCiochină">StiriSimionCiochină.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

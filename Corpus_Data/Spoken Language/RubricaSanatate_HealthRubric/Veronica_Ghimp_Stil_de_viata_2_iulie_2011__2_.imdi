@@ -1,0 +1,2335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2020-03-13"
+                FormatId="IMDI 3.04"
+                Originator="CMDI Maker by CLASS - Cologne Language Archive Services"
+                Type="SESSION"
+                Version="1.0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI http://www.mpi.nl/IMDI/Schema/IMDI_3.0.xsd">
+   <Session>
+      <Name>Veronica_Ghimp_Stil_de_viata_2_iulie_2011__2_</Name>
+      <Title>Stil de Viata</Title>
+      <Date>Unspecified</Date>
+      <Description LanguageId="ISO639-3:eng"
+                   Link=""/>
+      <MDGroup>
+         <Location>
+            <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">North-America</Continent>
+            <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="OpenVocabulary">United States</Country>
+            <Region>California</Region>
+            <Address>Davis</Address>
+         </Location>
+         <Project>
+            <Name>Balanced Romanian Corpus(BRC)</Name>
+            <Title>BRC</Title>
+            <Id/>
+            <Contact>
+               <Name>Ludmila M Ciochina</Name>
+               <Address/>
+               <Email>midriganludmila@gmail.com</Email>
+               <Organisation>University of California, Davis</Organisation>
+            </Contact>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+         </Project>
+         <Keys></Keys>
+         <Content>
+            <Genre Link="http://www.mpi.nl/IMDI/Schema/Content-Genre.xml"
+                   Type="OpenVocabulary">Radio/TV feature</Genre>
+            <SubGenre Link="http://www.mpi.nl/IMDI/Schema/Content-SubGenre.xml"
+                      Type="OpenVocabularyList">Sanatate_ Health</SubGenre>
+            <Task Link="http://www.mpi.nl/IMDI/Schema/Content-Task.xml"
+                  Type="OpenVocabulary">Unspecified</Task>
+            <Modalities Link="http://www.mpi.nl/IMDI/Schema/Content-Modalities.xml"
+                        Type="OpenVocabulary"/>
+            <Subject Link="http://www.mpi.nl/IMDI/Schema/Content-Subject.xml"
+                     Type="OpenVocabularyList"/>
+            <CommunicationContext>
+               <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary">Unspecified</Interactivity>
+               <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary">Unspecified</PlanningType>
+               <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary">Unspecified</Involvement>
+               <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary">Unspecified</SocialContext>
+               <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary">Unspecified</EventStructure>
+               <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary"/>
+            </CommunicationContext>
+            <Languages>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+               <Language>
+                  <Id>ISO639-3:ron</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Romanian</Name>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+               </Language>
+               <Language>
+                  <Id>ISO639-3:ron</Id>
+                  <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Romanian</Name>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+               </Language>
+            </Languages>
+            <Keys/>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+         </Content>
+         <Actors>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Veronica Ghimp</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">false</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">false</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>33</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">Moldovan Writer, Journalist and Singer. </Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Author</Role>
+               <Name>Artur Cerari</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Daniela Ghimp</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">Moldovan Singer and Journalist </Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Researcher</Role>
+               <Name>Diana Malancea</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Researcher</Role>
+               <Name>Doina Midrigan</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Student</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>18</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name> Elena</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Oleg Echim </Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">antrenor Muay Thai</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Alexandru Cojocari</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Alexandru Morari</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Andrei Pronin</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Ina Sudzilovschi </Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">amatoare de Muay Thai</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Alexandr Bardis </Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">instructor de fitnes</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Gheorghe Zagorodniuc </Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">medic kinetoterapeut</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Nina Orosciuc</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">amatoare de Muay Thai</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Radu Botnariuc </Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">marketing manager</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Vasile Iftode</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Tatiana Danilov </Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""> sef de laborator clinica private</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Unspecified</Role>
+               <Name>Sergiu Frunză</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Author</Role>
+               <Name>Serghei Crajanovschi</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Ruslan Lupu</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Oleg Maleșevschi</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Unspecified</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Oxana Brumă</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Nina Ghidului</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Natalia Patrașcu</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Ludmila Izverschi </Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">director centrul homepatic</Description>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Liliana Pușcașu</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Dmitrii Stoianov</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Anatolie Botnaru</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Actor>
+            <Actor>
+               <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+               <Name>Ana Chirilenco</Name>
+               <FullName/>
+               <Code/>
+               <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+               <Languages>
+                  <Description LanguageId="ISO639-3:eng"
+                               Link=""/>
+                  <Language>
+                     <Id>ISO639-3:ron</Id>
+                     <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Romanian</Name>
+                     <MotherTongue Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                   Type="ClosedVocabulary">true</MotherTongue>
+                     <PrimaryLanguage Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                                      Type="ClosedVocabulary">true</PrimaryLanguage>
+                     <Description LanguageId="ISO639-3:eng"
+                                  Link=""/>
+                  </Language>
+               </Languages>
+               <EthnicGroup/>
+               <Age>Unspecified</Age>
+               <BirthDate>Unspecified</BirthDate>
+               <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Female</Sex>
+               <Education>Unspecified</Education>
+               <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                           Type="ClosedVocabulary">false</Anonymized>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Keys/>
+               <Description LanguageId="ISO639-3:eng"
+                            Link="">  spa cosmetology</Description>
+            </Actor>
+         </Actors>
+      </MDGroup>
+      <Resources>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp Stil de viata 8 aprilie 2012 Publika Tv.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>101.9 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp, Stil de viata 24 septembrie 2011 Publika.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>119.8 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp_ Stil de viata 16 iulie 2011.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>107.4 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp_Stil de viata 2 iulie 2011.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>52.4 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp_Stil de viata 2 iulie 2011_part2.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>69.9 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp_Stil de viata 4 iunie 2011.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>56.7 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp_Stil de viata 23 aprilie 2011.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>66.4 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp_Stil de viata 26 februarie 2012.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>125.4 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp_Stil de viață 26 martie2.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>65.3 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <MediaFile>
+            <ResourceLink>Veronica Ghimp-Stil de viata 26 martie 2011.wav</ResourceLink>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+            <Size>47.7 MB</Size>
+            <Quality Link="http://www.mpi.nl/IMDI/Schema/Quality.xml"
+                     Type="ClosedVocabulary">Unspecified</Quality>
+            <RecordingConditions/>
+            <TimePosition>
+               <Start>Unspecified</Start>
+               <End>Unspecified</End>
+            </TimePosition>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </MediaFile>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 2 iulie 2011 (2).txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>9.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 2 iulie 2011.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>13.4 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 4 iunie 2011 (2).txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>10.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 4 iunie 2011.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>6.3 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 18 iunie 2011 (2).txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>8.6 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 18 iunie 2011.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>9.5 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 23 aprilie 2011 (2).txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>11.1 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 23 aprilie 2011.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>7.2 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 26 februarie 2012.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>21.7 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 26 martie 2011.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>8.5 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viață 26 martie.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>10.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil De Viață.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>8.6 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viață_ 24 septembrie 2011.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>19.7 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp Stil de viata 8 aprilie 2012 Publika Tv.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>12.3 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_ Stil de viata 16 iulie 2011.txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>18.0 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+         <WrittenResource>
+            <ResourceLink>Veronica Ghimp_Stil de viata 2 iulie 2011 (2).txt</ResourceLink>
+            <MediaResourceLink/>
+            <Date>Unspecified</Date>
+            <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Unspecified</Type>
+            <SubType Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType.xml"
+                     Type="OpenVocabularyList">Unspecified</SubType>
+            <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/plain</Format>
+            <Size>9.9 KB</Size>
+            <Validation>
+               <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary"/>
+               <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary"/>
+               <Level>Unspecified</Level>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Validation>
+            <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary"/>
+            <CharacterEncoding/>
+            <ContentEncoding/>
+            <LanguageId/>
+            <Anonymized Link="http://www.mpi.nl/IMDI/Schema/Boolean.xml"
+                        Type="ClosedVocabulary">Unspecified</Anonymized>
+            <Access>
+               <Availability/>
+               <Date/>
+               <Owner/>
+               <Publisher/>
+               <Contact>
+                  <Name/>
+                  <Address/>
+                  <Email/>
+                  <Organisation/>
+               </Contact>
+               <Description LanguageId="ISO639-3:eng"
+                            Link=""/>
+            </Access>
+            <Description LanguageId="ISO639-3:eng"
+                         Link=""/>
+            <Keys/>
+         </WrittenResource>
+      </Resources>
+      <References/>
+   </Session>
+</METATRANSCRIPT>
